@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Gliders",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pVIWsXir",
+      "slug": "reliable-gliders",
+      "versionId": "HFLhMfNC",
+      "versionNumber": "1.4.1-1.21.1-neoforge",
+      "filename": "reliable_gliders-neoforge-1.21.1-1.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pVIWsXir/versions/HFLhMfNC/reliable_gliders-neoforge-1.21.1-1.4.1.jar",
+      "sha1": "899219e59e9ec861d200ceef43e77c5ab8d71ea7",
+      "sha512": "500cb3b309c9a265a8d4f97992e37896fec85e92df121c1eb798fc896f379beb8ba0815c54aa1f0c1a22d2353573868dcee8be957b95761b57610a73e11de009",
+      "fileSize": 60923
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

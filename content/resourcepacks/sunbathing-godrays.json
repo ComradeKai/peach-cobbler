@@ -1,0 +1,23 @@
+{
+  "name": "Sunbathing Godrays",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YSIJ1xkc",
+      "slug": "sunbathing-godrays",
+      "versionId": "W0ngnn3S",
+      "versionNumber": "1.10",
+      "filename": "sunbathing-v1.10.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/YSIJ1xkc/versions/W0ngnn3S/sunbathing-v1.10.zip",
+      "sha1": "dc69de83dd1ffbd32649cd2967bde055df4846b9",
+      "sha512": "48338e7760977dba2af859115d5e85729a22705b269eac1c902eff7dd6ec3ebc37b5b6404ebd424f1cda2cb3b854626c6478c402587afbc997a737c78dc7f211",
+      "fileSize": 1398351
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

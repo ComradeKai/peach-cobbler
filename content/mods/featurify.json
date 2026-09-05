@@ -1,0 +1,23 @@
+{
+  "name": "Featurify - WorldGen Control",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BXeGCdww",
+      "slug": "featurify",
+      "versionId": "ZpKM7Hgb",
+      "versionNumber": "neoforge-2.0.9+mc1.21.1",
+      "filename": "featurify-neoforge-2.0.9+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BXeGCdww/versions/ZpKM7Hgb/featurify-neoforge-2.0.9%2Bmc1.21.1.jar",
+      "sha1": "2560939390f41f5dbe7616b6ddb732ab68b0a62e",
+      "sha512": "720af86a0ad709c7db7113c30b719741e5d7c0e578ab7c22e795620b89bfee7d5a9ff6b8117aa34ffb1a39c82d68744c55f300b85cc156203d36ad795e135e59",
+      "fileSize": 278416
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Snitch",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vLWeIw8U",
+      "slug": "snitch",
+      "versionId": "HajWBugq",
+      "versionNumber": "1.0.0",
+      "filename": "snitch-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vLWeIw8U/versions/HajWBugq/snitch-1.0.0.jar",
+      "sha1": "57e91c1f89e244e931282f06fadec27eb1495a75",
+      "sha512": "fad9442fdc1a24dd245e2c8f525d06fef22033d86630f20f6a99f7039776c1c344a58ce0f7ee4add844721294b7e63b858a1ad43afba07beeead48cfb971e221",
+      "fileSize": 12160
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "SwingThrough",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JyKlunuD",
+      "slug": "swingthrough",
+      "versionId": "ELQQ49mK",
+      "versionNumber": "1.0.5+1.21",
+      "filename": "swingthrough-1.0.5+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JyKlunuD/versions/ELQQ49mK/swingthrough-1.0.5%2B1.21.jar",
+      "sha1": "26c5eee723332dd309879f176eadcc2871fbc2c5",
+      "sha512": "57111027f7a8297ad664b54ac13dd60c4b4876cee3cffd2e95b20acec9eb069ba7cc794fa40ffa35093e015a3e094a334e61226336743288d18b3c2e59a97b4b",
+      "fileSize": 23523
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

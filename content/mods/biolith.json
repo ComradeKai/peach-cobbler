@@ -1,0 +1,25 @@
+{
+  "name": "Biolith",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "iGEl6Crx",
+      "slug": "biolith",
+      "versionId": "7VJXS9CG",
+      "versionNumber": "3.0.13",
+      "filename": "biolith-neoforge-3.0.13.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iGEl6Crx/versions/7VJXS9CG/biolith-neoforge-3.0.13.jar",
+      "sha1": "9d8c8404491328864c251d96133a47db32b8b7d8",
+      "sha512": "54ecc30c0e2d92e367bc1b751b6e7803acd7eccbfa2157757852ef65dca01e10e43f12619a6cd0426100e10bffa50583380eb0f51419fdccd10525a56b6d8e8a",
+      "fileSize": 219374
+    }
+  },
+  "dependents": [
+    "N8ZATCCG"
+  ],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

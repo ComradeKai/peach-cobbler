@@ -1,0 +1,23 @@
+{
+  "name": "Pause Day Cycle",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8fDygXCb",
+      "slug": "pause-day-cycle",
+      "versionId": "KQWm3NrZ",
+      "versionNumber": "1.1.1+mod",
+      "filename": "pause-day-cycle-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8fDygXCb/versions/KQWm3NrZ/pause-day-cycle-1.1.1.jar",
+      "sha1": "76d53c6b414ac5fba219d9d13677662c9b0fc9de",
+      "sha512": "d1f4c6768bdd9811d4b1be8752f3321ffa53c351ce31cb6ec126b27200838a8d6edf8faef69252b36277c3d1238775cf0f591eada7f3e2479cf3f251f7504091",
+      "fileSize": 402185
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

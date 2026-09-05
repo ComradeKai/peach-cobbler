@@ -1,0 +1,23 @@
+{
+  "name": "Farcr's Re-Create",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7VDyaMyP",
+      "slug": "farcrs-re-create",
+      "versionId": "KJPVyL5W",
+      "versionNumber": "V1.6",
+      "filename": "Farcr's Re-Create 1.6.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/7VDyaMyP/versions/KJPVyL5W/Farcr%27s%20Re-Create%201.6.zip",
+      "sha1": "e5e4f18a3c97f227071242d127914c51048f0a31",
+      "sha512": "e01576f6d529f5ec4e42c67510264e0aa6db86e361eebb3140530a1d99d92a95ec23f6b8f3882dec8e6c8515c3fad34a447baee623cde672774f5b6676e18802",
+      "fileSize": 152617
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

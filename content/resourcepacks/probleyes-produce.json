@@ -1,0 +1,23 @@
+{
+  "name": "Probleyes' Produce",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QCxWGCms",
+      "slug": "probleyes-produce",
+      "versionId": "hNxBdM51",
+      "versionNumber": "1.6",
+      "filename": "probleyes_produce_1.6.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/QCxWGCms/versions/hNxBdM51/probleyes_produce_1.6.zip",
+      "sha1": "73591d22aff190c9eba141782bddd4a64f590cfa",
+      "sha512": "f63d7c149e95629f0136fca6a541f59e65ca7914c30fc688dfa86e6e23f6d279b044e0a7fa73351a8b30d109c52bb03975a7046e2e4c785c5c15cc727f28be97",
+      "fileSize": 233511
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

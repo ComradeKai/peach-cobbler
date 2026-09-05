@@ -1,0 +1,23 @@
+{
+  "name": "Thief",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dGtSkt4t",
+      "slug": "thief",
+      "versionId": "Zhr0tVOO",
+      "versionNumber": "1.2.4",
+      "filename": "thief-neoforge-1.21.1-1.2.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dGtSkt4t/versions/Zhr0tVOO/thief-neoforge-1.21.1-1.2.4.jar",
+      "sha1": "b60329465bd719462d171a320ca39134c990ab47",
+      "sha512": "efb6537917445fbafde083f40e4308ee3b1cd40e97576edc4e2b79b2e951668710492e973846898b94ec3d5eed497bb2eceef1e7dd281e9ea2c4f3c2fadb7d29",
+      "fileSize": 350679
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

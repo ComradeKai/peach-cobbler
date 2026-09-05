@@ -1,0 +1,23 @@
+{
+  "name": "Neutral Sea Grass and Kelp",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8ghwqRQt",
+      "slug": "neutral-sea-grass-and-kelp",
+      "versionId": "g8xli2Lb",
+      "versionNumber": "1",
+      "filename": "Neutral Sea Grass and Kelp.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/8ghwqRQt/versions/g8xli2Lb/Neutral%20Sea%20Grass%20and%20Kelp.zip",
+      "sha1": "71100055dd89ac57d165eca897f8d89e69395bcd",
+      "sha512": "d9e28b8a912227f27e2a199f6a53d8187394f8ae26958e8f9fa4a4260b7a3f034b9612761f81383e0c07387142d4a2f8a99957e8245d2cfa379697fb5106ffa1",
+      "fileSize": 62501
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

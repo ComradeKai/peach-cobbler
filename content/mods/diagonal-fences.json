@@ -1,0 +1,23 @@
+{
+  "name": "Diagonal Fences",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "IKARgflD",
+      "slug": "diagonal-fences",
+      "versionId": "bgR1e0O5",
+      "versionNumber": "v21.1.1-1.21.1-NeoForge",
+      "filename": "DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IKARgflD/versions/bgR1e0O5/DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
+      "sha1": "d77da342ec4fcdea694911cba068e310a0230621",
+      "sha512": "856e035193eb99264321e6d971881bad14baeb7196cb3ae75463457802dfb4d967eaec27a046e1290f074721fc1cd85d59adfd773a287b159a7baac1435c09d1",
+      "fileSize": 171557
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Create: Colored Packages",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Xv1iRJI2",
+      "slug": "create-colored-packages",
+      "versionId": "jzKNpnf0",
+      "versionNumber": "1.1.1+1.21.1",
+      "filename": "colored_packages-neoforge-1.1.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Xv1iRJI2/versions/jzKNpnf0/colored_packages-neoforge-1.1.1%2B1.21.1.jar",
+      "sha1": "9409fb59f8b430117f663f71cd2bb71ddd2a10e4",
+      "sha512": "f95159ec5623ff2d0786d6813b1091a9ed3dc3c2eccdd8244eeac680f55c53ff55d3e4e9ff9cc82d0ddce8bef900553e302ef8a86c2dc067a02e72e3dd2bed03",
+      "fileSize": 601990
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

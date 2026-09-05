@@ -1,0 +1,25 @@
+{
+  "name": "[ETF] Entity Texture Features",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BVzZfTc1",
+      "slug": "entitytexturefeatures",
+      "versionId": "XEJeKpgJ",
+      "versionNumber": "7.2.1-neoforge-1.21",
+      "filename": "entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/XEJeKpgJ/entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "sha1": "908d09263709193b918fdc9ca0d79c9d90c4a531",
+      "sha512": "8158242ce79b38a613de7696221eae24c9a451040143fbe43f8d8a37329d7debcb6164c0d42177d2f7db306e54f2d7bbd99eee74add39ad3871c70754edd8cb7",
+      "fileSize": 783217
+    }
+  },
+  "dependents": [
+    "4I1XuqiY"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

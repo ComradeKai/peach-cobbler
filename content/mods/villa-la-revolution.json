@@ -1,0 +1,23 @@
+{
+  "name": "Villa la Revolution",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rFXDUg5B",
+      "slug": "villa-la-revolution",
+      "versionId": "hvCYikeE",
+      "versionNumber": "1.0.0",
+      "filename": "villalarevolution-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rFXDUg5B/versions/hvCYikeE/villalarevolution-1.0.0.jar",
+      "sha1": "2aec667c8b87f64c35b600f08a6521672e3ed616",
+      "sha512": "f4e49b6ac269af09e6255dcf2ce8b6e50eb4c2193094a7f17a8c5a80c2f571051f38e4ac4bfc0885aa814dd4850375edca3bc547067950c3a9943f00aa6acf11",
+      "fileSize": 46822
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

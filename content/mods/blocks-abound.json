@@ -1,0 +1,23 @@
+{
+  "name": "Blocks Abound",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "iIQCWW5p",
+      "slug": "blocks-abound",
+      "versionId": "FA7fiSfl",
+      "versionNumber": "0.3.0",
+      "filename": "blocksabound-0.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iIQCWW5p/versions/FA7fiSfl/blocksabound-0.3.0.jar",
+      "sha1": "571daf6f10bf08306b316720382cbdd7f81f5cb5",
+      "sha512": "9e6756e9fe4b6c7992876a0de2f7a6aaf7482fa76f9624a2fbf078c7ea0693497446337e009c88ee8e21afc4512b17b9e547bcc3c4b8debe4725d6b2263b5009",
+      "fileSize": 665454
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

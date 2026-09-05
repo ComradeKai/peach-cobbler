@@ -1,0 +1,23 @@
+{
+  "name": "Modded Gallery Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "cowTKSG6",
+      "slug": "gallery-portfolio-compat",
+      "versionId": "SNcnpqJJ",
+      "versionNumber": "1.6",
+      "filename": "ModdedGalleryCompat1.21.1-1.6.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/cowTKSG6/versions/SNcnpqJJ/ModdedGalleryCompat1.21.1-1.6.zip",
+      "sha1": "81e4f63414efecba7ac9450d7fa0a052033bb7c1",
+      "sha512": "59f5499c2adf3813bf7979bbecb5776f65c76053600d4f13a8668d711719b761313dccd849fb517545d4cfd90dab009d43a9ba0b6e06101c7637efa840fdf18c",
+      "fileSize": 233901
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

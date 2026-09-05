@@ -1,0 +1,23 @@
+{
+  "name": "Easy Building",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "t3wlJuW5",
+      "slug": "easy-building",
+      "versionId": "HxkdqSKS",
+      "versionNumber": "1.1.0",
+      "filename": "easybuilding-neoforge-1.21.1-v1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/t3wlJuW5/versions/HxkdqSKS/easybuilding-neoforge-1.21.1-v1.1.jar",
+      "sha1": "71af9283f28ac1f4f0ad2d0f7d92a0e519928a12",
+      "sha512": "89913e21adcb3a84f03f566d4b27972b739f3eb34f048e2541d435012d3daf16e12105bd61672c184eb7a8330eaf8c55e4feff15453568a8f56bc76f3819d47a",
+      "fileSize": 20727
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

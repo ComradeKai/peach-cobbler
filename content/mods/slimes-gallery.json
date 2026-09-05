@@ -1,0 +1,23 @@
+{
+  "name": "Slime's Gallery (DISCONTINUED)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4GW85ZH7",
+      "slug": "slimes-gallery",
+      "versionId": "NsEYq1qM",
+      "versionNumber": "1.0.6",
+      "filename": "slimes-gallery-1.0.6-1.21.1-multiloader.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4GW85ZH7/versions/NsEYq1qM/slimes-gallery-1.0.6-1.21.1-multiloader.jar",
+      "sha1": "ed94f208b3cd48586220cdd9dd08d695ea31f05c",
+      "sha512": "68555fa5b7f8bee34afaef71855a48e77b0465c9b9e5e5ff8450d18343bbddee7654ec721a6d625c483d0807c3ba4a21c279c25c08d69a0e5daf7098201076b1",
+      "fileSize": 1939236
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

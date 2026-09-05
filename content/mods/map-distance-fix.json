@@ -1,0 +1,23 @@
+{
+  "name": "Map Distance Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "51BNNAng",
+      "slug": "map-distance-fix",
+      "versionId": "endXjhx0",
+      "versionNumber": "1.1.2+mc1.21-1.21.11",
+      "filename": "mapdistancefix-neoforge-1.1.2+mc1.21-1.21.11.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/51BNNAng/versions/endXjhx0/mapdistancefix-neoforge-1.1.2%2Bmc1.21-1.21.11.jar",
+      "sha1": "1453b31d1bcb8f7ce0e89ef79ac4949f8c4bf055",
+      "sha512": "d74f419094340f7f446675e454826d943faf47898a4989d14d6e4ef1681b06614cbbd70ba7e1c4a618ec4c4fd96e4b2c3bc3fd8572f0913549144ed9dba79ff8",
+      "fileSize": 34458
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

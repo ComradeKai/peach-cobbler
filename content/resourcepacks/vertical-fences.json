@@ -1,0 +1,23 @@
+{
+  "name": "Vertical Fences",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hFsD0iTK",
+      "slug": "vertical-fences",
+      "versionId": "i9ZtoSGO",
+      "versionNumber": "0.2",
+      "filename": "vertical_fences_0.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/hFsD0iTK/versions/i9ZtoSGO/vertical_fences_0.2.zip",
+      "sha1": "8cbb2121bfda384acc24381d5b9a8f2d77f2b592",
+      "sha512": "87208c47ce85763948a95b97e40a1bd8f1dfad107bb921f1e65f9ade2932a7dee88dc49ff98242fc6a34ecc08c7de7200eb08a4141f4f3841abc27f99e136207",
+      "fileSize": 5646
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

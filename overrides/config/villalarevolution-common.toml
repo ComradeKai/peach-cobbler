@@ -1,0 +1,23 @@
+["Fletching Table"]
+	#Adds a GUI to the fletching table, allowing it to craft arrows from items, with a 50% output increase. Also allows for crafting spectral arrows by adding glowstone, and tipped arrows with splash potions.
+	enabled = true
+	#Number of arrows produced in the fletching table. The vanilla recipe produces 4.
+	# Default: 6
+	# Range: 1 ~ 64
+	arrow_count = 6
+
+["Remove Totems from Raids"]
+	#Prevent totems of undying from being dropped by evokers, unless they are in a woodland mansion. This makes it impossible to farm them in raids.
+	enabled = true
+
+["Reset Cartographer Maps"]
+	#Reset the maps of the cartographer when purchased, so each of them points to a different structure.
+	enabled = true
+
+["Reduce Iron Golem Spawns"]
+	#Change the time a villager remembers seeing a golem from 30 seconds to 5 minutes, slowing down their respawn rate.
+	enabled = true
+
+["Trades require Gossip"]
+	#Trades of villagers will not reset if they have not gossiped with another villager in 5 minutes. This effectively disables villager trade-halls which trap them in 1x1 boxes.
+	enabled = true

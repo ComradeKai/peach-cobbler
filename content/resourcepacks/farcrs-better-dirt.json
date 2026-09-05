@@ -1,0 +1,23 @@
+{
+  "name": "Farcr's Better Dirt",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5xAL8fnK",
+      "slug": "farcrs-better-dirt",
+      "versionId": "4WtJklkf",
+      "versionNumber": "V1.2",
+      "filename": "Farcr's Better Dirt V1.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/5xAL8fnK/versions/4WtJklkf/Farcr%27s%20Better%20Dirt%20V1.2.zip",
+      "sha1": "ca24365cb19f654c7c81fc089de600dfeedd75de",
+      "sha512": "1a4d188f8a258131d2b172889d7c91888b321fe9506c9853e41e5d41172323916014dfd0763213c87b629c4df4797d1d52b72c65711ec6e901970c72c17b7af3",
+      "fileSize": 262006
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

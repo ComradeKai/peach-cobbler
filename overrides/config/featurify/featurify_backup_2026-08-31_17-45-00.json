@@ -1,0 +1,9 @@
+{
+  "config_version": "2.0.7",
+  "config_datetime": "2026-08-30_23-28-26",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [],
+  "biomes": []
+}

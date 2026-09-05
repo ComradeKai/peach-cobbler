@@ -1,0 +1,23 @@
+{
+  "name": "Supplementaries Touch-Ups",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RmW2nLUP",
+      "slug": "supplementaries-touch-ups",
+      "versionId": "NcHFuN48",
+      "versionNumber": "0.2",
+      "filename": "Supplementaries Touch-Ups v0.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/RmW2nLUP/versions/NcHFuN48/Supplementaries%20Touch-Ups%20v0.2.zip",
+      "sha1": "3c9ec954dca86f6a3c7bd7441bc9cfc5593a5a5e",
+      "sha512": "27bdef0f6069d7a3fe2aad93e5bf9d4d7e259a78e7a440c76d95f712d4b8aa7d821f6898df373e22f77735b37012e6ec7e5c9c54f9f21ff99845ac4fcd4eecfd",
+      "fileSize": 287082
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

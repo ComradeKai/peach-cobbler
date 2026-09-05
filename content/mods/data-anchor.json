@@ -1,0 +1,25 @@
+{
+  "name": "Data Anchor",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "z2XEADmE",
+      "slug": "data-anchor",
+      "versionId": "XORWPtYC",
+      "versionNumber": "2.0.0.16-neoforge",
+      "filename": "Data_Anchor-neoforge-1.21.1-2.0.0.16.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/z2XEADmE/versions/XORWPtYC/Data_Anchor-neoforge-1.21.1-2.0.0.16.jar",
+      "sha1": "5ef03df60ebd2db6e97af2132b797bab82e99305",
+      "sha512": "89244cc912b4349fcd4acd30cac0d7f12ce7c8e79a26b93f1e1a7e35a30d52c4322426ba0ea86b88c905b26c6e347c4ba8406c92d6444e0984fb0f21eaf7963d",
+      "fileSize": 119142
+    }
+  },
+  "dependents": [
+    "FVToiKwr"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

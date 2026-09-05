@@ -1,0 +1,23 @@
+{
+  "name": "Hatson's Pigeons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "m7mtARQr",
+      "slug": "hatsons-pigeons",
+      "versionId": "nWFSR3NF",
+      "versionNumber": "1.0",
+      "filename": "Hatson's Pigeons.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/m7mtARQr/versions/nWFSR3NF/Hatson%27s%20Pigeons.zip",
+      "sha1": "a2b32b89e30f5015cf9ce45b409c3fb4a3cf216a",
+      "sha512": "07980f9c090ddf51bfb5b234ae98eaad3103e11cea0fee4bca380bac93f6a8da261c55d518310b14ca1f34dd1139d489ca1557aa9857fe18e400ff371a5b0228",
+      "fileSize": 37909
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

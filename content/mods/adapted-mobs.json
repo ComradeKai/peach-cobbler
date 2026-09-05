@@ -1,0 +1,23 @@
+{
+  "name": "Adapted Mobs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "H5xbZtYP",
+      "slug": "adapted-mobs",
+      "versionId": "vbCAjQ8D",
+      "versionNumber": "1.1.1-1.21.1-neoforge",
+      "filename": "AdaptedMobs-neoforge-1.21.1-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/H5xbZtYP/versions/vbCAjQ8D/AdaptedMobs-neoforge-1.21.1-1.1.1.jar",
+      "sha1": "da5c4403a74d525507f83e6d7fcbbd43c1f11170",
+      "sha512": "1010dea05778c1f29e0bf6e58700fe0598834192424666b0020de4d5642fcbeae0664199d20f42330cbe85558db0f5fa6cf3a95c0355bd4b39e2e66641dab1e2",
+      "fileSize": 554584
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

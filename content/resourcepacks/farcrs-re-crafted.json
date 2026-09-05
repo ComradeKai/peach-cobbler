@@ -1,0 +1,23 @@
+{
+  "name": "Farcr's Re-Crafted",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FGpR5ayB",
+      "slug": "farcrs-re-crafted",
+      "versionId": "9OTAu2w9",
+      "versionNumber": "2.28.1",
+      "filename": "Farcr's Re-Crafted V2.28.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/FGpR5ayB/versions/9OTAu2w9/Farcr%27s%20Re-Crafted%20V2.28.1.zip",
+      "sha1": "88c05b0ff382bc05251fbc0a6768fdf781cf4285",
+      "sha512": "d29ce4e348b6351514094673ec1ce5df70d7b0a1cdf5bfc5c8bc4a82685c151f7be1610046b31bbcafab56acf5fe9d1a52cd47422bf8ea62a4717b452e524b34",
+      "fileSize": 607665
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

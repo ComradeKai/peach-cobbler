@@ -1,0 +1,4 @@
+#Mods for the system to flag and detect
+unwantedDependencies = ["fabric_api"]
+#If the mod should print all embedded dependencies in the console
+printAllDependencies = true

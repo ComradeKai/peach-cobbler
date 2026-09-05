@@ -1,0 +1,23 @@
+{
+  "name": "Supplementaries Rope Tweaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kD6hlOxD",
+      "slug": "supplementaries-ropes-re-done",
+      "versionId": "uophRBRu",
+      "versionNumber": "2.0",
+      "filename": "Supplementaries Rope Redone v2.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/kD6hlOxD/versions/uophRBRu/Supplementaries%20Rope%20Redone%20v2.0.zip",
+      "sha1": "850338249733f0648fb9139e4b9d7f1e6be450cd",
+      "sha512": "8bdb2862b31e0a2c1286f4b869ac2ea7ee0a1926e57e7df11348042567cccdab11afbfc285c9614fb8fe1627fea17a8754979d12d1610b1456a74d5c0a3397dc",
+      "fileSize": 30972
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
