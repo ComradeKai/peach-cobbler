@@ -57,3 +57,6 @@ cherishedworlds-favorites.dat
 config/sodium-fingerprint.json
 xaero
 overrides/showdown
+cache
+config/fabric/indigo-renderer.properties
+config/everycomp-entries.toml

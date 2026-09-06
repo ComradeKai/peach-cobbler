@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.249**, 153 mods, 13 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.249**, 152 mods, 13 resource packs
 
 ## Contents
 
@@ -122,7 +122,6 @@
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `2.12.1-1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.7-build.85+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.5+mc1.21.1`
-- [Sage Brush](https://modrinth.com/project/sage-brush) `2.2.3`
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.4-fabric+forge+neo`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.5`
 - [Showcase Item](https://modrinth.com/project/showcase-item) `1.21.1-1.1.0`
