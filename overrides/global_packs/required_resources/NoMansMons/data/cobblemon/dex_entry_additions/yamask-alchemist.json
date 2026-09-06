@@ -1,0 +1,9 @@
+{
+  "entryId": "cobblemon:yamask",
+  "forms": [
+    {
+      "displayForm": "AncientBronze",
+      "unlockForms": ["AncientBronze"]
+    }
+  ]
+}

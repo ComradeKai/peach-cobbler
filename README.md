@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.249**, 152 mods, 13 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.249**, 155 mods (2 dependencies), 13 resource packs
 
 ## Contents
 
@@ -48,6 +48,7 @@
 - [Diagonal Windows](https://modrinth.com/project/diagonal-windows) `v21.1.1-1.21.1-NeoForge`
 - [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
+- [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.1.6-neoforge-mc1.21`
 - [Easy Anvils](https://modrinth.com/project/easy-anvils) `v21.1.0-1.21.1-NeoForge`
 - [Easy Building](https://modrinth.com/project/easy-building) `1.1.0`
 - [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `v21.1.3-1.21.1-NeoForge`
@@ -90,6 +91,7 @@
 - [Map Distance Fix](https://modrinth.com/project/map-distance-fix) `1.1.2+mc1.21-1.21.11`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [MidnightLib](https://modrinth.com/project/midnightlib) `1.9.3+1.21.1-neoforge`
+- [Miner's Delight](https://modrinth.com/project/miners-delight) `1.4.5`
 - [Modded Gallery Compat](https://modrinth.com/project/gallery-portfolio-compat) `1.6`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.24+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.6.1`
@@ -164,6 +166,7 @@
 - [Via Romana: Infrastructure-Driven Fast Travel](https://modrinth.com/project/via-romana) `2.2.3+1.21.1-neoforge`
 - [Villa la Revolution](https://modrinth.com/project/villa-la-revolution) `1.0.0`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.4.4`
+- [Wayward Attributes](https://modrinth.com/project/wayward-attributes) `1.1.1`
 - [Weaker Spiderwebs](https://modrinth.com/project/weaker-spiderwebs) `1.21.1-3.8-fabric+forge+neo`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.45.0`

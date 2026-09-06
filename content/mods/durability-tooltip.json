@@ -1,0 +1,23 @@
+{
+  "name": "Durability Tooltip",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "smUP7V3r",
+      "slug": "durability-tooltip",
+      "versionId": "mmYe9e5V",
+      "versionNumber": "1.1.6-neoforge-mc1.21",
+      "filename": "durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/smUP7V3r/versions/mmYe9e5V/durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+      "sha1": "59a567402d894b46d6abe45831f39dcad5c93342",
+      "sha512": "006f06ddab40fdfddd7fdbf0ef5bef9f20d9a288e6e75e5efb97a31ec481d50f705b8a063b0433ff9270a94ec72f62803539d5200a42db43b37a598988b43e36",
+      "fileSize": 20015
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

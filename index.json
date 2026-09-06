@@ -173,6 +173,10 @@
       "sha1": "07d1504fbb1b4756cfeee24d456290238c7a9189"
     },
     {
+      "path": "content/mods/durability-tooltip.json",
+      "sha1": "36a21c9102467b7e98b43a8ab1ee22af14dabea9"
+    },
+    {
       "path": "content/mods/easy-anvils.json",
       "sha1": "931e34216a17ad900d8530e3b3d7ca15b66c25cc"
     },
@@ -230,7 +234,7 @@
     },
     {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "4c599037e77bc51a5392104238bc655ad423c000"
+      "sha1": "721476ea8bff3b66f5b755c9d61ad10f93669fd6"
     },
     {
       "path": "content/mods/featurify.json",
@@ -317,6 +321,10 @@
       "sha1": "92453c9cf6024638e8e4d582df1f9e88b19bd0e5"
     },
     {
+      "path": "content/mods/lodestonelib.json",
+      "sha1": "fd7adf663924e10b80219d5c661b1b45ef83e884"
+    },
+    {
       "path": "content/mods/mannequins.json",
       "sha1": "b827325583be651fcebef63624412cfd2e125573"
     },
@@ -331,6 +339,10 @@
     {
       "path": "content/mods/midnightlib.json",
       "sha1": "2aa7019680ceacd5725d02cda7724c4ea9e231d0"
+    },
+    {
+      "path": "content/mods/miners-delight.json",
+      "sha1": "ce2c53d3f9f039ab7bd6781d41a250b9d15377de"
     },
     {
       "path": "content/mods/modernfix.json",
@@ -509,6 +521,10 @@
       "sha1": "056ae40f7ffa4f16197974905a8f8349781f0c85"
     },
     {
+      "path": "content/mods/supermartijn642s-config-lib.json",
+      "sha1": "453063e6adfbc7acfd3a52c250d596a682fbafd9"
+    },
+    {
       "path": "content/mods/supplementaries.json",
       "sha1": "bf79c6c9885f42c82e3b67b118048df7a020c912"
     },
@@ -587,6 +603,10 @@
     {
       "path": "content/mods/vista_tv.json",
       "sha1": "af5ff56e99c2a3f72884b8ae1386fe15541a3fbe"
+    },
+    {
+      "path": "content/mods/wayward-attributes.json",
+      "sha1": "1bce521322841636b2c7f14fe29d404774569eb4"
     },
     {
       "path": "content/mods/weaker-spiderwebs.json",
@@ -909,6 +929,10 @@
       "sha1": "4b4523f437fe5098b6313533a6b313765a5fe1ec"
     },
     {
+      "path": "overrides/config/durabilitytooltip-common.toml",
+      "sha1": "b3f236bff5547a93332369ef09abfc6b0557ec82"
+    },
+    {
       "path": "overrides/config/easyanvils-client.toml",
       "sha1": "9f072e4960f0825e310f480dea8ab248c2fd0a67"
     },
@@ -1127,6 +1151,10 @@
     {
       "path": "overrides/config/lithostitched.json",
       "sha1": "25a9fbeb8f4983e718327cb08392e755e2730f95"
+    },
+    {
+      "path": "overrides/config/lodestone-client.toml",
+      "sha1": "db4dbb662f729686830fb0d461313184d1fc2f2f"
     },
     {
       "path": "overrides/config/mapdistancefix.json",
@@ -1577,6 +1605,230 @@
       "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
     },
     {
+      "path": "overrides/global_packs/required_data/NoMansMons/.idea/.gitignore",
+      "sha1": "c0d3de1911a1704c391a5d883661480e851cee0c"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/.idea/misc.xml",
+      "sha1": "cf54cfe23d703493c8eb21294fdeaa9a307bbcbe"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/.idea/modules.xml",
+      "sha1": "e6c6685f8b8c3779b4a4f4b0b65e372b00a7e498"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/.idea/workspace.xml",
+      "sha1": "05ef4e3d8498508f7b00dff064a5655c1245bc1d"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/NoMansMons.iml",
+      "sha1": "829eca3072f5d28232a1b24e0b6b02a1e9d557da"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/bedrock/pokemon/models/yamask.geo.json",
+      "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/bedrock/pokemon/models/yamask_alchemist.geo.json",
+      "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/bedrock/pokemon/resolvers/0562_yamask/2_yamask_base.json",
+      "sha1": "da94c1d3e7ba48b4b0a7d33aa9efc9fef103f1be"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/lang/en_us.json",
+      "sha1": "e76b2fb645f5efbd96334e82481e85a5cb525276"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alchemist.png",
+      "sha1": "bfb8b346c1cc59055b0152e3417d672c70ff464f"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alpha_alchemist.png",
+      "sha1": "b756faa72dc99108bd11c0cdd7f4a1bce7b8448a"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_emissive_alchemist.png",
+      "sha1": "61dd59fcc49d3c31d6d2fb02fa11453e0a28a323"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_shiny_alchemist.png",
+      "sha1": "a86dcf5aee4fe1f3f8817b143f531c632c3fdd6a"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/dex_entry_additions/yamask-alchemist.json",
+      "sha1": "85984c19359a51d3db12bdc6182f0efdc5095227"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0019_rattata.json",
+      "sha1": "9a6cb2c24d36c301bb7606f37e75540de68b5944"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0041_zubat.json",
+      "sha1": "30b2468b960b2201d31ece9bd3428cc435bd062e"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0074_geodude.json",
+      "sha1": "bdd3dcc347bb4ca13dcab275784947dcbf19b8f9"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0167_spinarak.json",
+      "sha1": "8fe510839ff3950a101cf584e9f7596e6bfe6a3e"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0168_ariados.json",
+      "sha1": "7cef3dbd850ab4e03a3440d4875a61e13c95360d"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0304_aron.json",
+      "sha1": "b2bc75f97ab351bc87e17c2a64cdc4a860e18970"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0529_drilbur.json",
+      "sha1": "81b917cc7cbb9f57598898ba19a30816819615d5"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0530_excadrill.json",
+      "sha1": "af3f7736abf9ab213f0d0246b6e4d97bca653a55"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0595_joltik.json",
+      "sha1": "585784eddde453c28e753d7516771974a6b7755c"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/0596_galvantula.json",
+      "sha1": "2e417b4e3dcb151975b38686cc41f32a86e1fb9e"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/yamask_alchemist.json",
+      "sha1": "19cda84d6d125d05860b9b18fc8528e782b46d0e"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/species_additions/yamask_alchemist.json",
+      "sha1": "e10581c916d97bc8bd2387a1eaba8204dd75eb91"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/species_features/alchemist.json",
+      "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/pack.mcmeta",
+      "sha1": "c8bd989c5f3f39f5241b0426ed515a7d1506e2d8"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/.gitignore",
+      "sha1": "c0d3de1911a1704c391a5d883661480e851cee0c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/misc.xml",
+      "sha1": "cf54cfe23d703493c8eb21294fdeaa9a307bbcbe"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/modules.xml",
+      "sha1": "e6c6685f8b8c3779b4a4f4b0b65e372b00a7e498"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/workspace.xml",
+      "sha1": "05ef4e3d8498508f7b00dff064a5655c1245bc1d"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/NoMansMons.iml",
+      "sha1": "829eca3072f5d28232a1b24e0b6b02a1e9d557da"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/bedrock/pokemon/models/yamask.geo.json",
+      "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/bedrock/pokemon/models/yamask_alchemist.geo.json",
+      "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/bedrock/pokemon/resolvers/0562_yamask/2_yamask_base.json",
+      "sha1": "da94c1d3e7ba48b4b0a7d33aa9efc9fef103f1be"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/lang/en_us.json",
+      "sha1": "e76b2fb645f5efbd96334e82481e85a5cb525276"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alchemist.png",
+      "sha1": "bfb8b346c1cc59055b0152e3417d672c70ff464f"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alpha_alchemist.png",
+      "sha1": "b756faa72dc99108bd11c0cdd7f4a1bce7b8448a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_emissive_alchemist.png",
+      "sha1": "61dd59fcc49d3c31d6d2fb02fa11453e0a28a323"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_shiny_alchemist.png",
+      "sha1": "a86dcf5aee4fe1f3f8817b143f531c632c3fdd6a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/dex_entry_additions/yamask-alchemist.json",
+      "sha1": "85984c19359a51d3db12bdc6182f0efdc5095227"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0019_rattata.json",
+      "sha1": "9a6cb2c24d36c301bb7606f37e75540de68b5944"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0041_zubat.json",
+      "sha1": "30b2468b960b2201d31ece9bd3428cc435bd062e"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0074_geodude.json",
+      "sha1": "bdd3dcc347bb4ca13dcab275784947dcbf19b8f9"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0167_spinarak.json",
+      "sha1": "8fe510839ff3950a101cf584e9f7596e6bfe6a3e"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0168_ariados.json",
+      "sha1": "7cef3dbd850ab4e03a3440d4875a61e13c95360d"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0304_aron.json",
+      "sha1": "b2bc75f97ab351bc87e17c2a64cdc4a860e18970"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0529_drilbur.json",
+      "sha1": "81b917cc7cbb9f57598898ba19a30816819615d5"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0530_excadrill.json",
+      "sha1": "af3f7736abf9ab213f0d0246b6e4d97bca653a55"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0595_joltik.json",
+      "sha1": "585784eddde453c28e753d7516771974a6b7755c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/0596_galvantula.json",
+      "sha1": "2e417b4e3dcb151975b38686cc41f32a86e1fb9e"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/yamask_alchemist.json",
+      "sha1": "19cda84d6d125d05860b9b18fc8528e782b46d0e"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/species_additions/yamask_alchemist.json",
+      "sha1": "e10581c916d97bc8bd2387a1eaba8204dd75eb91"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/species_features/alchemist.json",
+      "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/pack.mcmeta",
+      "sha1": "c8bd989c5f3f39f5241b0426ed515a7d1506e2d8"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "f073b752473993ea6c8d9b3e07cb41053437b370"
     },
@@ -1630,7 +1882,11 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "060a2d8f0bd273cb8bfba5b70b7b292958300a09"
+      "sha1": "5201d47cf1ab50215d658530c69adf508920adf2"
+    },
+    {
+      "path": "overrides/polytone_popup.json",
+      "sha1": "074bda496799cbeadc16ee90c0308234de7de480"
     },
     {
       "path": "overrides/resourcepacks/Probleyes Creatures.zip",

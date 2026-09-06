@@ -48,8 +48,8 @@ mouseSensitivity:0.30221280023269076
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Farcr\u0027s Better Dirt V1.2.zip","file/Farcrs Better Dirt - Modded Compat.zip","file/probleyes_produce_1.6.zip","file/ModdedGalleryCompat1.21.1-1.6.zip","file/Farcr\u0027s Re-Crafted V2.28.1.zip","file/Farcr\u0027s Re-Create 1.6.zip","file/Soft-Weather-1.0-Universal.zip","file/Neutral Sea Grass and Kelp.zip","file/Supplementaries Rope Redone v2.0.zip","file/Supplementaries Touch-Ups v0.2.zip","file/Probleyes Creatures.zip","file/sunbathing-v1.10.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/Hatson\u0027s Pigeons.zip","file/vertical_fences_0.2.zip","mod/flamyflames:flamyflames","mod/subtle_effects:resourcepacks/biome_color_water_particles","mod/cobblemon:resourcepacks/gyaradosjump","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/uniqueshinyforms"]
-incompatibleResourcePacks:["file/Farcrs Better Dirt - Modded Compat.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Farcr\u0027s Better Dirt V1.2.zip","file/Farcrs Better Dirt - Modded Compat.zip","file/probleyes_produce_1.6.zip","file/ModdedGalleryCompat1.21.1-1.6.zip","file/Farcr\u0027s Re-Crafted V2.28.1.zip","file/Farcr\u0027s Re-Create 1.6.zip","file/Soft-Weather-1.0-Universal.zip","file/Neutral Sea Grass and Kelp.zip","file/Supplementaries Rope Redone v2.0.zip","file/Supplementaries Touch-Ups v0.2.zip","file/Probleyes Creatures.zip","file/sunbathing-v1.10.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/Hatson\u0027s Pigeons.zip","file/vertical_fences_0.2.zip","mod/flamyflames:flamyflames","mod/cobblemon:resourcepacks/gyaradosjump","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/uniqueshinyforms"]
+incompatibleResourcePacks:["file/Farcrs Better Dirt - Modded Compat.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -181,7 +181,7 @@ key_create.keyinfo.ctrl_modifier:key.keyboard.left.control
 key_create.keyinfo.alt_modifier:key.keyboard.left.alt
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.20091911861862657
-soundCategory_music:0.1518705985915494
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
