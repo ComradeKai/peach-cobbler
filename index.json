@@ -101,6 +101,10 @@
       "sha1": "61021931e54dc6dd5a1ccd2fbe1e19788a2609b4"
     },
     {
+      "path": "content/mods/cobblemon.json",
+      "sha1": "58a9166d67b8bf436fdacba6e9a32f0289d1a5c3"
+    },
+    {
       "path": "content/mods/collective.json",
       "sha1": "cb919d5be802634e95cabaffe5011940e67949a3"
     },
@@ -286,7 +290,7 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "4b07c9ffb156b676c971a07043d8cf2239408a8a"
+      "sha1": "a6348662c19065c7d898c4351ad6d8bbf8bc5610"
     },
     {
       "path": "content/mods/kubejs-create.json",

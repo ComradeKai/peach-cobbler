@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MdwFAVRL",
+      "slug": "cobblemon",
+      "versionId": "2oL01rSF",
+      "versionNumber": "1.8.0",
+      "filename": "Cobblemon-neoforge-1.8.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MdwFAVRL/versions/2oL01rSF/Cobblemon-neoforge-1.8.0%2B1.21.1.jar",
+      "sha1": "6205bf5389edee148a7583c3c28a9d873fbe51cc",
+      "sha512": "9afa1e68ebb1d670494014d90d903e34c94a23471539159a43beb86c596b4630c3313a810b7a785a2900f7ed840b21746d317ccf6a73a833c68f1292b57a1d72",
+      "fileSize": 163957653
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
