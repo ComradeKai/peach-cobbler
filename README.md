@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.249**, 155 mods (2 dependencies), 13 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.249**, 156 mods (2 dependencies), 13 resource packs
 
 ## Contents
 
@@ -74,6 +74,7 @@
 - [Flamy Flames](https://modrinth.com/project/flamy-flames) `1.1.0`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.5+1.21.1`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.6+1.21+neoforge`
+- [Geckolib](https://modrinth.com/project/geckolib) `4.9.2`
 - [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
 - [Glow](https://modrinth.com/project/glows) `1.3.1`
 - [Hatson's Pigeons](https://modrinth.com/project/hatsons-pigeons) `1.0`
