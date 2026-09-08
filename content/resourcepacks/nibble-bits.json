@@ -1,0 +1,23 @@
+{
+  "name": "Nibble Bits",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YE0mTT26",
+      "slug": "nibble-bits",
+      "versionId": "cBw2c84V",
+      "versionNumber": "1.2",
+      "filename": "Nibble Bits 1.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/YE0mTT26/versions/cBw2c84V/Nibble%20Bits%201.2.zip",
+      "sha1": "c5d9f69ba8e5700a9e786e4f6aae42f27a2424b0",
+      "sha512": "2dfbf7f9edeade9d80858a37ceeb54e8b595f6b81223e114a6fa412f79295a2ac0282b1d34a32adc2e09440d092a68f3b85509c8eda1be0fead542a8cf48a06d",
+      "fileSize": 1230624
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

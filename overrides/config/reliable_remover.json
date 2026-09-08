@@ -176,7 +176,6 @@
     "supplementaries:blackstone_tile",
     "supplementaries:gravel_bricks",
     "supplementaries:suspicious_gravel_bricks",
-    "supplementaries:crank",
-    "create:package_frogport"
+    "supplementaries:crank"
   ]
 }

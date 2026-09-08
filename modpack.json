@@ -1,8 +1,8 @@
 {
   "name": "Peach Cobbler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minecraft": "1.21.1",
   "loader": "neoforge",
-  "loaderVersion": "21.1.249",
+  "loaderVersion": "21.1.250",
   "channel": "release"
 }

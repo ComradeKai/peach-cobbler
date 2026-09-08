@@ -1,0 +1,6 @@
+{
+  "keys": ["alchemist"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

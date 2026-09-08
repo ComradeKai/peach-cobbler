@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "YWGP4Y1d",
       "slug": "chalk-mod",
-      "versionId": "6wIT2tDt",
-      "versionNumber": "2.0.0",
-      "filename": "chalk-neoforge-1.21.1-2.0.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/YWGP4Y1d/versions/6wIT2tDt/chalk-neoforge-1.21.1-2.0.0.jar",
-      "sha1": "b238c7de39f605dfaba887bcaabd20a40c7b243c",
-      "sha512": "c6c64e83e70d8e1fd767642e4c6f4010b664db5da657cc8a39b36c6c4f34214543ea8ba8c994cb5fac93b9129c1f7a3ca6f16687def61f0143394cd348c73392",
-      "fileSize": 719436
+      "versionId": "c9La5ZxO",
+      "versionNumber": "2.0.2",
+      "filename": "chalk-neoforge-1.21.1-2.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YWGP4Y1d/versions/c9La5ZxO/chalk-neoforge-1.21.1-2.0.2.jar",
+      "sha1": "759af45cdae01499031f81500cfb74bf69ddb32d",
+      "sha512": "dac534f0af3ee587e7b9f010284f387ebe871e0c7c7dc8ce5b3d235e5fa00e245eaeb9533bb6109f02f7eb90d4de9510d34fabe014ad0dd6c873ea94c6786e74",
+      "fileSize": 758930
     }
   },
   "dependents": [],

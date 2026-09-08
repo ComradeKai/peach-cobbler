@@ -60,3 +60,4 @@ overrides/showdown
 cache
 config/fabric/indigo-renderer.properties
 config/everycomp-entries.toml
+options.txt

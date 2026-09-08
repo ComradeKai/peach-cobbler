@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.249**, 156 mods (2 dependencies), 13 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 157 mods (2 dependencies), 14 resource packs
 
 ## Contents
 
@@ -11,7 +11,7 @@
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.2.0`
 - [Almanac](https://modrinth.com/project/almanac) `1.5.2`
-- [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.9`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
 - [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.2`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
@@ -22,10 +22,10 @@
 - [Biolith](https://modrinth.com/project/biolith) `3.0.13`
 - [Biome Cleaner](https://modrinth.com/project/biome-cleaner) `1.1.8`
 - [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.3.0`
-- [Blueprint](https://modrinth.com/project/blueprint) `8.1.1`
+- [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Boatload](https://modrinth.com/project/boatload) `6.0.2`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.0`
-- [Chalk](https://modrinth.com/project/chalk-mod) `2.0.0`
+- [Chalk](https://modrinth.com/project/chalk-mod) `2.0.2`
 - [Cirrus](https://modrinth.com/project/cirrus) `1.3.0`
 - [ClickThrough Plus](https://modrinth.com/project/clickthrough+) `3.5.0+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
@@ -35,7 +35,7 @@
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.120+1.21.1`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
-- [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.1`
+- [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Crafting Mats](https://modrinth.com/project/crafting-mats) `1.1.0+neoforge-1.21.1`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
@@ -48,7 +48,7 @@
 - [Diagonal Windows](https://modrinth.com/project/diagonal-windows) `v21.1.1-1.21.1-NeoForge`
 - [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
-- [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.1.6-neoforge-mc1.21`
+- [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
 - [Easy Anvils](https://modrinth.com/project/easy-anvils) `v21.1.0-1.21.1-NeoForge`
 - [Easy Building](https://modrinth.com/project/easy-building) `1.1.0`
 - [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `v21.1.3-1.21.1-NeoForge`
@@ -87,7 +87,7 @@
 - [KubeJS Create](https://modrinth.com/project/kubejs-create) `2101.3.1-build.18`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
-- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta4-neoforge-21.1`
+- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta6-neoforge-21.1`
 - [Mannequins](https://modrinth.com/project/mannequins) `3.0.0-rc.1`
 - [Map Distance Fix](https://modrinth.com/project/map-distance-fix) `1.1.2+mc1.21-1.21.11`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
@@ -95,12 +95,13 @@
 - [Miner's Delight](https://modrinth.com/project/miners-delight) `1.4.5`
 - [Modded Gallery Compat](https://modrinth.com/project/gallery-portfolio-compat) `1.6`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.24+mc1.21.1`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.6.1`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.6.3`
 - [MossyLib](https://modrinth.com/project/mossylib) `1.5.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Neo Bee Fix](https://modrinth.com/project/neo-bee-fix) `2.0.1`
 - [Neutral Sea Grass and Kelp](https://modrinth.com/project/neutral-sea-grass-and-kelp) `1`
 - [NewWorld](https://modrinth.com/project/new_world) `1.7.3`
+- [Nibble Bits](https://modrinth.com/project/nibble-bits) `1.2`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Enderman Grief](https://modrinth.com/project/no-enderman-grief) `v.2.1.2+mod`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.4`
@@ -116,14 +117,14 @@
 - [Pretty Beaches](https://modrinth.com/project/pretty-beaches) `21.1.3+neoforge-1.21.1`
 - [Probleyes' Produce](https://modrinth.com/project/probleyes-produce) `1.6`
 - [Puddles & Floods](https://modrinth.com/project/puddles-floods) `v1.1.5+1.21.1-neoforge`
-- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.56`
+- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.60`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.3.3-1.21.1-neoforge`
-- [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.0-1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.6.8-1.21.1-neoforge`
+- [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.6.9-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.4.1-1.21.1-neoforge`
-- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.1.7-1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.1.8-1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `2.12.1-1.21.1-neoforge`
-- [Rhino](https://modrinth.com/project/rhino) `2101.2.7-build.85+Rhino-1.21`
+- [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.5+mc1.21.1`
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.4-fabric+forge+neo`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.5`
@@ -144,7 +145,7 @@
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.35+mc1.21.1`
 - [Subtle Effects](https://modrinth.com/project/subtle-effects) `1.14.3`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.10`
-- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.7`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.8`
 - [Supplementaries Rope Tweaks](https://modrinth.com/project/supplementaries-ropes-re-done) `2.0`
 - [Supplementaries Touch-Ups](https://modrinth.com/project/supplementaries-touch-ups) `0.2`
 - [SwingThrough](https://modrinth.com/project/swingthrough) `1.0.5+1.21`
@@ -152,6 +153,7 @@
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`
 - [Thief](https://modrinth.com/project/thief) `1.2.4`
 - [Tiny Item Animations](https://modrinth.com/project/tiny-item-animations) `1.2.1`
+- [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.2.4-1.21.1-neoforge`
 - [TooManyRecipeViewers](https://modrinth.com/project/tmrv) `0.9.0+mc.21.1`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [Underground Rivers](https://modrinth.com/project/underground-rivers) `1.0.3-neoforge-21.1`
@@ -172,6 +174,6 @@
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.45.0`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
-- [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.1-1.21.1-neoforge`
+- [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.2-1.21.1-neoforge`
 
 _Generated by packweave._
