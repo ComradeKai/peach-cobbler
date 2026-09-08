@@ -55,7 +55,7 @@ cherishedworlds-favorites.dat
 .probe/
 .vscode/probe.code-snippets
 config/sodium-fingerprint.json
-xaero
+overrides/xaero
 overrides/showdown
 cache
 config/fabric/indigo-renderer.properties
