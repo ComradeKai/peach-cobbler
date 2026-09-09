@@ -5,3 +5,4 @@
 # config/somemod.toml
 # config/somemod/**
 options.txt
+config/sodium-options.json

@@ -2,7 +2,8 @@
   {
     "action": "remove_recipe",
     "id": [
-      "create:splashing/gravel"
+      "create:splashing/gravel",
+      "cobblemon:pc"
     ]
   }
 ]

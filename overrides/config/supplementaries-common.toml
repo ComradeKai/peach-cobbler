@@ -1,12 +1,12 @@
 [redstone]
 	wind_vane = true
 	clock_block = true
-	redstone_illuminator = true
-	crank = true
-	cog_block = true
+	redstone_illuminator = false
+	crank = false
+	cog_block = false
 	gold_door = true
 	gold_trapdoor = true
-	lock_block = true
+	lock_block = false
 	relayer = true
 
 	[redstone.speaker_block]
@@ -75,7 +75,7 @@
 
 	[redstone.pulley_block]
 		#Pulleys are automatically disabled if 'rope' feature is disabled
-		enabled = true
+		enabled = false
 		#If true, pulleys retract their rope chain over multiple ticks, animating each block via vanilla moving-piston entities. 
 		#Connected blocks become moving blocks (so they push entities, drop sand etc) and multiple pulleys can cooperate to pull a single heavy contraption, useful for elevators. 
 		#If false, the original instant retraction behavior is used.
@@ -121,7 +121,7 @@
 		#Also internally disables Galleons, Pulleys, Buntings, Rope arrows and rope mineshaft.
 		#Also disables compat blocks such as supplementaries Farmers Delight rope tomatoes and Decorative blocks rope chandeliers.
 		#Also reminder that you can disable any item from any mod with a recipe (datapack) + JEI hide
-		enabled = true
+		enabled = false
 		#Allows ropes to be supported & attached to solid block sides
 		block_side_attachment = true
 		#Makes sliding down ropes as fast as free falling, still negating fall damage
@@ -191,7 +191,7 @@
 		slots = 9
 
 	[functional.bamboo_spikes]
-		enabled = true
+		enabled = false
 		tipped_spikes = true
 		#Allows entities killed by spikes to drop loot as if they were killed by a player
 		player_loot = false
@@ -490,8 +490,8 @@
 		sconce_lever = true
 
 [tools]
-	candy = true
-	stasis = true
+	candy = false
+	stasis = false
 	altimeter = true
 	confetti_popper = true
 
@@ -557,7 +557,7 @@
 
 	[tools.rope_arrow]
 		#Rope arrows are automatically disabled if 'rope' feature is disabled
-		enabled = true
+		enabled = false
 		#Max number of rope items allowed to be stored inside a rope arrow
 		# Default: 32
 		# Range: 1 ~ 256
@@ -566,7 +566,7 @@
 		exclusive_to_crossbows = false
 
 	[tools.flute]
-		enabled = true
+		enabled = false
 		#Allows flute to be unbound. Unbound flutes will search for pets in a radius and teleport them to the player
 		unbound = false
 		#Radius in which an unbound flute will search pets
@@ -579,7 +579,7 @@
 		bound_distance = 64
 
 	[tools.bomb]
-		enabled = true
+		enabled = false
 		#Bomb explosion radius (damage depends on this)
 		# Default: 2.0
 		# Range: 0.1 ~ 10.0
@@ -616,7 +616,7 @@
 			baby_fire_duration = 5
 
 	[tools.slingshot]
-		enabled = true
+		enabled = false
 		#Slingshot range multiplier. Affect the initial projectile speed
 		# Default: 1.0
 		# Range: 0.0 ~ 5.0
@@ -663,7 +663,7 @@
 	#slightly increase this or decrease this number to tweak the red merchant spawn chance. Won't spawn at 0 and will spawn twice as often on 2
 	# Default: 1.0
 	# Range: 0.0 ~ 10.0
-	red_merchant_spawn_multiplier = 1.0
+	red_merchant_spawn_multiplier = 0.0
 
 [tweaks]
 	#Adds dragon banner pattern made from dragon head

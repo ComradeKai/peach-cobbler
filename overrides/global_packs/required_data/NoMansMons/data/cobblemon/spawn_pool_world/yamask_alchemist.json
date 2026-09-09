@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "neededInstalledMods": ["nomansland"],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "yamask-alchemist-1",
+      "pokemon": "yamask alchemist",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "5-30",
+      "weight": 900,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "nomansland:alchemist_ruins"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "nomansland:caves"
+        ]
+      }
+    }
+  ]
+}

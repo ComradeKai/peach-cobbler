@@ -1,6 +1,7 @@
 {
  "pack": {
-   "pack_format": 15,
-   "description": "Example description"
+    "pack_format": 61,
+    "supported_formats": { "min_inclusive": 1, "max_inclusive": 999 },
+   "description": "Data and Resources for the Peach Cobbler modpack."
  }
 }

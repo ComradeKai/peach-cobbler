@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 157 mods (2 dependencies), 14 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 160 mods (2 dependencies), 14 resource packs
 
 ## Contents
 
@@ -74,6 +74,7 @@
 - [Flamy Flames](https://modrinth.com/project/flamy-flames) `1.1.0`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.5+1.21.1`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.6+1.21+neoforge`
+- [Gallery](https://modrinth.com/project/gallery) `2.0.1`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.2`
 - [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
 - [Glow](https://modrinth.com/project/glows) `1.3.1`
@@ -87,6 +88,7 @@
 - [KubeJS Create](https://modrinth.com/project/kubejs-create) `2101.3.1-build.18`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
+- [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta6-neoforge-21.1`
 - [Mannequins](https://modrinth.com/project/mannequins) `3.0.0-rc.1`
 - [Map Distance Fix](https://modrinth.com/project/map-distance-fix) `1.1.2+mc1.21-1.21.11`
@@ -128,6 +130,7 @@
 - [Sable](https://modrinth.com/project/sable) `2.0.5+mc1.21.1`
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.4-fabric+forge+neo`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.5`
+- [Screenshot Viewer](https://modrinth.com/project/screenshot-viewer) `1.21.1-neoforge-1`
 - [Showcase Item](https://modrinth.com/project/showcase-item) `1.21.1-1.1.0`
 - [Shutter Up!](https://modrinth.com/project/shutter-up) `1.1.1`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`

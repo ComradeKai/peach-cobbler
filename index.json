@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "b166092431f62617f43509715f495547c4f62f39"
+      "sha1": "f9949f00fb1f28942e2cc3d8577d3b75bc0ac55c"
     },
     {
       "path": "content/mods/boatload.json",
@@ -269,6 +269,10 @@
       "sha1": "90ba46fd7192347068f76494ed98002caa8b04e1"
     },
     {
+      "path": "content/mods/gallery.json",
+      "sha1": "3c2929bcbfc87c510d1381878f50e704c5cfdd4e"
+    },
+    {
       "path": "content/mods/geckolib.json",
       "sha1": "e3f95a5681fdc11a2bc2fe6195f11308533286ff"
     },
@@ -315,6 +319,10 @@
     {
       "path": "content/mods/lambdynamiclights.json",
       "sha1": "cec10ce7221dbac2be6a9ce0283fdb8f1c103d4f"
+    },
+    {
+      "path": "content/mods/lithium.json",
+      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
     },
     {
       "path": "content/mods/lithostitched.json",
@@ -471,6 +479,10 @@
     {
       "path": "content/mods/scholar.json",
       "sha1": "6db13a9324c2a5e58434fd3f72ce24e9401c222c"
+    },
+    {
+      "path": "content/mods/screenshot-viewer.json",
+      "sha1": "ef3ae46a18afbc6ce3202d571b490313f52c6c47"
     },
     {
       "path": "content/mods/showcase-item.json",
@@ -918,7 +930,7 @@
     },
     {
       "path": "overrides/config/connectiblechains.toml",
-      "sha1": "d559a2baf585762182ff940a6aee87f453a825dd"
+      "sha1": "e80afa9e3b5058d3c4cd9295bc45f104e55c6830"
     },
     {
       "path": "overrides/config/connector.json",
@@ -1109,6 +1121,14 @@
       "sha1": "812a1b5b12d79b7397d09c4722904a772ef0ec42"
     },
     {
+      "path": "overrides/config/gallery-client.toml",
+      "sha1": "c71e0d12989ca5afde76958f9108779756224b4c"
+    },
+    {
+      "path": "overrides/config/gallery-common.toml",
+      "sha1": "86919b712a5632ba90d078f8a0c196846dfc7423"
+    },
+    {
       "path": "overrides/config/global_packs.toml",
       "sha1": "9587e77b1d388801cef80bbde5e968fe0d463b34"
     },
@@ -1159,6 +1179,10 @@
     {
       "path": "overrides/config/letmedespawn.json",
       "sha1": "ba4cd7604f0df79fb6d4085e63db0ef169b9bdfd"
+    },
+    {
+      "path": "overrides/config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
     },
     {
       "path": "overrides/config/lithostitched.json",
@@ -1290,7 +1314,7 @@
     },
     {
       "path": "overrides/config/reliable_recipes/generated_removals.json",
-      "sha1": "0c2eff19f2aeb72e9a56d9baaa885faacd7ff036"
+      "sha1": "094dd92d561ab0fac88e8574f568d1c5129046e0"
     },
     {
       "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
@@ -1298,7 +1322,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "e963fab645e0fd869077b4512687d2db2e9fc50d"
+      "sha1": "888290c3206e9e45e3d7397b19621cceb1c84cf1"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -1345,6 +1369,10 @@
       "sha1": "0c3c236d1b068b002c7001a52c3ef984531b7dc8"
     },
     {
+      "path": "overrides/config/screenshot_viewer-client.toml",
+      "sha1": "5250501ff680eefeac80ab3f60b1f0c67967ba92"
+    },
+    {
       "path": "overrides/config/showcaseitem-common.toml",
       "sha1": "f6a911c73166e01c2bc6ffd3595fa01e9d8759a0"
     },
@@ -1370,7 +1398,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
     },
     {
       "path": "overrides/config/sodium-shadowy-path-blocks-options.json",
@@ -1462,7 +1490,7 @@
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "39adb131673be712c689fad4f5eb96221cc6c52f"
+      "sha1": "3bcce21e5c7970bc5f81646d57cfa34c060cd8c3"
     },
     {
       "path": "overrides/config/surveyor.toml",
@@ -1598,7 +1626,7 @@
     },
     {
       "path": "overrides/config/zipline.json",
-      "sha1": "fb84d842a07e6b95dd51c252fb965a28677c27ec"
+      "sha1": "af61a85ccb5995ec0015be3c89cdce9dbf447d62"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
@@ -1638,7 +1666,7 @@
     },
     {
       "path": "overrides/global_packs/required_data/NoMansMons/.idea/workspace.xml",
-      "sha1": "05ef4e3d8498508f7b00dff064a5655c1245bc1d"
+      "sha1": "e0bc28a42411bb8b3145782b6f7003b0bd9e7ceb"
     },
     {
       "path": "overrides/global_packs/required_data/NoMansMons/NoMansMons.iml",
@@ -1661,6 +1689,30 @@
       "sha1": "e76b2fb645f5efbd96334e82481e85a5cb525276"
     },
     {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/models/block/pc.json",
+      "sha1": "e479a2b70e4d2f70a4ba13b2e25e84ee609669d3"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/models/block/pc_bottom.json",
+      "sha1": "6c626220e37ae7a7e7828af95bdfbc0e66f360b1"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/models/block/pc_top.json",
+      "sha1": "864a72e01fda29401aa3fd6739af6299214e1dcf"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/models/block/pc_top_on.json",
+      "sha1": "62d57c915038d6e257656512b7a6b12a2d514010"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/textures/block/functional/pc.png",
+      "sha1": "3092a7f451a691e96a28e05335a598a58e6ec86c"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/textures/block/functional/pc_particle.png",
+      "sha1": "f186de8e402261869d0f26dd250434aecc4aadf1"
+    },
+    {
       "path": "overrides/global_packs/required_data/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alchemist.png",
       "sha1": "bfb8b346c1cc59055b0152e3417d672c70ff464f"
     },
@@ -1681,6 +1733,10 @@
       "sha1": "85984c19359a51d3db12bdc6182f0efdc5095227"
     },
     {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/spawn_pool_world/yamask_alchemist.json",
+      "sha1": "a57d4e922b821ed38286ca269e6054d1740a570c"
+    },
+    {
       "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/species_additions/yamask_alchemist.json",
       "sha1": "e10581c916d97bc8bd2387a1eaba8204dd75eb91"
     },
@@ -1689,8 +1745,12 @@
       "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
     },
     {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/nmm_recipes/recipe/pc_rework.json",
+      "sha1": "c72820188b952023753d8bae891ad8dd018284a9"
+    },
+    {
       "path": "overrides/global_packs/required_data/NoMansMons/pack.mcmeta",
-      "sha1": "c8bd989c5f3f39f5241b0426ed515a7d1506e2d8"
+      "sha1": "a2cdc37d4bfffee296203ac1f70e14d654efc50a"
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/.idea/.gitignore",
@@ -1706,7 +1766,7 @@
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/.idea/workspace.xml",
-      "sha1": "05ef4e3d8498508f7b00dff064a5655c1245bc1d"
+      "sha1": "e0bc28a42411bb8b3145782b6f7003b0bd9e7ceb"
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/NoMansMons.iml",
@@ -1729,6 +1789,30 @@
       "sha1": "e76b2fb645f5efbd96334e82481e85a5cb525276"
     },
     {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/models/block/pc.json",
+      "sha1": "e479a2b70e4d2f70a4ba13b2e25e84ee609669d3"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/models/block/pc_bottom.json",
+      "sha1": "6c626220e37ae7a7e7828af95bdfbc0e66f360b1"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/models/block/pc_top.json",
+      "sha1": "864a72e01fda29401aa3fd6739af6299214e1dcf"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/models/block/pc_top_on.json",
+      "sha1": "62d57c915038d6e257656512b7a6b12a2d514010"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/block/functional/pc.png",
+      "sha1": "3092a7f451a691e96a28e05335a598a58e6ec86c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/block/functional/pc_particle.png",
+      "sha1": "f186de8e402261869d0f26dd250434aecc4aadf1"
+    },
+    {
       "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alchemist.png",
       "sha1": "bfb8b346c1cc59055b0152e3417d672c70ff464f"
     },
@@ -1749,6 +1833,10 @@
       "sha1": "85984c19359a51d3db12bdc6182f0efdc5095227"
     },
     {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/yamask_alchemist.json",
+      "sha1": "a57d4e922b821ed38286ca269e6054d1740a570c"
+    },
+    {
       "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/species_additions/yamask_alchemist.json",
       "sha1": "e10581c916d97bc8bd2387a1eaba8204dd75eb91"
     },
@@ -1757,8 +1845,12 @@
       "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
     },
     {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/pc_rework.json",
+      "sha1": "c72820188b952023753d8bae891ad8dd018284a9"
+    },
+    {
       "path": "overrides/global_packs/required_resources/NoMansMons/pack.mcmeta",
-      "sha1": "c8bd989c5f3f39f5241b0426ed515a7d1506e2d8"
+      "sha1": "a2cdc37d4bfffee296203ac1f70e14d654efc50a"
     },
     {
       "path": "overrides/icon.png",
