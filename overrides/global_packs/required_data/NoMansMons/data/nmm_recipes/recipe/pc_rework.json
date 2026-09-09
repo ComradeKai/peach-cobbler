@@ -7,8 +7,8 @@
     "E": {
       "item": "cobblemon:electirizer"
     },
-    "U": {
-      "item": "cobblemon:upgrade"
+    "B": {
+      "tag": "cobblemon:tier_1_poke_balls"
     },
     "W": {
       "tag": "minecraft:planks"
@@ -17,7 +17,7 @@
   "pattern": [
     "WTW",
     "WEW",
-    "WUW"
+    "WBW"
   ],
   "result": {
     "count": 1,

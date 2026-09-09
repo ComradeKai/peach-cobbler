@@ -413,6 +413,10 @@
       "sha1": "17b14081e4ff4d591911de0cf686a19e95aa7984"
     },
     {
+      "path": "content/mods/pf-neoforge.json",
+      "sha1": "899d348ac5041f949cd4934c31cc858caeea0c6f"
+    },
+    {
       "path": "content/mods/pick-up-notifier.json",
       "sha1": "fc5ab210a18ef621fea9613f1bb1e8bd079fcba7"
     },
@@ -647,6 +651,10 @@
     {
       "path": "content/mods/ziplines-rezipped.json",
       "sha1": "8356343640b5af4300daebd93eabab8d76e6b6a5"
+    },
+    {
+      "path": "content/resourcepacks/brush-and-juice.json",
+      "sha1": "26b7f1f4ca0118edbbce917e49b1ee02fd6e0365"
     },
     {
       "path": "content/resourcepacks/farcrs-better-dirt-modded-compat.json",
@@ -978,7 +986,7 @@
     },
     {
       "path": "overrides/config/emi.css",
-      "sha1": "83cb8e0b916eebd214ffe7f37a6b94c52ffb247c"
+      "sha1": "e10284595df82014a09d151889852599ebf25a22"
     },
     {
       "path": "overrides/config/entity_model_features.json",
@@ -1293,6 +1301,10 @@
       "sha1": "deddc6f67e212577af0151dd6e0ddf7830a65d3e"
     },
     {
+      "path": "overrides/config/presencefootsteps/userconfig.json",
+      "sha1": "6c3ee6bf2344ae051118823ac1ba02da4f3eb76f"
+    },
+    {
       "path": "overrides/config/prettybeaches-common.toml",
       "sha1": "b9df812a76f40fdbfd366d8f309c761fcc447e34"
     },
@@ -1466,7 +1478,7 @@
     },
     {
       "path": "overrides/config/subtle_effects/blocks.toml",
-      "sha1": "bcad3020c400284b4c061fdaeb6346bbea353aeb"
+      "sha1": "7286704a1ae60568634a282dcadaa132fa40c103"
     },
     {
       "path": "overrides/config/subtle_effects/entities.toml",
@@ -1490,7 +1502,7 @@
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "3bcce21e5c7970bc5f81646d57cfa34c060cd8c3"
+      "sha1": "090df2c87a41f6f1c4e278984b7591896ce778fb"
     },
     {
       "path": "overrides/config/surveyor.toml",
@@ -1746,7 +1758,7 @@
     },
     {
       "path": "overrides/global_packs/required_data/NoMansMons/data/nmm_recipes/recipe/pc_rework.json",
-      "sha1": "c72820188b952023753d8bae891ad8dd018284a9"
+      "sha1": "9e65340399bb5725333b6d64d36288c29a1392c1"
     },
     {
       "path": "overrides/global_packs/required_data/NoMansMons/pack.mcmeta",
@@ -1846,7 +1858,7 @@
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/pc_rework.json",
-      "sha1": "c72820188b952023753d8bae891ad8dd018284a9"
+      "sha1": "9e65340399bb5725333b6d64d36288c29a1392c1"
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/pack.mcmeta",

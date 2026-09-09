@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 160 mods (2 dependencies), 14 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 161 mods (2 dependencies), 15 resource packs
 
 ## Contents
 
@@ -24,6 +24,7 @@
 - [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.3.0`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Boatload](https://modrinth.com/project/boatload) `6.0.2`
+- [Brush & Juice](https://modrinth.com/project/brush-and-juice) `7.1.1`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.0`
 - [Chalk](https://modrinth.com/project/chalk-mod) `2.0.2`
 - [Cirrus](https://modrinth.com/project/cirrus) `1.3.0`
@@ -116,6 +117,7 @@
 - [Platform](https://modrinth.com/project/platform) `1.3.3`
 - [Polytone](https://modrinth.com/project/polytone) `1.21-4.2.0`
 - [Portfolio](https://modrinth.com/project/portfolio) `1.6.0-neoforge`
+- [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Pretty Beaches](https://modrinth.com/project/pretty-beaches) `21.1.3+neoforge-1.21.1`
 - [Probleyes' Produce](https://modrinth.com/project/probleyes-produce) `1.6`
 - [Puddles & Floods](https://modrinth.com/project/puddles-floods) `v1.1.5+1.21.1-neoforge`

@@ -1,0 +1,23 @@
+{
+  "name": "Brush & Juice",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ulXVKXEC",
+      "slug": "brush-and-juice",
+      "versionId": "LSCvwpFl",
+      "versionNumber": "7.1.1",
+      "filename": "Brush & Juice.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/ulXVKXEC/versions/LSCvwpFl/Brush%20%26%20Juice.zip",
+      "sha1": "aaff41beef4ba84e12077b49d02db2766b82efd8",
+      "sha512": "c5444484e5a596ddc942e408d1b6c06475c932594739e75b964792b0835201270a5a97eeeeabc127f85d9747e55c9e2164616d03b5de1f0c0ac1ee2ac68bbc35",
+      "fileSize": 598548
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
