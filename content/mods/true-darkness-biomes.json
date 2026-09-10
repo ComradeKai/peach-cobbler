@@ -1,0 +1,23 @@
+{
+  "name": "True Darkness Biomes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "c44xmpkF",
+      "slug": "true-darkness-biomes",
+      "versionId": "bORmByU7",
+      "versionNumber": "1.2.1",
+      "filename": "darkness-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/c44xmpkF/versions/bORmByU7/darkness-1.2.1.jar",
+      "sha1": "ebd256c7f4f688446079e7ee8769a3af88ccf03b",
+      "sha512": "8101fb524483848e99650735e1d7ad51e224a656dae9e37bc9409cae9beeb251a31c7d1ceca00f9980919bca96eca5eda98f66253760b60dfe3e6f88050ede94",
+      "fileSize": 22456
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

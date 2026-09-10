@@ -238,7 +238,7 @@
     },
     {
       "path": "content/mods/featurify.json",
-      "sha1": "4df258c8650d6165ff1bbd8f2a6d6048bc174db1"
+      "sha1": "c71dc68b1cc57aad010e50dce4197e152eb8b35b"
     },
     {
       "path": "content/mods/ferrite-core.json",
@@ -310,7 +310,7 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "c90ccf7e5128893d1451537c62f1be79ec0c5f7b"
+      "sha1": "f8e2600f939ac03c52fa43bb2332a70b5b8dbc30"
     },
     {
       "path": "content/mods/labels.json",
@@ -359,6 +359,10 @@
     {
       "path": "content/mods/modernfix.json",
       "sha1": "0cdc85e2e4b152ebac1171351361fd521f7bd355"
+    },
+    {
+      "path": "content/mods/modulation.json",
+      "sha1": "16e21a53318c423c0ac499ffa909d5a6ce580210"
     },
     {
       "path": "content/mods/moonlight.json",
@@ -466,7 +470,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "b8a24f9530030a2e2f5252d97c145dfe9a18f1cd"
+      "sha1": "17b051fd9bbd748a02b602464039d90dcc1f629f"
     },
     {
       "path": "content/mods/rhino.json",
@@ -581,6 +585,10 @@
       "sha1": "1b223658d0554da7ff01b486c29bfe043eeb92fd"
     },
     {
+      "path": "content/mods/true-darkness-biomes.json",
+      "sha1": "4462b875c5b36427fb719b95a89cd0c777a09c6c"
+    },
+    {
       "path": "content/mods/underground-rivers.json",
       "sha1": "5eb13a5138ad958fd7f76bbbf29ef3af223f7f85"
     },
@@ -646,7 +654,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "77dfef40b54a9207468d3a6d5a7d521dda3b9a09"
+      "sha1": "f1e6299abe13dd761893044a590b88ab73236efa"
     },
     {
       "path": "content/mods/ziplines-rezipped.json",
@@ -961,6 +969,14 @@
       "sha1": "4b4523f437fe5098b6313533a6b313765a5fe1ec"
     },
     {
+      "path": "overrides/config/darkness-biomes.json",
+      "sha1": "da16961e37372b8536d6e1ca56e2151281d6ee45"
+    },
+    {
+      "path": "overrides/config/darkness-client.toml",
+      "sha1": "66376076ea8cd101a3951072810167b9db598839"
+    },
+    {
       "path": "overrides/config/durabilitytooltip-common.toml",
       "sha1": "0efd392cbd285eff5c975000fe19bd543ccaee55"
     },
@@ -1225,6 +1241,10 @@
       "sha1": "fa9a47554a8486cee711fb0a04eabc202830bb9a"
     },
     {
+      "path": "overrides/config/modulation.json",
+      "sha1": "99ba3b6c4826c1fa6297051348bb932dce76d1b1"
+    },
+    {
       "path": "overrides/config/moonlight-client.toml",
       "sha1": "7b8c615b82b9162fef6161f8951a046e1c2e14cd"
     },
@@ -1410,7 +1430,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
+      "sha1": "7f22506aba4687224597167981576c39c7f1032d"
     },
     {
       "path": "overrides/config/sodium-shadowy-path-blocks-options.json",

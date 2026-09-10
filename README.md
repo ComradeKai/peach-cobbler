@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 161 mods (2 dependencies), 15 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 163 mods (2 dependencies), 15 resource packs
 
 ## Contents
 
@@ -67,7 +67,7 @@
 - [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
 - [Farcr's Re-Create](https://modrinth.com/project/farcrs-re-create) `V1.6`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
-- [Featurify - WorldGen Control](https://modrinth.com/project/featurify) `neoforge-2.0.9+mc1.21.1`
+- [Featurify - WorldGen Control](https://modrinth.com/project/featurify) `neoforge-2.0.12+mc1.21.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Field Guide](https://modrinth.com/project/field-guide) `1.16.0-1.21.1-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
@@ -85,7 +85,7 @@
 - [Item Descriptions](https://modrinth.com/project/item-descriptions) `2.8.0+1.21.1-neoforge`
 - [Jumpy Boats](https://modrinth.com/project/jumpy-boats) `1.21.0-1.0.5`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
-- [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.374`
+- [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.377`
 - [KubeJS Create](https://modrinth.com/project/kubejs-create) `2101.3.1-build.18`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
@@ -98,6 +98,7 @@
 - [Miner's Delight](https://modrinth.com/project/miners-delight) `1.4.5`
 - [Modded Gallery Compat](https://modrinth.com/project/gallery-portfolio-compat) `1.6`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.24+mc1.21.1`
+- [Modulation](https://modrinth.com/project/modulation) `3.4.2-1.21.1-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.6.3`
 - [MossyLib](https://modrinth.com/project/mossylib) `1.5.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
@@ -127,7 +128,7 @@
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.6.9-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.4.1-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.1.8-1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `2.12.1-1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.1.0-1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.5+mc1.21.1`
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.4-fabric+forge+neo`
@@ -161,6 +162,7 @@
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.2.4-1.21.1-neoforge`
 - [TooManyRecipeViewers](https://modrinth.com/project/tmrv) `0.9.0+mc.21.1`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
+- [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`
 - [Underground Rivers](https://modrinth.com/project/underground-rivers) `1.0.3-neoforge-21.1`
 - [Vanity: Aesthetic Armory](https://modrinth.com/project/vanity-aesthetic-armory) `1.1.1`
 - [Vanity: Ancient Tool Variants](https://modrinth.com/project/vanity-ancient-tool-variants) `3.0.0`
