@@ -97,3 +97,6 @@
 	bilinear_sampling = false
 	#A list of regex which will filter out valid URLs. At least one of these must match for a URL video to work
 	safe_urls = []
+	#When wave gates with TVs videos play their audio. Speaker mode means  you need a speaker block or noteblock next to the TV (or other tagged blocks)
+	#Allowed Values: OFF, REQUIRE_SPEAKER, ON
+	audio_mode = "REQUIRE_SPEAKER"

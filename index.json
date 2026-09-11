@@ -14,7 +14,7 @@
     },
     {
       "path": "content/mods/alltuttasneeds.json",
-      "sha1": "99e437c7e25e80f1adecae1c5726e027711ba815"
+      "sha1": "e287da076947f98c24e0c04abf72c3d0a116345e"
     },
     {
       "path": "content/mods/almanac.json",
@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "f9949f00fb1f28942e2cc3d8577d3b75bc0ac55c"
+      "sha1": "342a340b27d9511d4bcb088f4109ffa272c1e990"
     },
     {
       "path": "content/mods/boatload.json",
@@ -89,6 +89,10 @@
       "sha1": "471b698a3cbe031cdfd97b4b4910b362b82de6ee"
     },
     {
+      "path": "content/mods/clayworks.json",
+      "sha1": "a4a4046cd027f7b30af27d3b5320ce7807a94355"
+    },
+    {
       "path": "content/mods/clickthrough-.json",
       "sha1": "160ebc0df3709df8b3221c88a1cdaff0f284f14d"
     },
@@ -103,6 +107,10 @@
     {
       "path": "content/mods/cobblemon.json",
       "sha1": "58a9166d67b8bf436fdacba6e9a32f0289d1a5c3"
+    },
+    {
+      "path": "content/mods/cobweb.json",
+      "sha1": "c3e55ee54f9f8414af1ca30ea8e3de904be6f258"
     },
     {
       "path": "content/mods/collective.json",
@@ -238,7 +246,7 @@
     },
     {
       "path": "content/mods/featurify.json",
-      "sha1": "c71dc68b1cc57aad010e50dce4197e152eb8b35b"
+      "sha1": "1c1dd64ed09de8c84e2f728b904616e32aededad"
     },
     {
       "path": "content/mods/ferrite-core.json",
@@ -285,12 +293,24 @@
       "sha1": "c88db3355d51cffce7ad50cdb8bfab5745a90539"
     },
     {
+      "path": "content/mods/goated.json",
+      "sha1": "d2d6016f91e01f9dcd228103629dfc87ae6c6ee3"
+    },
+    {
+      "path": "content/mods/harvest-with-ease.json",
+      "sha1": "0ba24b227f3d2837a818fbec4c5d7f7ec071a454"
+    },
+    {
       "path": "content/mods/horseman.json",
       "sha1": "76b2605968233b5808d19185ffee1eb9f629a1c8"
     },
     {
       "path": "content/mods/immersive-overlays.json",
       "sha1": "72c1ee8b49eb1a7c05e01dd34ef9aa8cd02d1bcf"
+    },
+    {
+      "path": "content/mods/incubation.json",
+      "sha1": "ca24c51ef2dbc778feaa1a7afb16612a3151b224"
     },
     {
       "path": "content/mods/item-descriptions.json",
@@ -366,7 +386,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "c65be0582ba3ad854504267d6087e42dd3cae151"
+      "sha1": "be80e07829df525c964625188d5b5a1bacfce4d3"
     },
     {
       "path": "content/mods/mossylib.json",
@@ -430,7 +450,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "f799adf00c75ee6673e48309b322c6c5b8094c41"
+      "sha1": "bd3bcc9bacb9a439223e13469fc89f2d4b5d02b1"
     },
     {
       "path": "content/mods/portfolio.json",
@@ -458,7 +478,7 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "2be9a8c9a3a324510db19700d347bfb3c5b1a1a1"
+      "sha1": "22c7a8242a5a02d400f6ecb909b75b2d3096acb6"
     },
     {
       "path": "content/mods/reliable-gliders.json",
@@ -470,7 +490,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "17b051fd9bbd748a02b602464039d90dcc1f629f"
+      "sha1": "9116a57b3ea76b00bb267b900a83948ad6152812"
     },
     {
       "path": "content/mods/rhino.json",
@@ -550,7 +570,7 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "8ceb9126eccf267dfa8d7cff6f4cfa20d55bdb51"
+      "sha1": "05fdfec46ab632eb2e260bf4cd71b767daee5b89"
     },
     {
       "path": "content/mods/swingthrough.json",
@@ -634,7 +654,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "af5ff56e99c2a3f72884b8ae1386fe15541a3fbe"
+      "sha1": "ee3c5531e050f085ee01bc7eedc7adccaa96abbb"
     },
     {
       "path": "content/mods/wayward-attributes.json",
@@ -650,7 +670,7 @@
     },
     {
       "path": "content/mods/xaeros-world-map.json",
-      "sha1": "b97da81a42c1ee8fae69763cee2c5ef2d0c34aa6"
+      "sha1": "49e13f9e1f3b742c2835c784b4172195147036c6"
     },
     {
       "path": "content/mods/yacl.json",
@@ -913,6 +933,10 @@
       "sha1": "8a5a176e69ec856967267ba50d287bcf6b36d5af"
     },
     {
+      "path": "overrides/config/clayworks-common.toml",
+      "sha1": "58b5720ac76cc5777d04e66184dea7940794022c"
+    },
+    {
       "path": "overrides/config/clickthrough.json",
       "sha1": "a3a02ca7469c1386ea90322edd75822fb18bc0d7"
     },
@@ -926,7 +950,7 @@
     },
     {
       "path": "overrides/config/cobblemon/main.json",
-      "sha1": "8f3c094f110625b168e26f77533206aca99af260"
+      "sha1": "a3eba336e32dfaea5b5bce5ffcc9120d99082145"
     },
     {
       "path": "overrides/config/collective.json5",
@@ -1157,6 +1181,10 @@
       "sha1": "9587e77b1d388801cef80bbde5e968fe0d463b34"
     },
     {
+      "path": "overrides/config/harvest_with_ease-common.toml",
+      "sha1": "d23aa12d3b6750654bfd28d874577520ec1f6175"
+    },
+    {
       "path": "overrides/config/hoofprint.toml",
       "sha1": "09ae5422590fe547936a678215bc35d98fdcff92"
     },
@@ -1354,7 +1382,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "888290c3206e9e45e3d7397b19621cceb1c84cf1"
+      "sha1": "e0da383a8032a3c160822ae5118d25c6c5385333"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -1454,7 +1482,7 @@
     },
     {
       "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "f167c3e994156a44cbf06ff62c3859893cae3167"
+      "sha1": "01159ef6b01aeff1748104398418bb05c0f2589d"
     },
     {
       "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
@@ -1578,7 +1606,7 @@
     },
     {
       "path": "overrides/config/vista-client.toml",
-      "sha1": "39a384e6a636bb27bbe409f442cbc6c636fcabc3"
+      "sha1": "c547dd1e51b5d84ada6f7d1edcee49118fc0cc67"
     },
     {
       "path": "overrides/config/vista-common.toml",
@@ -1930,7 +1958,7 @@
     },
     {
       "path": "overrides/mods/BrewinAndChewin-neoforge-5.0.0+1.21.1.jar",
-      "sha1": "aae9cb1ec28529a43af9c7afefd365893b1ce9e1"
+      "sha1": "33451493b1983e0d04a750725b43e80265ec0497"
     },
     {
       "path": "overrides/mods/nomansland-1.6.0-PREVIEW2.jar",

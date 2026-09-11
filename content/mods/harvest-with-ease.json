@@ -1,0 +1,23 @@
+{
+  "name": "Harvest with ease",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "W4Ajthd2",
+      "slug": "harvest-with-ease",
+      "versionId": "cjDrwP2Q",
+      "versionNumber": "9.4.0",
+      "filename": "harvest-with-ease-neoforge-1.21-9.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/W4Ajthd2/versions/cjDrwP2Q/harvest-with-ease-neoforge-1.21-9.4.0.jar",
+      "sha1": "26d0f6f428f04110351f0274fda4ffe3620df38d",
+      "sha512": "80abf8c55a108882a026b5ff7679ccb2907954a68c95e54c5e557f409787a1e5a8b73025dc2b683a13f2d36f3c815b8072ea478d5e514d2bbbac511ec40cb58a",
+      "fileSize": 483625
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

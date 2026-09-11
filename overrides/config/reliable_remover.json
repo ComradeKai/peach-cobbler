@@ -198,6 +198,14 @@
     "another_furniture:cherry_shutter",
     "another_furniture:bamboo_shutter",
     "another_furniture:crimson_shutter",
-    "another_furniture:warped_shutter"
+    "another_furniture:warped_shutter",
+    "goated:thatch",
+    "incubation:fried_egg",
+    "incubation:scrambled_eggs",
+    "caverns_and_chasms:sugilite",
+    "caverns_and_chasms:polished_sugilite",
+    "caverns_and_chasms:sugilite_bricks",
+    "caverns_and_chasms:chiseled_sugilite_bricks",
+    "caverns_and_chasms:sugilite_pillar"
   ]
 }
