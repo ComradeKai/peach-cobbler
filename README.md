@@ -32,11 +32,12 @@
 - [ClickThrough Plus](https://modrinth.com/project/clickthrough+) `3.5.0+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
-- [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.0`
+- [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.1`
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.39-fabric+forge+neo`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.120+1.21.1`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
+- [Continuity](https://modrinth.com/project/continuity) `3.0.0+1.21.neoforge`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Crafting Mats](https://modrinth.com/project/crafting-mats) `1.1.0+neoforge-1.21.1`
@@ -47,7 +48,6 @@
 - [Create: Liquid Fuel](https://modrinth.com/project/create-liquid-fuel) `3.0.0-1.21.1`
 - [Data Anchor](https://modrinth.com/project/data-anchor) `2.0.0.16-neoforge`
 - [Diagonal Fences](https://modrinth.com/project/diagonal-fences) `v21.1.1-1.21.1-NeoForge`
-- [Diagonal Windows](https://modrinth.com/project/diagonal-windows) `v21.1.1-1.21.1-NeoForge`
 - [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
@@ -101,7 +101,7 @@
 - [Miner's Delight](https://modrinth.com/project/miners-delight) `1.4.5`
 - [Modded Gallery Compat](https://modrinth.com/project/gallery-portfolio-compat) `1.6`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.24+mc1.21.1`
-- [Modulation](https://modrinth.com/project/modulation) `3.4.2-1.21.1-neoforge`
+- [Modulation](https://modrinth.com/project/modulation) `3.4.4-1.21.1-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.6.4`
 - [MossyLib](https://modrinth.com/project/mossylib) `1.5.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
@@ -128,7 +128,7 @@
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.60`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.3.3-1.21.1-neoforge`
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.0-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.1-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.4.1-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.1.8-1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.1.1-1.21.1-neoforge`
@@ -178,7 +178,7 @@
 - [Vertical Fences](https://modrinth.com/project/vertical-fences) `0.2`
 - [Via Romana: Infrastructure-Driven Fast Travel](https://modrinth.com/project/via-romana) `2.2.3+1.21.1-neoforge`
 - [Villa la Revolution](https://modrinth.com/project/villa-la-revolution) `1.0.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.0`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.3`
 - [Wayward Attributes](https://modrinth.com/project/wayward-attributes) `1.1.1`
 - [Weaker Spiderwebs](https://modrinth.com/project/weaker-spiderwebs) `1.21.1-3.8-fabric+forge+neo`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
