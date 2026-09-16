@@ -226,7 +226,7 @@
     },
     {
       "path": "content/mods/every-compat.json",
-      "sha1": "db643a1f3a616c60059208d6a564bf2dd547bc4f"
+      "sha1": "bc63152570c083b1d208dc5a494b0431d9dc8197"
     },
     {
       "path": "content/mods/explosive-enhancement-forge.json",
@@ -254,7 +254,7 @@
     },
     {
       "path": "content/mods/field-guide.json",
-      "sha1": "b0b8e0c80a086b81db798b8c1f3514e58d29b270"
+      "sha1": "ba1839097e5750b6df9155be6390052b375ad5e8"
     },
     {
       "path": "content/mods/figura.json",
@@ -274,7 +274,7 @@
     },
     {
       "path": "content/mods/fzzy-config.json",
-      "sha1": "90ba46fd7192347068f76494ed98002caa8b04e1"
+      "sha1": "4e6f2cf46fbd0d396473c2e5615a61976954ad91"
     },
     {
       "path": "content/mods/gallery.json",
@@ -330,7 +330,7 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "f8e2600f939ac03c52fa43bb2332a70b5b8dbc30"
+      "sha1": "365574aaa89d22078867a5b4143420ccfdb2d656"
     },
     {
       "path": "content/mods/labels.json",
@@ -355,6 +355,10 @@
     {
       "path": "content/mods/lodestonelib.json",
       "sha1": "fd7adf663924e10b80219d5c661b1b45ef83e884"
+    },
+    {
+      "path": "content/mods/lootjs.json",
+      "sha1": "ac377036e953455ae738ef2e4965d3b1aa1af893"
     },
     {
       "path": "content/mods/mannequins.json",
@@ -478,7 +482,7 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "3c00cec3c3ac88e3aa52469f769f4e3622a253ae"
+      "sha1": "4af67322404270c87a7adc046c6b37e9f1056523"
     },
     {
       "path": "content/mods/reliable-gliders.json",
@@ -486,7 +490,7 @@
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "6176366363889cb107b5ac18167cef71f8739df9"
+      "sha1": "22630b610d269dc6a6853f097691597be7e8f9e0"
     },
     {
       "path": "content/mods/reliable-remover.json",
@@ -558,7 +562,7 @@
     },
     {
       "path": "content/mods/structurify.json",
-      "sha1": "e70970b244413836d81a9acb44aa0e05199769d0"
+      "sha1": "259a0c3bd0ca5f7e95d717fa57691c96e32a8b16"
     },
     {
       "path": "content/mods/subtle-effects.json",
@@ -654,7 +658,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "eef02558c96ee76684e6b00f9cc2b855dc348194"
+      "sha1": "53c335dd70a745cf8dee13b17aa1e08bfada35a3"
     },
     {
       "path": "content/mods/wayward-attributes.json",
@@ -950,7 +954,7 @@
     },
     {
       "path": "overrides/config/cobblemon/main.json",
-      "sha1": "a3eba336e32dfaea5b5bce5ffcc9120d99082145"
+      "sha1": "529cdb1523db4193243a55a888ea3378b1a569e2"
     },
     {
       "path": "overrides/config/collective.json5",
@@ -975,6 +979,10 @@
     {
       "path": "overrides/config/connector.json",
       "sha1": "de7faf7cefdc6be41a7a828c2d39f15517cf58c0"
+    },
+    {
+      "path": "overrides/config/continuity.json",
+      "sha1": "dcd61957c3ede67c890235ee6615d0f0945118cd"
     },
     {
       "path": "overrides/config/create-client.toml",
@@ -1606,7 +1614,7 @@
     },
     {
       "path": "overrides/config/vista-client.toml",
-      "sha1": "c547dd1e51b5d84ada6f7d1edcee49118fc0cc67"
+      "sha1": "7dc5406d3aa1453d05cf0dd9a909721d3473eb12"
     },
     {
       "path": "overrides/config/vista-common.toml",
@@ -1953,11 +1961,15 @@
       "sha1": "3a88f84fbe8d3089fc7a70d0cca705853fd99184"
     },
     {
+      "path": "overrides/kubejs/server_scripts/vanity_additions.js",
+      "sha1": "3d07de4ccbecdd52877c0d88b41f7fae1a42f244"
+    },
+    {
       "path": "overrides/kubejs/startup_scripts/main.js",
       "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
     },
     {
-      "path": "overrides/mods/BrewinAndChewin-neoforge-5.0.0+1.21.1.jar",
+      "path": "overrides/mods/BrewinAndChewin-neoforge-5.0.0-PATREONPREVIEW1-1.21.1).jar",
       "sha1": "33451493b1983e0d04a750725b43e80265ec0497"
     },
     {

@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 167 mods (3 dependencies), 15 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 168 mods (3 dependencies), 15 resource packs
 
 ## Contents
 
@@ -59,7 +59,7 @@
 - [Entity Pin Cushions](https://modrinth.com/project/entity-pin-cushions) `1.0`
 - [Envelope](https://modrinth.com/project/envelope) `0.7.5`
 - [Etched](https://modrinth.com/project/etched) `5.1.0`
-- [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.50`
+- [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.51`
 - [Explosive Enhancement: Reforged](https://modrinth.com/project/explosive-enhancement-forge) `1.1.2`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.18`
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
@@ -70,12 +70,12 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Featurify - WorldGen Control](https://modrinth.com/project/featurify) `neoforge-2.0.13+mc1.21.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- [Field Guide](https://modrinth.com/project/field-guide) `1.16.0-1.21.1-neoforge`
+- [Field Guide](https://modrinth.com/project/field-guide) `1.17.0-1.21.1-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Fishermen's Trap [Neo/Fabric]](https://modrinth.com/project/fishermens-trap) `3.1.0`
 - [Flamy Flames](https://modrinth.com/project/flamy-flames) `1.1.0`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.5+1.21.1`
-- [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.6+1.21+neoforge`
+- [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+1.21+neoforge`
 - [Gallery](https://modrinth.com/project/gallery) `2.0.1`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.2`
 - [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
@@ -94,6 +94,7 @@
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta6-neoforge-21.1`
+- [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`
 - [Mannequins](https://modrinth.com/project/mannequins) `3.0.0-rc.1`
 - [Map Distance Fix](https://modrinth.com/project/map-distance-fix) `1.1.2+mc1.21-1.21.11`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
@@ -128,9 +129,9 @@
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.60`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.3.3-1.21.1-neoforge`
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.1-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.2-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.4.1-1.21.1-neoforge`
-- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.1.8-1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.2.0-1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.1.1-1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.5+mc1.21.1`
@@ -151,7 +152,7 @@
 - [Stony Cliffs Are Cool](https://modrinth.com/project/stony-cliffs-are-cool) `1.1.2`
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
 - [Stormie's Spiders](https://modrinth.com/project/stormies-spiders) `3.3.1-neoforge`
-- [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.35+mc1.21.1`
+- [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.37+mc1.21.1`
 - [Subtle Effects](https://modrinth.com/project/subtle-effects) `1.14.3`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.10`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
@@ -178,7 +179,7 @@
 - [Vertical Fences](https://modrinth.com/project/vertical-fences) `0.2`
 - [Via Romana: Infrastructure-Driven Fast Travel](https://modrinth.com/project/via-romana) `2.2.3+1.21.1-neoforge`
 - [Villa la Revolution](https://modrinth.com/project/villa-la-revolution) `1.0.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.3`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.5`
 - [Wayward Attributes](https://modrinth.com/project/wayward-attributes) `1.1.1`
 - [Weaker Spiderwebs](https://modrinth.com/project/weaker-spiderwebs) `1.21.1-3.8-fabric+forge+neo`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
