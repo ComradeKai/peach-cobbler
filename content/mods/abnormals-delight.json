@@ -1,0 +1,23 @@
+{
+  "name": "Abnormals Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ts3qjo5t",
+      "slug": "abnormals-delight",
+      "versionId": "Awq3tnNj",
+      "versionNumber": "6.0.3",
+      "filename": "abnormals_delight-1.21.1-6.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ts3qjo5t/versions/Awq3tnNj/abnormals_delight-1.21.1-6.0.3.jar",
+      "sha1": "c8f0fc074e780c439865094cd3f0b3c3a8243ded",
+      "sha512": "9f00bbfbe85140c7eea8b6c402c89b0eaf74f68f2109ef6e049d7159187e4bbcca150db65aca96b589c8d827394a91e20d8b407f98f381c5ff21b71ac32e933f",
+      "fileSize": 705548
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

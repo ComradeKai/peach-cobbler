@@ -1,0 +1,26 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_tin"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "id": "caverns_and_chasms:tin_nugget"
+    },
+    {
+      "chance": 0.05,
+      "id": "minecraft:lapis_lazuli"
+    },
+    {
+      "chance": 0.05,
+      "id": "minecraft:amethyst_shard"
+    },
+    {
+      "chance": 0.005,
+      "id": "caverns_and_chasms:zirconia"
+    }
+  ]
+}

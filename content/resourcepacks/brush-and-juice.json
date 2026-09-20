@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "ulXVKXEC",
       "slug": "brush-and-juice",
-      "versionId": "LSCvwpFl",
-      "versionNumber": "7.1.1",
+      "versionId": "dvawwfMl",
+      "versionNumber": "7.2.1",
       "filename": "Brush & Juice.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/ulXVKXEC/versions/LSCvwpFl/Brush%20%26%20Juice.zip",
-      "sha1": "aaff41beef4ba84e12077b49d02db2766b82efd8",
-      "sha512": "c5444484e5a596ddc942e408d1b6c06475c932594739e75b964792b0835201270a5a97eeeeabc127f85d9747e55c9e2164616d03b5de1f0c0ac1ee2ac68bbc35",
-      "fileSize": 598548
+      "downloadUrl": "https://cdn.modrinth.com/data/ulXVKXEC/versions/dvawwfMl/Brush%20%26%20Juice.zip",
+      "sha1": "8defffc32ac67a0a88018a07f8d9278b2c1c69cb",
+      "sha512": "1a4364f1dcc1bccaa0ca62302aabe33a2cc30e285f5011ea375b1417aaec6ca14a3f419eb92838b6b10afe3fa5b89a9c932f052c4e4547804aa4ea99115796f6",
+      "fileSize": 602324
     }
   },
   "dependents": [],

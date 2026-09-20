@@ -3,7 +3,9 @@
     "action": "remove_recipe",
     "id": [
       "create:splashing/gravel",
-      "cobblemon:pc"
+      "cobblemon:pc",
+      "create:crafting/logistics/packager",
+      "create:crafting/logistics/package_frogport"
     ]
   }
 ]

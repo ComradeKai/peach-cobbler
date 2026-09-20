@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "path": "content/mods/abnormals-delight.json",
+      "sha1": "f777594a5417501324d78436dc01307d42ee67f2"
+    },
+    {
       "path": "content/mods/abundant-atmosphere.json",
       "sha1": "07ccee5bbfae2c5cd48d2775b006b96dccf2a1b5"
     },
@@ -14,7 +18,7 @@
     },
     {
       "path": "content/mods/alltuttasneeds.json",
-      "sha1": "e287da076947f98c24e0c04abf72c3d0a116345e"
+      "sha1": "93a5e4d4341ae122e1f5dfd823f6e78897d59a55"
     },
     {
       "path": "content/mods/almanac.json",
@@ -42,7 +46,7 @@
     },
     {
       "path": "content/mods/berry-good.json",
-      "sha1": "cbd9c71b617ea2889bf03faaa3d16923294c1ae4"
+      "sha1": "a6d1597008ace4cc8cc76a193a700ad8743d0127"
     },
     {
       "path": "content/mods/better-advanced-tooltips.json",
@@ -66,7 +70,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "342a340b27d9511d4bcb088f4109ffa272c1e990"
+      "sha1": "ae1cde0c1641e89de4295b881f89d0a0a1229416"
     },
     {
       "path": "content/mods/boatload.json",
@@ -74,11 +78,11 @@
     },
     {
       "path": "content/mods/c2me-neoforge.json",
-      "sha1": "31bf0af7fd73072f82825eb36d526c139e331460"
+      "sha1": "7b2a70c8c93d9b892c1a7f4f64faf77793c9d945"
     },
     {
       "path": "content/mods/caverns-and-chasms.json",
-      "sha1": "ccf0ded743826861a9ef3a333382868dc8c9d5a3"
+      "sha1": "82f508b9dac92201b375151d8cd27b6256a3aafc"
     },
     {
       "path": "content/mods/chalk-mod.json",
@@ -202,7 +206,7 @@
     },
     {
       "path": "content/mods/entity-model-features.json",
-      "sha1": "26a3e6a22ce3d33a20d62a5c5dc01bf54a8d854f"
+      "sha1": "4addc9fd382b027928d50d9307cccd217f370c1b"
     },
     {
       "path": "content/mods/entity-pin-cushions.json",
@@ -214,7 +218,7 @@
     },
     {
       "path": "content/mods/entitytexturefeatures.json",
-      "sha1": "446d4a4e60ad6bea549d5c2af9ae606d846db679"
+      "sha1": "dab25dc3535dd1e1a6be0725021063b4d780b758"
     },
     {
       "path": "content/mods/envelope.json",
@@ -226,7 +230,7 @@
     },
     {
       "path": "content/mods/every-compat.json",
-      "sha1": "bc63152570c083b1d208dc5a494b0431d9dc8197"
+      "sha1": "e260b24557eec78a4e615218a3e604d2cea483ad"
     },
     {
       "path": "content/mods/explosive-enhancement-forge.json",
@@ -242,11 +246,11 @@
     },
     {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "721476ea8bff3b66f5b755c9d61ad10f93669fd6"
+      "sha1": "33b41963beaec44106cb46bc3672052fddc18400"
     },
     {
       "path": "content/mods/featurify.json",
-      "sha1": "1c1dd64ed09de8c84e2f728b904616e32aededad"
+      "sha1": "6d09574f47d64dcc81dbc5c1f3e17c570e0dfacf"
     },
     {
       "path": "content/mods/ferrite-core.json",
@@ -282,7 +286,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "e3f95a5681fdc11a2bc2fe6195f11308533286ff"
+      "sha1": "e799f06eb2392a0a4cfc592990f33e42061e30ed"
     },
     {
       "path": "content/mods/globalpacks.json",
@@ -330,7 +334,7 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "365574aaa89d22078867a5b4143420ccfdb2d656"
+      "sha1": "02d2f618716c6e476e7e300f474828342f2c6730"
     },
     {
       "path": "content/mods/labels.json",
@@ -386,11 +390,15 @@
     },
     {
       "path": "content/mods/modulation.json",
-      "sha1": "2dff99cd4e47e2762b8cbe605bba08608f9d7160"
+      "sha1": "3db1cf5eb55ca7c599aa46ae0ee661eae4f6547b"
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "be80e07829df525c964625188d5b5a1bacfce4d3"
+      "sha1": "0f6e90bff891c4b5af68e45a7fe6d264821bcc88"
+    },
+    {
+      "path": "content/mods/morejs.json",
+      "sha1": "de3fb66a9cc6b2e1779dfed291aae1f9d5fcdcd1"
     },
     {
       "path": "content/mods/mossylib.json",
@@ -454,7 +462,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "bd3bcc9bacb9a439223e13469fc89f2d4b5d02b1"
+      "sha1": "575ab3a6334b1199be616952375b4bd3b686a534"
     },
     {
       "path": "content/mods/portfolio.json",
@@ -558,11 +566,11 @@
     },
     {
       "path": "content/mods/stormies-spiders.json",
-      "sha1": "45563b745b96bd244a663bacb95ab090f8836bee"
+      "sha1": "5c8bee3f665ee3cd6b555c7200047e85c7f2f277"
     },
     {
       "path": "content/mods/structurify.json",
-      "sha1": "259a0c3bd0ca5f7e95d717fa57691c96e32a8b16"
+      "sha1": "6abe57222add15e30993581fda5f3157e8043ee9"
     },
     {
       "path": "content/mods/subtle-effects.json",
@@ -658,7 +666,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "53c335dd70a745cf8dee13b17aa1e08bfada35a3"
+      "sha1": "bc0a3162b65223768e96117f40b5e60596a97f67"
     },
     {
       "path": "content/mods/wayward-attributes.json",
@@ -686,7 +694,7 @@
     },
     {
       "path": "content/resourcepacks/brush-and-juice.json",
-      "sha1": "26b7f1f4ca0118edbbce917e49b1ee02fd6e0365"
+      "sha1": "b8709f53dafc8aecd068122dc5462e72a1334db9"
     },
     {
       "path": "content/resourcepacks/farcrs-better-dirt-modded-compat.json",
@@ -730,7 +738,7 @@
     },
     {
       "path": "content/resourcepacks/sunbathing-godrays.json",
-      "sha1": "b8e832188fdbab4990d442befa2ad2400c45cd86"
+      "sha1": "6016d004076c9d4478fbfa93e7e744bd9353a672"
     },
     {
       "path": "content/resourcepacks/supplementaries-ropes-re-done.json",
@@ -842,7 +850,7 @@
     },
     {
       "path": "overrides/config/alltuttasneeds-common.toml",
-      "sha1": "cb9913dd881ebc923e0ed230de883ad6488c5fd7"
+      "sha1": "db5cefeeb368f65af2f1dcb30c688a398265aca3"
     },
     {
       "path": "overrides/config/alltuttasneeds-startup.toml",
@@ -910,11 +918,11 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "89bd1d68a574ef92ffaa375d122884e562e75359"
+      "sha1": "bc80591d34c2926ca47800ee57d36bc232a33b21"
     },
     {
       "path": "overrides/config/caverns_and_chasms-client.toml",
-      "sha1": "1357215eb8ece9137da20ed2bb446d765b374f0c"
+      "sha1": "7c404a68c27b98e64652ce8cc233884b534af3ca"
     },
     {
       "path": "overrides/config/caverns_and_chasms-common.toml",
@@ -1038,7 +1046,7 @@
     },
     {
       "path": "overrides/config/entity_model_features.json",
-      "sha1": "99c62970fbba2f747e648d9f7004a4426e9b422e"
+      "sha1": "41b8dba9f4aa26ae3c7b511d6c5db3afcb7de5f9"
     },
     {
       "path": "overrides/config/entity_texture_features.json",
@@ -1382,7 +1390,7 @@
     },
     {
       "path": "overrides/config/reliable_recipes/generated_removals.json",
-      "sha1": "094dd92d561ab0fac88e8574f568d1c5129046e0"
+      "sha1": "331cb4cb7d74b62976cba965ec5e7a2d88d0df89"
     },
     {
       "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
@@ -1390,7 +1398,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "e0da383a8032a3c160822ae5118d25c6c5385333"
+      "sha1": "2182ab6917babc727a2d8d5179835c69f661d379"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -1606,7 +1614,7 @@
     },
     {
       "path": "overrides/config/via_romana.json",
-      "sha1": "56edc09f819869c57c0314a17c8d0eda25ba49d1"
+      "sha1": "ed6b3259ff612d778f70f3f57fe543df6b203c70"
     },
     {
       "path": "overrides/config/villalarevolution-common.toml",
@@ -1618,7 +1626,7 @@
     },
     {
       "path": "overrides/config/vista-common.toml",
-      "sha1": "48ad3887503cd9b80bd24b0ae718105ebdbb8508"
+      "sha1": "ef127c8a1010fbb6075e7137e1eb8247446e3dd7"
     },
     {
       "path": "overrides/config/wakes-client.toml",
@@ -1734,7 +1742,7 @@
     },
     {
       "path": "overrides/global_packs/required_data/NoMansMons/.idea/workspace.xml",
-      "sha1": "e0bc28a42411bb8b3145782b6f7003b0bd9e7ceb"
+      "sha1": "79c94ecead1f8323080e64241059757a619a3942"
     },
     {
       "path": "overrides/global_packs/required_data/NoMansMons/NoMansMons.iml",
@@ -1797,6 +1805,18 @@
       "sha1": "a86dcf5aee4fe1f3f8817b143f531c632c3fdd6a"
     },
     {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/create/lang/en_us.json",
+      "sha1": "0b6c0a18aa53619a87d7d49d6c1f23c76259f84e"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/create/textures/item/package/cardboard.png",
+      "sha1": "257c3c14c05b48ae49bcac7a2f9de339fe5cc752"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/assets/create/textures/item/package/cardboard_particle.png",
+      "sha1": "0bea0d32352013a01e5bb67fbfa8f69eace3bc59"
+    },
+    {
       "path": "overrides/global_packs/required_data/NoMansMons/data/cobblemon/dex_entry_additions/yamask-alchemist.json",
       "sha1": "85984c19359a51d3db12bdc6182f0efdc5095227"
     },
@@ -1813,8 +1833,32 @@
       "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
     },
     {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/nmm_recipes/recipe/large_lunar_tile_silver.json",
+      "sha1": "6c79cb68249a3299c8e5dd33a0f55d2b65794288"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/nmm_recipes/recipe/lunar_tiles_silver.json",
+      "sha1": "83ea312fd01edc3fe2e156a2cf1ed74909e069da"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/nmm_recipes/recipe/package_frogport_pm.json",
+      "sha1": "b96f2328ee82b96ff36f3c724da8f4ee395a6008"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/nmm_recipes/recipe/packager_tin.json",
+      "sha1": "f0e9401158408b8beb078aa805d42557348173d1"
+    },
+    {
       "path": "overrides/global_packs/required_data/NoMansMons/data/nmm_recipes/recipe/pc_rework.json",
       "sha1": "9e65340399bb5725333b6d64d36288c29a1392c1"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/nmm_recipes/recipe/splashing/crushed_raw_silver.json",
+      "sha1": "ed00fa07e60186b44837a30ac9a8471ed66353c0"
+    },
+    {
+      "path": "overrides/global_packs/required_data/NoMansMons/data/nmm_recipes/recipe/splashing/crushed_raw_tin.json",
+      "sha1": "44a5061ab7b5e44ba8aa31b10b0f94d1f8406a11"
     },
     {
       "path": "overrides/global_packs/required_data/NoMansMons/pack.mcmeta",
@@ -1834,7 +1878,7 @@
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/.idea/workspace.xml",
-      "sha1": "e0bc28a42411bb8b3145782b6f7003b0bd9e7ceb"
+      "sha1": "79c94ecead1f8323080e64241059757a619a3942"
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/NoMansMons.iml",
@@ -1897,6 +1941,18 @@
       "sha1": "a86dcf5aee4fe1f3f8817b143f531c632c3fdd6a"
     },
     {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/create/lang/en_us.json",
+      "sha1": "0b6c0a18aa53619a87d7d49d6c1f23c76259f84e"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/create/textures/item/package/cardboard.png",
+      "sha1": "257c3c14c05b48ae49bcac7a2f9de339fe5cc752"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/create/textures/item/package/cardboard_particle.png",
+      "sha1": "0bea0d32352013a01e5bb67fbfa8f69eace3bc59"
+    },
+    {
       "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/dex_entry_additions/yamask-alchemist.json",
       "sha1": "85984c19359a51d3db12bdc6182f0efdc5095227"
     },
@@ -1913,8 +1969,32 @@
       "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
     },
     {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/large_lunar_tile_silver.json",
+      "sha1": "6c79cb68249a3299c8e5dd33a0f55d2b65794288"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/lunar_tiles_silver.json",
+      "sha1": "83ea312fd01edc3fe2e156a2cf1ed74909e069da"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/package_frogport_pm.json",
+      "sha1": "b96f2328ee82b96ff36f3c724da8f4ee395a6008"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/packager_tin.json",
+      "sha1": "f0e9401158408b8beb078aa805d42557348173d1"
+    },
+    {
       "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/pc_rework.json",
       "sha1": "9e65340399bb5725333b6d64d36288c29a1392c1"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/splashing/crushed_raw_silver.json",
+      "sha1": "ed00fa07e60186b44837a30ac9a8471ed66353c0"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/splashing/crushed_raw_tin.json",
+      "sha1": "44a5061ab7b5e44ba8aa31b10b0f94d1f8406a11"
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/pack.mcmeta",
@@ -1963,6 +2043,10 @@
     {
       "path": "overrides/kubejs/server_scripts/vanity_additions.js",
       "sha1": "3d07de4ccbecdd52877c0d88b41f7fae1a42f244"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/wandering_trades.js",
+      "sha1": "d8039c369e2d726075e0822ec414712495c46808"
     },
     {
       "path": "overrides/kubejs/startup_scripts/main.js",

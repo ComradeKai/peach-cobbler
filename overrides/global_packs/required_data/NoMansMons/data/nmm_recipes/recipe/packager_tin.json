@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "caverns_and_chasms:packing_container"
+    },
+    "C": {
+      "tag": "c:ingots/iron"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    },
+    "H": {
+      "item": "blocksabound:hatch"
+    },
+    "E": {
+      "item": "cobblemon:electirizer"
+    }
+  },
+  "pattern": [
+    " H ",
+    "CAC",
+    "RER"
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:packager"
+  }
+}
