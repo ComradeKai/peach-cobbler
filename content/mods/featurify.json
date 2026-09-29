@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "BXeGCdww",
       "slug": "featurify",
-      "versionId": "s1OsRGOI",
-      "versionNumber": "neoforge-2.0.14+mc1.21.1",
-      "filename": "featurify-neoforge-2.0.14+mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/BXeGCdww/versions/s1OsRGOI/featurify-neoforge-2.0.14%2Bmc1.21.1.jar",
-      "sha1": "c8b16941acad474148d4a9dc899b4e4a554b1251",
-      "sha512": "983aa8bf1e3aa45c9a1ff9f473f955d2c0172266e82f067f1a64ff341be492787d62cfba15af2afd978a123c736f2adbda2989e70de59339f0a6903a9129cbea",
-      "fileSize": 285975
+      "versionId": "ofWaHk4F",
+      "versionNumber": "neoforge-2.0.16+mc1.21.1",
+      "filename": "featurify-neoforge-2.0.16+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BXeGCdww/versions/ofWaHk4F/featurify-neoforge-2.0.16%2Bmc1.21.1.jar",
+      "sha1": "1931eceddf61ddd3d267cb94a36c97499cfed592",
+      "sha512": "23dfdd6717157bdbe0083f55975fc50687ee767993a73a80008f951becea283a56191f698b0cff4fadc482ec5dd557277cda8573a629b8e465c90ebfd77e35ca",
+      "fileSize": 294664
     }
   },
   "dependents": [],

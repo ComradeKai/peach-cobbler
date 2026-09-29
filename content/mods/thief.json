@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "dGtSkt4t",
       "slug": "thief",
-      "versionId": "Zhr0tVOO",
-      "versionNumber": "1.2.4",
-      "filename": "thief-neoforge-1.21.1-1.2.4.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/dGtSkt4t/versions/Zhr0tVOO/thief-neoforge-1.21.1-1.2.4.jar",
-      "sha1": "b60329465bd719462d171a320ca39134c990ab47",
-      "sha512": "efb6537917445fbafde083f40e4308ee3b1cd40e97576edc4e2b79b2e951668710492e973846898b94ec3d5eed497bb2eceef1e7dd281e9ea2c4f3c2fadb7d29",
-      "fileSize": 350679
+      "versionId": "ktolTeGZ",
+      "versionNumber": "1.2.7",
+      "filename": "thief-neoforge-1.21.1-1.2.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dGtSkt4t/versions/ktolTeGZ/thief-neoforge-1.21.1-1.2.7.jar",
+      "sha1": "40ec93b269bbc2cde969264f73b63317dde075b1",
+      "sha512": "7a78d8cef08cd4f62cadbb2d4cb3b843c9a30197197086817d18ce72709f691257e251f5a10c875d28c25e97aaa3c3e1b043e4f519d4fba3e92e418008e81d31",
+      "fileSize": 342942
     }
   },
   "dependents": [],

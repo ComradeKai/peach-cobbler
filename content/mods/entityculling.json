@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "NNAgCjsB",
       "slug": "entityculling",
-      "versionId": "5zRIon6w",
-      "versionNumber": "1.10.5",
-      "filename": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/5zRIon6w/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-      "sha1": "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf",
-      "sha512": "0c22502b84b13d8ac6daffe14ac77e7306b5b7a48f5cd9b3950d9e1d60b3786104aa035fbfdb208b1c9a75ad0e356301a774da32edc3f71cb3a53e2d28fd39e6",
-      "fileSize": 1585287
+      "versionId": "8w8FfUPs",
+      "versionNumber": "1.11.2",
+      "filename": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "sha1": "2f723582d44b60b41d701a797846eaa45a3fef58",
+      "sha512": "dbb40066796ea54bfe902251ccbe743770e3fa9da555fa762da56b3f0427d4a24d3790a8c224519955185a8d1e17fbad462cd314c3acb998b9fc2c8fec257f7a",
+      "fileSize": 1510018
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "z2XEADmE",
       "slug": "data-anchor",
-      "versionId": "XORWPtYC",
-      "versionNumber": "2.0.0.16-neoforge",
-      "filename": "Data_Anchor-neoforge-1.21.1-2.0.0.16.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/z2XEADmE/versions/XORWPtYC/Data_Anchor-neoforge-1.21.1-2.0.0.16.jar",
-      "sha1": "5ef03df60ebd2db6e97af2132b797bab82e99305",
-      "sha512": "89244cc912b4349fcd4acd30cac0d7f12ce7c8e79a26b93f1e1a7e35a30d52c4322426ba0ea86b88c905b26c6e347c4ba8406c92d6444e0984fb0f21eaf7963d",
-      "fileSize": 119142
+      "versionId": "Q3J2iejk",
+      "versionNumber": "2.0.0.17-neoforge",
+      "filename": "Data_Anchor-neoforge-1.21.1-2.0.0.17.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/z2XEADmE/versions/Q3J2iejk/Data_Anchor-neoforge-1.21.1-2.0.0.17.jar",
+      "sha1": "8794eb858535764839e1c1299d3f3ba82d275ad0",
+      "sha512": "f760e127bc3a4701548da6d80012027aaad8b65c6895362b3f42c224bdf3d0083e0a8b94ec42d01c3f8d03a0e1d8123632f364f819882aa00913a2eee7907a5e",
+      "fileSize": 119167
     }
   },
   "dependents": [

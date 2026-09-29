@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:tinted_glass"
+    }
+  ],
+  "results": [
+    {
+      "id": "cobblemon:blank_tm"
+    }
+  ]
+}

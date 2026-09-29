@@ -10,6 +10,7 @@
   "tabIconSize": 16,
   "syncSelectedCreativeModeTab": true,
   "showCreativeTabNameInSearchbar": true,
+  "switchToSearchTabWhenSearching": false,
   "maxSidebarTabs": 0,
   "disabledCreativeModeTabs": [
     "minecraft:op_blocks"
@@ -20,7 +21,9 @@
   "stackGroupsCraftables": true,
   "stackGroupsWorkstation": false,
   "stackGroupsFavorites": false,
-  "disabledStackGroups": [],
+  "disabledStackGroups": [
+    "c:nuggets/copper"
+  ],
   "stackGroupItemOrder": {},
   "emiOnlyInRecipeBook": false,
   "emiOnlyInRecipeBookState": false,

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "C1MoWQlb",
       "slug": "ziplines-rezipped",
-      "versionId": "4aA41064",
-      "versionNumber": "1.5.2-1.21.1-neoforge",
-      "filename": "zipline-neoforge-1.21.1-1.5.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/C1MoWQlb/versions/4aA41064/zipline-neoforge-1.21.1-1.5.2.jar",
-      "sha1": "99c0e07ec0a4fdf2449dfa10dc562b7a407aa823",
-      "sha512": "3718150dbbf3174d10fcb6447169cf90ade173b17db886e79f27f9a2c2bc5498529dd48f22cb9bbe8dd3f0301604762f4a9704ebdae1b0538293647f7375f90d",
-      "fileSize": 63752
+      "versionId": "aoJSybb5",
+      "versionNumber": "1.5.3+1.21.1-neoforge",
+      "filename": "zipline-1.5.3+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/C1MoWQlb/versions/aoJSybb5/zipline-1.5.3%2B1.21.1-neoforge.jar",
+      "sha1": "4ca5b47c6f58b33f77ffc3809c74f2d7c6dd9b21",
+      "sha512": "47db8340965b18aefc3d809af9fecc9e0e0a05a01da59e40bf66cca135c91ed182fbb46ee249682e56ffb46c22723491b48827a34ee75d01dd7a3c8045cee334",
+      "fileSize": 89295
     }
   },
   "dependents": [],

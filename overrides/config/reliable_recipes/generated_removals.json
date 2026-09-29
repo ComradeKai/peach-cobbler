@@ -5,7 +5,18 @@
       "create:splashing/gravel",
       "cobblemon:pc",
       "create:crafting/logistics/packager",
-      "create:crafting/logistics/package_frogport"
+      "create:crafting/logistics/package_frogport",
+      "nomansland:building/lunar_tiles",
+      "nomansland:building/large_lunar_tile",
+      "blocksabound:redstone_light_bulb",
+      "blocksabound:light_bulb",
+      "blocksabound:soul_light_bulb",
+      "bits_n_bobs:crafting/headlamp",
+      "bits_n_bobs:crafting/lightbulb",
+      "minecraft:glass",
+      "create:crafting/kinetics/mechanical_pump",
+      "create:crafting/kinetics/fluid_tank",
+      "create:crafting/kinetics/fluid_valve"
     ]
   }
 ]

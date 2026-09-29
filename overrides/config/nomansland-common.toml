@@ -157,6 +157,8 @@
 	# Default: 2500
 	# Range: > 0
 	maxMeetingPointDistance = 2500
+	#Dimensions the Friend Moon watches over, as full dimension ids such as "minecraft:overworld". Leave empty to use every dimension that shares the overworld's dimension type, which covers most custom overworld-like dimensions.
+	friendMoonDimensions = []
 
 [bell_sanctuaries]
 	#The minimum distance allowed between a pair of bell sanctuaries. Should NOT be changed after world has generated. Has NO impact on how close two DIFFERENT pairs of bell sanctuaries can be. This must be smaller than max distance

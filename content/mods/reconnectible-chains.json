@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "5pzBXDS3",
       "slug": "reconnectible-chains",
-      "versionId": "4eo89fhi",
-      "versionNumber": "2.3.3-1.21.1-neoforge",
-      "filename": "connectiblechains-neoforge-1.21.1-2.3.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/5pzBXDS3/versions/4eo89fhi/connectiblechains-neoforge-1.21.1-2.3.3.jar",
-      "sha1": "226848759c420d59c1f140bb7093fdcb33869ec8",
-      "sha512": "69cdfbf356cebdd30148b6b5f1cc4e111b1d2f46b2685a836e8e7375be95610a4eeff46331bd811c65638eead3195fd227119892317f3879621079ebeb8f922d",
-      "fileSize": 230176
+      "versionId": "zkYXGCmP",
+      "versionNumber": "2.4.3+1.21.1-neoforge",
+      "filename": "connectiblechains-2.4.3+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5pzBXDS3/versions/zkYXGCmP/connectiblechains-2.4.3%2B1.21.1-neoforge.jar",
+      "sha1": "6191bec2f1abc64a9dd7354d79036c2d68fa7627",
+      "sha512": "2cb5241910578f8510f607714dcec9c08d4d97e2b5a4e80909fe87b8f32b8493a5b9e013fb09acd95458a482d41097e241a71cf3827806b905d40951af929c06",
+      "fileSize": 293176
     }
   },
   "dependents": [],

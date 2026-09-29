@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "G G",
+    "###"
+  ],
+  "key": {
+    "#": {"item": "create:copper_sheet"},
+    "G": {"tag": "c:glass_blocks"}
+  },
+  "result": {
+    "id": "create:fluid_tank",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "c:nuggets/copper",
+  "tag": "c:nuggets/copper",
+  "registry": "minecraft:item",
+  "enabled": false
+}

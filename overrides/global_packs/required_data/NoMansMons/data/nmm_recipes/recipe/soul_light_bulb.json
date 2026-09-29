@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    {
+      "item": "blocksabound:light_bulb"
+    }
+    ],
+  "result": {
+    "count": 1,
+    "id": "blocksabound:soul_light_bulb"
+  }
+}

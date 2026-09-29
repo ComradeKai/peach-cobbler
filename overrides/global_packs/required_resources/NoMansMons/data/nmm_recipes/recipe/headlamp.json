@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "L": {
+      "item": "blocksabound:light_bulb"
+    }
+  },
+  "pattern": [
+    "G",
+    "L",
+    "I"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bits_n_bobs:headlamp"
+  }
+}
