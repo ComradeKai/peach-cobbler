@@ -1,10 +1,10 @@
 {
-  "chainHangAmount": 8.0,
+  "chainHangAmount": 8,
   "maxChainRange": 32,
   "quality": 4,
   "showToolTip": true,
   "showRangeWarningHud": true,
-  "collisionsEnabled": true,
+  "collisionsEnabled": false,
   "hangingBlockCollisions": true,
   "debugDraw": false
 }

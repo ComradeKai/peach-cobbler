@@ -38,7 +38,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "9268c2e1e5115efa2178735069ab799943281e10"
+      "sha1": "a8fd9c6c3f01f8c9a3e44a8225b9baf379daf654"
     },
     {
       "path": "content/mods/azimuth-api.json",
@@ -106,7 +106,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "e66e89f0424b00e06a5dca50a23e8b17b7278f63"
+      "sha1": "3883b3cebff629549eda8bfcaaf979bcbe5dfaaa"
     },
     {
       "path": "content/mods/clutter-no-more.json",
@@ -114,7 +114,11 @@
     },
     {
       "path": "content/mods/cobblemon.json",
-      "sha1": "e1622143e48db95bad9c721d9306c622eab5b3e2"
+      "sha1": "ad8e0bc652d7c725e19aeeda5953366ab9f4e7e0"
+    },
+    {
+      "path": "content/mods/cobbreeding.json",
+      "sha1": "64e092fb93b6cb443e5847045f456637d88d4fb7"
     },
     {
       "path": "content/mods/cobweb.json",
@@ -334,7 +338,7 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "a6348662c19065c7d898c4351ad6d8bbf8bc5610"
+      "sha1": "33d2f128007bb69a8cc80d90a20b16b7f9c62d0c"
     },
     {
       "path": "content/mods/kubejs-create.json",
@@ -1010,7 +1014,7 @@
     },
     {
       "path": "overrides/config/connectiblechains.json",
-      "sha1": "a6af65ba3b03473ddde35af24599ba32f5b7f379"
+      "sha1": "4c327dba2109b559fc0a3089c778e4ca4b9862cc"
     },
     {
       "path": "overrides/config/connectiblechains.toml",
@@ -1450,7 +1454,7 @@
     },
     {
       "path": "overrides/config/sable-common.toml",
-      "sha1": "00dc7fcbb01ea87c7020307e5481e174977f4d79"
+      "sha1": "2ebb497e84f46242782a459db8c4078600d27278"
     },
     {
       "path": "overrides/config/sable-server.toml",
@@ -1602,7 +1606,7 @@
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "090df2c87a41f6f1c4e278984b7591896ce778fb"
+      "sha1": "6c3c95e9493be6d578daffb27605789803d1b426"
     },
     {
       "path": "overrides/config/surveyor.toml",
@@ -2194,7 +2198,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/wandering_trades.js",
-      "sha1": "bd9646494d4c201b5c7d54a1731c5cd534f10d84"
+      "sha1": "4ff060a450c403ef955f06e415148f8566068580"
     },
     {
       "path": "overrides/kubejs/server_scripts/wood.js",

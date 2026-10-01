@@ -4,6 +4,7 @@ MoreJS.wandererTrades((event) => {
     event.addTrade(1, [TradeItem.of("minecraft:emerald", 8, 12)], "cobblemon:black_tumblestone");
     event.addTrade(1, [TradeItem.of("minecraft:emerald", 8, 12)], "cobblemon:tumblestone");
     event.addTrade(1, [TradeItem.of("minecraft:emerald", 8, 12)], "cobblemon:sky_tumblestone");
+    event.addTrade(1, [TradeItem.of("minecraft:emerald", 2, 4)], "minersdelight:cave_carrot");
     event.addTrade(2, [TradeItem.of("minecraft:emerald", 32, 42)], "cobblemon:cherish_ball")
          .transform((offer, entity, random) => {
             offer.maxUses = 3});

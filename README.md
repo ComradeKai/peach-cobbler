@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 171 mods (5 dependencies), 15 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.252**, 172 mods (5 dependencies), 15 resource packs
 
 ## Contents
 
@@ -34,6 +34,7 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
 - [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.1`
+- [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.4.0`
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.40-fabric+forge+neo`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
