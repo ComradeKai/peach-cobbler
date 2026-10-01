@@ -997,6 +997,10 @@
       "sha1": "529cdb1523db4193243a55a888ea3378b1a569e2"
     },
     {
+      "path": "overrides/config/cobbreeding/main.json",
+      "sha1": "3f9a1b981107ceab9ce98bbda8871e90fb4e2f68"
+    },
+    {
       "path": "overrides/config/collective.json5",
       "sha1": "c1624f54bd7a0d62ba11ec281fb6baf6901874ac"
     },
