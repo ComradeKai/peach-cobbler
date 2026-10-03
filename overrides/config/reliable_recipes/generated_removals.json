@@ -16,7 +16,10 @@
       "minecraft:glass",
       "create:crafting/kinetics/mechanical_pump",
       "create:crafting/kinetics/fluid_tank",
-      "create:crafting/kinetics/fluid_valve"
+      "create:crafting/kinetics/fluid_valve",
+      "create:crafting/kinetics/empty_blaze_burner",
+      "aeronautics:adjustable_burner",
+      "create:crafting/kinetics/item_vault"
     ]
   }
 ]

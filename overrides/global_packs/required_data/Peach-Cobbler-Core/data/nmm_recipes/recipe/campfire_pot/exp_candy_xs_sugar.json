@@ -1,0 +1,14 @@
+{"category":"medicines",
+  "ingredients":[
+    {"item":"create:experience_nugget"},
+    {"item":"minecraft:sugar"},
+    {"item":"minecraft:sugar"},
+    {"item":"minecraft:sugar"},
+    {"item":"minecraft:sugar"},
+    {"item":"minecraft:sugar"},
+    {"item":"minecraft:sugar"}
+  ],
+  "result":{"id":"cobblemon:exp_candy_xs"},
+  "seasoningProcessors":[],
+  "seasoningTag":"cobblemon:empty",
+  "type":"cobblemon:cooking_pot_shapeless"}

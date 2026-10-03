@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "7L1HalIW",
       "slug": "weaker-spiderwebs",
-      "versionId": "V9fO9wka",
-      "versionNumber": "1.21.1-3.8-fabric+forge+neo",
-      "filename": "weakerspiderwebs-1.21.1-3.8.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/7L1HalIW/versions/V9fO9wka/weakerspiderwebs-1.21.1-3.8.jar",
-      "sha1": "be1f3c23982390b3b2588b4a1d6ac55282466ed1",
-      "sha512": "26fc05b83f76cc30befc33549d2cfbae456734f869912a98e250f6b55c8b378c36dd6c53982b759402e5b55d8fbef0f4688e47ac61002c3b09c142c84220b366",
-      "fileSize": 44411
+      "versionId": "zMyz3Rbg",
+      "versionNumber": "1.21.1-4.0-fabric+forge+neo",
+      "filename": "weakerspiderwebs-1.21.1-4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7L1HalIW/versions/zMyz3Rbg/weakerspiderwebs-1.21.1-4.0.jar",
+      "sha1": "32666082169a846e6f9d551160bd9bed4a4f0873",
+      "sha512": "5dcde1e204e8e22024b03f32ab95f25fc46ac870b97be0ae8c946e1e3ed92fcd2ccba0e9dcf889bddd2a8088ab6559eb0e5b6fbc79a22fce6be882fcc16fbe09",
+      "fileSize": 44300
     }
   },
   "dependents": [],

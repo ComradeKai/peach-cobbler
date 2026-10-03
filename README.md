@@ -35,7 +35,7 @@
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
 - [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.1`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.4.0`
-- [Collective](https://modrinth.com/project/collective) `1.21.1-8.40-fabric+forge+neo`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.41-fabric+forge+neo`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
@@ -73,7 +73,7 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Featurify - WorldGen Control](https://modrinth.com/project/featurify) `neoforge-2.0.16+mc1.21.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- [Field Guide](https://modrinth.com/project/field-guide) `1.18.0-1.21.1-neoforge`
+- [Field Guide](https://modrinth.com/project/field-guide) `1.20.1+1.21.1-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Fishermen's Trap [Neo/Fabric]](https://modrinth.com/project/fishermens-trap) `3.1.0`
 - [Flamy Flames](https://modrinth.com/project/flamy-flames) `1.1.0`
@@ -105,7 +105,7 @@
 - [Miner's Delight](https://modrinth.com/project/miners-delight) `1.4.5`
 - [Modded Gallery Compat](https://modrinth.com/project/gallery-portfolio-compat) `1.6`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.24+mc1.21.1`
-- [Modulation](https://modrinth.com/project/modulation) `3.5.1-1.21.1-neoforge`
+- [Modulation](https://modrinth.com/project/modulation) `3.6.2-1.21.1-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.0`
 - [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [MossyLib](https://modrinth.com/project/mossylib) `1.6.0+1.21.1+neoforge`
@@ -129,17 +129,17 @@
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Pretty Beaches](https://modrinth.com/project/pretty-beaches) `21.1.3+neoforge-1.21.1`
 - [Probleyes' Produce](https://modrinth.com/project/probleyes-produce) `1.6`
-- [Puddles & Floods](https://modrinth.com/project/puddles-floods) `v1.1.5+1.21.1-neoforge`
-- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.60`
-- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.3+1.21.1-neoforge`
+- [Puddles & Floods](https://modrinth.com/project/puddles-floods) `v1.1.6+1.21.1-neoforge`
+- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.62`
+- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+1.21.1-neoforge`
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.8-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.4.1-1.21.1-neoforge`
-- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.2.1+1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.3.0+1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.3.0+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.3.1+1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
-- [Sable](https://modrinth.com/project/sable) `2.0.5+mc1.21.1`
-- [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.4-fabric+forge+neo`
+- [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
+- [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.6-fabric+forge+neo`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.5`
 - [Screenshot Viewer](https://modrinth.com/project/screenshot-viewer) `1.21.1-neoforge-1`
 - [Showcase Item](https://modrinth.com/project/showcase-item) `1.21.1-1.1.0`
@@ -156,7 +156,7 @@
 - [Stony Cliffs Are Cool](https://modrinth.com/project/stony-cliffs-are-cool) `1.1.2`
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
 - [Stormie's Spiders](https://modrinth.com/project/stormies-spiders) `3.3.2-neoforge`
-- [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.41+mc1.21.1`
+- [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.42+mc1.21.1`
 - [Subtle Effects](https://modrinth.com/project/subtle-effects) `1.14.3`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
@@ -185,7 +185,7 @@
 - [Villa la Revolution](https://modrinth.com/project/villa-la-revolution) `1.0.0`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Wayward Attributes](https://modrinth.com/project/wayward-attributes) `1.1.1`
-- [Weaker Spiderwebs](https://modrinth.com/project/weaker-spiderwebs) `1.21.1-3.8-fabric+forge+neo`
+- [Weaker Spiderwebs](https://modrinth.com/project/weaker-spiderwebs) `1.21.1-4.0-fabric+forge+neo`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.46.0`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
