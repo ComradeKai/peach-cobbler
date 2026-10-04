@@ -2237,6 +2237,14 @@
       "sha1": "48e1e84a0f39e77263a36f6d0d7f7759b3faac67"
     },
     {
+      "path": "overrides/kubejs/server_scripts/clogroot_in_pot.js",
+      "sha1": "a384688454f584730194d5015b6040d00c572659"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/clogroot_replace_glow_berries.js",
+      "sha1": "f672885b02f1e4044d89400a4bb5f4029aec5ac0"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/main.js",
       "sha1": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
     },
