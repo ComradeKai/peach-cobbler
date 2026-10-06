@@ -38,7 +38,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "a8fd9c6c3f01f8c9a3e44a8225b9baf379daf654"
+      "sha1": "787ecb40e9305b55994706f701b5f0704cd01ae3"
     },
     {
       "path": "content/mods/azimuth-api.json",
@@ -70,7 +70,7 @@
     },
     {
       "path": "content/mods/blocks-abound.json",
-      "sha1": "3fa9e036a3a4ba03133c291ca6b50829a427a5f5"
+      "sha1": "a535b433ff4bee6a86620ec355681a89f39a5c83"
     },
     {
       "path": "content/mods/blueprint.json",
@@ -126,7 +126,7 @@
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "ad149830622f57cdd12158c9399933e127f99c45"
+      "sha1": "fc4f1242b27b1005cd51467e2ea46c5cb3ef920c"
     },
     {
       "path": "content/mods/combat-nouveau.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "8a275ffe7c63926933fa33fbf0015f0cb6b21440"
+      "sha1": "b0ede549a6eb264e4b1b13e739cb087c156f35a7"
     },
     {
       "path": "content/mods/data-anchor.json",
@@ -218,7 +218,7 @@
     },
     {
       "path": "content/mods/entity-model-features.json",
-      "sha1": "4addc9fd382b027928d50d9307cccd217f370c1b"
+      "sha1": "eeac4b97cb08a18618a878caa03d7739e279c8e6"
     },
     {
       "path": "content/mods/entity-pin-cushions.json",
@@ -230,7 +230,7 @@
     },
     {
       "path": "content/mods/entitytexturefeatures.json",
-      "sha1": "dab25dc3535dd1e1a6be0725021063b4d780b758"
+      "sha1": "4f860330eb2906d58369ec76d4dc8df55df42dc5"
     },
     {
       "path": "content/mods/envelope.json",
@@ -258,7 +258,7 @@
     },
     {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "33b41963beaec44106cb46bc3672052fddc18400"
+      "sha1": "ceca0f8970f40d099cac695b3d526de3d5d129c2"
     },
     {
       "path": "content/mods/featurify.json",
@@ -270,7 +270,7 @@
     },
     {
       "path": "content/mods/field-guide.json",
-      "sha1": "ca6abd4a917ae7dd143cc775bc830d930791bf36"
+      "sha1": "3306ed2107bcfbfab0ea1fbee5b6e45556ca1c33"
     },
     {
       "path": "content/mods/figura.json",
@@ -341,12 +341,8 @@
       "sha1": "33d2f128007bb69a8cc80d90a20b16b7f9c62d0c"
     },
     {
-      "path": "content/mods/kubejs-create.json",
-      "sha1": "7ca4bb822dd1e42ad755a70ce72d1fdc0a1033a3"
-    },
-    {
       "path": "content/mods/kubejs.json",
-      "sha1": "02d2f618716c6e476e7e300f474828342f2c6730"
+      "sha1": "e11c6e19598e2ad1caadb8cf3c93ba8dfd77e021"
     },
     {
       "path": "content/mods/labels.json",
@@ -406,7 +402,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "528079027ae371c012e9aad40598dda702e79054"
+      "sha1": "f418b96118768abf3717fbba8b1c67fb28d026da"
     },
     {
       "path": "content/mods/morejs.json",
@@ -439,6 +435,10 @@
     {
       "path": "content/mods/not-enough-animations.json",
       "sha1": "1367fa8b4839c6d2f8e4abf2951e995dc3e333d3"
+    },
+    {
+      "path": "content/mods/onion-onion.json",
+      "sha1": "cfc1a624eadce7060b15c1af3c3769c481d8a83e"
     },
     {
       "path": "content/mods/paintersinc.json",
@@ -510,11 +510,11 @@
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "289152f6ebe19bc1b3af0a21849f1ccc620b086e"
+      "sha1": "137a29d5b5c18406abf31a19e9b1be2bc3c5993c"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "cab9f6decae84a5f7bf17beb0581598aa44cc7fd"
+      "sha1": "fb6c112c0595acf7bbcb874e9e4fc76d186c87bf"
     },
     {
       "path": "content/mods/rhino.json",
@@ -698,7 +698,7 @@
     },
     {
       "path": "content/mods/xaeros-world-map.json",
-      "sha1": "49e13f9e1f3b742c2835c784b4172195147036c6"
+      "sha1": "603ecaa569cab21eba444970147177137de4ddcf"
     },
     {
       "path": "content/mods/yacl.json",
@@ -998,7 +998,7 @@
     },
     {
       "path": "overrides/config/cobbreeding/main.json",
-      "sha1": "3f9a1b981107ceab9ce98bbda8871e90fb4e2f68"
+      "sha1": "0c83e6619cd1ef377159bc14b27fedd38caae43b"
     },
     {
       "path": "overrides/config/collective.json5",
@@ -1383,6 +1383,10 @@
     {
       "path": "overrides/config/offroad-server.toml",
       "sha1": "1dc8951f873e490ae81989d878cb8b5101455d49"
+    },
+    {
+      "path": "overrides/config/onion_onion-common.toml",
+      "sha1": "2b3082234cce808cf825ab138ce324f647341b92"
     },
     {
       "path": "overrides/config/particlerain/config.json",
@@ -2017,6 +2021,10 @@
       "sha1": "c0d3de1911a1704c391a5d883661480e851cee0c"
     },
     {
+      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/dictionaries/project.xml",
+      "sha1": "bc844a8b4cf2fd3f788a9828e8b2a7d0c150a27b"
+    },
+    {
       "path": "overrides/global_packs/required_resources/NoMansMons/.idea/misc.xml",
       "sha1": "cf54cfe23d703493c8eb21294fdeaa9a307bbcbe"
     },
@@ -2025,15 +2033,19 @@
       "sha1": "e6c6685f8b8c3779b4a4f4b0b65e372b00a7e498"
     },
     {
+      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/vcs.xml",
+      "sha1": "c92f3eb0ad1c70371e177a4d7d741f90af3f902c"
+    },
+    {
       "path": "overrides/global_packs/required_resources/NoMansMons/.idea/workspace.xml",
-      "sha1": "7cde2a76ef723b8e7af6e18965b61825b08a9e37"
+      "sha1": "6809104efc78bf188f80630aa976b099ce0ed880"
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/NoMansMons.iml",
       "sha1": "829eca3072f5d28232a1b24e0b6b02a1e9d557da"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/bits_n_bobs/lang/assets/bits_n_bobs/lang/en_us.json",
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/bits_n_bobs/lang/en_us.json",
       "sha1": "bbfa977b474d7300077b4edce05fc3cc84579301"
     },
     {
@@ -2093,6 +2105,18 @@
       "sha1": "a86dcf5aee4fe1f3f8817b143f531c632c3fdd6a"
     },
     {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/colored_packages/textures/item/package/green.png",
+      "sha1": "59e0ff0485a9e73dc54438120e64cd13e7bc966d"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/colored_packages/textures/item/package/purple.png",
+      "sha1": "a9e2364518fe0630a5fac962f46a0c76387cbe3b"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/assets/colored_packages/textures/item/package/white.png",
+      "sha1": "6d9e82b0c3c8c346a385cb0f551e8f8d927eeb53"
+    },
+    {
       "path": "overrides/global_packs/required_resources/NoMansMons/assets/create/lang/en_us.json",
       "sha1": "0b6c0a18aa53619a87d7d49d6c1f23c76259f84e"
     },
@@ -2121,6 +2145,14 @@
       "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
     },
     {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/blaze_burner.json",
+      "sha1": "6100eda43d12b15a25ab31e93b0ac49e37ce1243"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/campfire_pot/exp_candy_xs_sugar.json",
+      "sha1": "05be8f793a342e0bb2a246052e949f08f6d643ae"
+    },
+    {
       "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/crushing/crushing_evolution_stones.json",
       "sha1": "7e64226add93f1b9aebf4ff1121fd4f6adb9783d"
     },
@@ -2135,6 +2167,14 @@
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/headlamp.json",
       "sha1": "20457584af2fc1165fb017034faf93032c70d51c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/hot_air_burner.json",
+      "sha1": "e9ad11283877f76e3ba5066123267935b20afd7c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/item_vault.json",
+      "sha1": "399d6390389e30fffa70b5b8d5115e7a6fca386c"
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/large_lunar_tile_silver.json",
@@ -2155,6 +2195,30 @@
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/milling/milling_evolution_stones.json",
       "sha1": "92f63047e3c3e7223ad45dde7ce93d598fbc1ad6"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_l.json",
+      "sha1": "7a57d19234754f466889da3fd1fb99942e11154f"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_m.json",
+      "sha1": "3610579d0086872fc33713c9f99bdec6f45f2b0f"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_s.json",
+      "sha1": "4124afe6873902e76cb6afa005070efb237bfa17"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_xl.json",
+      "sha1": "9b1ad22e491f441bf93035afec92060bb8800723"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_xs_honeycomb.json",
+      "sha1": "87b64bc73bac872bdb2a8cdfc42f09354cf29167"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_xs_sugar.json",
+      "sha1": "3e2480fb385522ce762745e5428301c724c3f4f6"
     },
     {
       "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/package_frogport_pm.json",
@@ -2261,12 +2325,16 @@
       "sha1": "4ff060a450c403ef955f06e415148f8566068580"
     },
     {
+      "path": "overrides/kubejs/server_scripts/wheat.js",
+      "sha1": "ff1ad8c1268ddf8d12c208ea69c933af4c7b77a9"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/wood.js",
       "sha1": "7f6dc6a6b8537f0940cc49ac8cfec74036f35ea4"
     },
     {
       "path": "overrides/kubejs/startup_scripts/main.js",
-      "sha1": "adcd88f3d2f5994e652f9328381a3c17b2cc743b"
+      "sha1": "8b1d17e36e62cedfc2d748412d7a05fe17baee35"
     },
     {
       "path": "overrides/mods/BrewinAndChewin-neoforge-5.0.0-PATREONPREVIEW1-1.21.1).jar",

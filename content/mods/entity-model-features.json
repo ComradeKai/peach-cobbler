@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "4I1XuqiY",
       "slug": "entity-model-features",
-      "versionId": "gEOHNhtN",
-      "versionNumber": "3.3.9-neoforge-1.21",
-      "filename": "entity_model_features-3.3.9-1.21-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/4I1XuqiY/versions/gEOHNhtN/entity_model_features-3.3.9-1.21-neoforge.jar",
-      "sha1": "022780fc9f221fc87ba507c6542d47c8e1e4889a",
-      "sha512": "566abfd11f6281bb0817e253624e9c7c2aa028f85ac93a24c276a0561fbc5c19a527f8f2ca200477d16cdb362ced9ca6b740b81ad926133188706c6ada0048cc",
-      "fileSize": 641785
+      "versionId": "bRlX1x4e",
+      "versionNumber": "3.3.11-neoforge-1.21",
+      "filename": "entity_model_features-3.3.11-1.21-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4I1XuqiY/versions/bRlX1x4e/entity_model_features-3.3.11-1.21-neoforge.jar",
+      "sha1": "fc551f0a284a5864fbc1a11fde5e27ab0ac95f43",
+      "sha512": "18783cfc82c6668108c150e44359033f5fd4dacecf3255a7779a2e96d3cf6ff5e743059032ff66993e63bf01220d27c4e525a2a862bcdf74f85b9de3651c1ab6",
+      "fileSize": 655485
     }
   },
   "dependents": [],

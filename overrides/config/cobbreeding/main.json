@@ -4,7 +4,7 @@
   "mirrorHerbTimeInTicks": 600,
   "eggHatchMultiplier": 0.5,
   "shinyMethod": {
-    "masuda": 4.0,
+    "masuda": 6.0,
     "crystal": 1.0,
     "always": 1.0
   },
@@ -15,7 +15,7 @@
   "dittoAndDittoAllowParadox": false,
   "dittoAndDittoAllowUltraBeast": false,
   "dittoAndDittoAllowUndiscovered": false,
-  "allowHoppersToPullFromPastureBlock": false,
+  "allowHoppersToPullFromPastureBlock": true,
   "inheritedFeatures": [
     "bagworm_cloak",
     "color",
@@ -33,12 +33,13 @@
     "tatsugiri_texture",
     "whiscash_nero",
     "wooper_heart",
-    "wolf_form"
+    "wolf_form",
+    ""
   ],
   "maxNumberOfActivatedPasturePerPlayer": -1,
-  "pastureInventorySize": 5,
+  "pastureInventorySize": 6,
   "eggEncryptionEnabled": true,
   "cobblemonSizeVariationsCompatEnabled": true,
-  "alphaChances": 0.005,
+  "alphaChances": 0.01,
   "inheritAlpha": false
 }

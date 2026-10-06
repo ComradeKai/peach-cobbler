@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "cobblemon:magmarizer"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "S": {
+      "item": "create:iron_sheet"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "S S",
+    "SMS",
+    "ARA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "aeronautics:adjustable_burner"
+  }
+}

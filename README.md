@@ -4,8 +4,8 @@
 
 ## Contents
 
-- [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.9-neoforge-1.21`
-- [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.4-neoforge-1.21`
+- [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.11-neoforge-1.21`
+- [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.5-neoforge-1.21`
 - [Abnormals Delight](https://modrinth.com/project/abnormals-delight) `6.0.3`
 - [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
 - [Adapted Mobs](https://modrinth.com/project/adapted-mobs) `1.1.1-1.21.1-neoforge`
@@ -22,7 +22,7 @@
 - [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.13`
 - [Biome Cleaner](https://modrinth.com/project/biome-cleaner) `1.1.8`
-- [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.3.0`
+- [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.4.0`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Boatload](https://modrinth.com/project/boatload) `6.0.2`
 - [Brush & Juice](https://modrinth.com/project/brush-and-juice) `7.2.1`
@@ -35,7 +35,7 @@
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
 - [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.1`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.4.0`
-- [Collective](https://modrinth.com/project/collective) `1.21.1-8.41-fabric+forge+neo`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.42-fabric+forge+neo`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
@@ -73,7 +73,7 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Featurify - WorldGen Control](https://modrinth.com/project/featurify) `neoforge-2.0.16+mc1.21.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- [Field Guide](https://modrinth.com/project/field-guide) `1.20.1+1.21.1-neoforge`
+- [Field Guide](https://modrinth.com/project/field-guide) `1.21.0+1.21.1-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Fishermen's Trap [Neo/Fabric]](https://modrinth.com/project/fishermens-trap) `3.1.0`
 - [Flamy Flames](https://modrinth.com/project/flamy-flames) `1.1.0`
@@ -92,7 +92,6 @@
 - [Jumpy Boats](https://modrinth.com/project/jumpy-boats) `1.21.0-1.0.5`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.377`
-- [KubeJS Create](https://modrinth.com/project/kubejs-create) `2101.3.1-build.18`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
@@ -106,7 +105,7 @@
 - [Modded Gallery Compat](https://modrinth.com/project/gallery-portfolio-compat) `1.6`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.24+mc1.21.1`
 - [Modulation](https://modrinth.com/project/modulation) `3.6.2-1.21.1-neoforge`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.0`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.1`
 - [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [MossyLib](https://modrinth.com/project/mossylib) `1.6.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
@@ -117,6 +116,7 @@
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Enderman Grief](https://modrinth.com/project/no-enderman-grief) `v.2.1.2+mod`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.6`
+- [Onion Onion](https://modrinth.com/project/onion-onion) `3.1.0`
 - [PaintersInc](https://modrinth.com/project/paintersinc) `2.0.0`
 - [Particle Interactions](https://modrinth.com/project/particle-interactions) `0.4.1`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4-beta.11+1.21.1-neoforge`
@@ -135,8 +135,8 @@
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.4.1-1.21.1-neoforge`
-- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.3.0+1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.3.1+1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.3.1+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.4.0+1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.6-fabric+forge+neo`
@@ -187,7 +187,7 @@
 - [Wayward Attributes](https://modrinth.com/project/wayward-attributes) `1.1.1`
 - [Weaker Spiderwebs](https://modrinth.com/project/weaker-spiderwebs) `1.21.1-4.0-fabric+forge+neo`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
-- [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.46.0`
+- [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 - [You've Goat to be Kidding Me](https://modrinth.com/project/goated) `neoforge_1.21-1.4.3`
 - [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.3+1.21.1-neoforge`
