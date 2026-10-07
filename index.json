@@ -1306,7 +1306,7 @@
     },
     {
       "path": "overrides/config/lmft.json",
-      "sha1": "cc01fc9b9cfe79c57a1e65ac2f9915834fe446fe"
+      "sha1": "35494e6c027e9b91ddea2de149b377b95e29951b"
     },
     {
       "path": "overrides/config/lodestone-client.toml",
