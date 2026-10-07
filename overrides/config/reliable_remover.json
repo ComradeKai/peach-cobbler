@@ -247,6 +247,10 @@
     "bits_n_bobs:calcite_tiles",
     "bits_n_bobs:dripstone_tiles",
     "bits_n_bobs:tuff_tiles",
-    "bits_n_bobs:asurine_tiles"
+    "bits_n_bobs:asurine_tiles",
+    "create:dough",
+    "minersdelight:moss",
+    "minersdelight:golden_nutritional_bar",
+    "cobblemon:hearty_grains"
   ]
 }

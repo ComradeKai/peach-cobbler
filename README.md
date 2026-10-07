@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 172 mods (5 dependencies), 15 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.256**, 173 mods (5 dependencies), 15 resource packs
 
 ## Contents
 
@@ -73,7 +73,7 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Featurify - WorldGen Control](https://modrinth.com/project/featurify) `neoforge-2.0.16+mc1.21.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- [Field Guide](https://modrinth.com/project/field-guide) `1.21.0+1.21.1-neoforge`
+- [Field Guide](https://modrinth.com/project/field-guide) `1.21.1+1.21.1-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Fishermen's Trap [Neo/Fabric]](https://modrinth.com/project/fishermens-trap) `3.1.0`
 - [Flamy Flames](https://modrinth.com/project/flamy-flames) `1.1.0`
@@ -96,6 +96,7 @@
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0-neoforge-21.1`
+- [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`
 - [Mannequins](https://modrinth.com/project/mannequins) `3.0.0-rc.1`
 - [Map Distance Fix](https://modrinth.com/project/map-distance-fix) `1.1.2+mc1.21-1.21.11`
@@ -119,7 +120,7 @@
 - [Onion Onion](https://modrinth.com/project/onion-onion) `3.1.0`
 - [PaintersInc](https://modrinth.com/project/paintersinc) `2.0.0`
 - [Particle Interactions](https://modrinth.com/project/particle-interactions) `0.4.1`
-- [Particle Rain](https://modrinth.com/project/particle-rain) `v4-beta.11+1.21.1-neoforge`
+- [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.1+1.21.1-neoforge`
 - [Pause Day Cycle](https://modrinth.com/project/pause-day-cycle) `1.1.1+mod`
 - [Penchant](https://modrinth.com/project/penchant) `0.3.7+connector+mc1.21.1`
 - [Pick Up Notifier](https://modrinth.com/project/pick-up-notifier) `v21.1.1-1.21.1-NeoForge`
@@ -135,8 +136,8 @@
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.4.1-1.21.1-neoforge`
-- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.3.1+1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.4.0+1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.4.0+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.5.0+1.21.1-neoforge`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.6-fabric+forge+neo`
@@ -157,7 +158,7 @@
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
 - [Stormie's Spiders](https://modrinth.com/project/stormies-spiders) `3.3.2-neoforge`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.42+mc1.21.1`
-- [Subtle Effects](https://modrinth.com/project/subtle-effects) `1.14.3`
+- [Subtle Effects](https://modrinth.com/project/subtle-effects) `1.15.0`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
 - [Supplementaries Rope Tweaks](https://modrinth.com/project/supplementaries-ropes-re-done) `2.0`

@@ -270,7 +270,7 @@
     },
     {
       "path": "content/mods/field-guide.json",
-      "sha1": "3306ed2107bcfbfab0ea1fbee5b6e45556ca1c33"
+      "sha1": "3972adf4adb0916d0bbfb599bed0ab583f1cbe8d"
     },
     {
       "path": "content/mods/figura.json",
@@ -365,6 +365,10 @@
       "sha1": "92453c9cf6024638e8e4d582df1f9e88b19bd0e5"
     },
     {
+      "path": "content/mods/lmft.json",
+      "sha1": "0c8f8e9ef062126f686f2c6d1a056b1dbddeba17"
+    },
+    {
       "path": "content/mods/lodestonelib.json",
       "sha1": "fd7adf663924e10b80219d5c661b1b45ef83e884"
     },
@@ -450,7 +454,7 @@
     },
     {
       "path": "content/mods/particle-rain.json",
-      "sha1": "d754a9dd488d1952ae4f16f046210139b3c83d07"
+      "sha1": "496a8ab20d111e1683c5fbd2daaef656754e14b5"
     },
     {
       "path": "content/mods/pause-day-cycle.json",
@@ -510,11 +514,11 @@
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "137a29d5b5c18406abf31a19e9b1be2bc3c5993c"
+      "sha1": "b4f51be1effd9a3274217ee8f2bfdf7605360a8b"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "fb6c112c0595acf7bbcb874e9e4fc76d186c87bf"
+      "sha1": "932fdc02d0f775543979a3f9a2b7e79e6b6c5a71"
     },
     {
       "path": "content/mods/rhino.json",
@@ -590,7 +594,7 @@
     },
     {
       "path": "content/mods/subtle-effects.json",
-      "sha1": "056ae40f7ffa4f16197974905a8f8349781f0c85"
+      "sha1": "562c4cecdff151a7551b4bb38c37c7a768f8a852"
     },
     {
       "path": "content/mods/supermartijn642s-config-lib.json",
@@ -1170,7 +1174,7 @@
     },
     {
       "path": "overrides/config/featurify.json",
-      "sha1": "06c42e5913c63e38b544cc59789e14dd39bb7f57"
+      "sha1": "97f5c5f2d2f16616d21eaa48779360aa0b5ecc3e"
     },
     {
       "path": "overrides/config/featurify/featurify_backup_2026-08-31_17-45-00.json",
@@ -1183,6 +1187,10 @@
     {
       "path": "overrides/config/featurify/featurify_backup_2026-08-31_19-46-02.json",
       "sha1": "b19698f858543fa1d0459cb28d5cc5b940b6bb11"
+    },
+    {
+      "path": "overrides/config/featurify/featurify_backup_2026-10-07_17-08-13.json",
+      "sha1": "06c42e5913c63e38b544cc59789e14dd39bb7f57"
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
@@ -1297,6 +1305,10 @@
       "sha1": "25a9fbeb8f4983e718327cb08392e755e2730f95"
     },
     {
+      "path": "overrides/config/lmft.json",
+      "sha1": "cc01fc9b9cfe79c57a1e65ac2f9915834fe446fe"
+    },
+    {
       "path": "overrides/config/lodestone-client.toml",
       "sha1": "db4dbb662f729686830fb0d461313184d1fc2f2f"
     },
@@ -1390,7 +1402,11 @@
     },
     {
       "path": "overrides/config/particlerain/config.json",
-      "sha1": "9446a028f725952b57f12ecde1ebb52776738b25"
+      "sha1": "1676c71f3041cc4e42cbf5e2b53ea39be4fe5929"
+    },
+    {
+      "path": "overrides/config/particlerain/particles.json",
+      "sha1": "a3cda0c7a58a55ccc32db19869e13bc9e9a003e7"
     },
     {
       "path": "overrides/config/penchant/client.toml",
@@ -1434,7 +1450,7 @@
     },
     {
       "path": "overrides/config/reliable_recipes/generated_removals.json",
-      "sha1": "17afaa960c4f4c71e89bc7af1554ce7509bb2370"
+      "sha1": "b4217a5223430c22cb119380edf26e5d9fe84885"
     },
     {
       "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
@@ -1442,7 +1458,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "8117779946ee8ac3cb84c3c8ed7a6478d7a32b49"
+      "sha1": "885db3198eb6d898d4885f2d54aaf2d7a027e329"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -1546,7 +1562,7 @@
     },
     {
       "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "abf996bcb8236ba5b5ebd40847e0434ddd9b4027"
+      "sha1": "75ba6edf6ccdbab4f9fd8c4160d3ea560e4eb3e8"
     },
     {
       "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
@@ -1590,23 +1606,23 @@
     },
     {
       "path": "overrides/config/subtle_effects/blocks.toml",
-      "sha1": "7286704a1ae60568634a282dcadaa132fa40c103"
+      "sha1": "57c2060953309cd78b093f6164f59c0c2dae0e88"
     },
     {
       "path": "overrides/config/subtle_effects/entities.toml",
-      "sha1": "9f976ed1ece30baaf6b79992c5848e09e1607aee"
+      "sha1": "eecbd8754db6db914e2be7ff4ec7988bd219a3d1"
     },
     {
       "path": "overrides/config/subtle_effects/environment.toml",
-      "sha1": "7721a38d57d95f8d7b076ce65d6b65743421e20d"
+      "sha1": "90f16b67bd33b5ae191a659711c42c3660d2d4b3"
     },
     {
       "path": "overrides/config/subtle_effects/general.toml",
-      "sha1": "172274ac5521fc66b331b6bb9e663da3ce7e0593"
+      "sha1": "97c641e5d748a3e68af9fc1a48dd6accb7eb17f4"
     },
     {
       "path": "overrides/config/subtle_effects/items.toml",
-      "sha1": "32cddbfcaa159ea604f3cbd3c2d0243c4d11db9b"
+      "sha1": "879727eceee1a21103f2775d37260b6a2506bd02"
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
@@ -1777,495 +1793,763 @@
       "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/.idea/.gitignore",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/.idea/.gitignore",
       "sha1": "c0d3de1911a1704c391a5d883661480e851cee0c"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/.idea/dictionaries/project.xml",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/.idea/dictionaries/project.xml",
       "sha1": "bc844a8b4cf2fd3f788a9828e8b2a7d0c150a27b"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/.idea/misc.xml",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/.idea/misc.xml",
       "sha1": "cf54cfe23d703493c8eb21294fdeaa9a307bbcbe"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/.idea/modules.xml",
-      "sha1": "e6c6685f8b8c3779b4a4f4b0b65e372b00a7e498"
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/.idea/modules.xml",
+      "sha1": "d4f3f4d74d5982a6d3b544e3f98776bc5085769a"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/.idea/vcs.xml",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/.idea/vcs.xml",
       "sha1": "c92f3eb0ad1c70371e177a4d7d741f90af3f902c"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/.idea/workspace.xml",
-      "sha1": "8ff9fce063edc2ded1db1bc2d2de0d054f5a72d7"
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/.idea/workspace.xml",
+      "sha1": "7cb486b16e88e7e539a2819c0d66ee987698f299"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/NoMansMons.iml",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/PeachCobbler.iml",
       "sha1": "829eca3072f5d28232a1b24e0b6b02a1e9d557da"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/bits_n_bobs/lang/en_us.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/bits_n_bobs/lang/en_us.json",
       "sha1": "bbfa977b474d7300077b4edce05fc3cc84579301"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/bedrock/pokemon/models/yamask.geo.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/bedrock/pokemon/models/yamask.geo.json",
       "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/bedrock/pokemon/models/yamask_alchemist.geo.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/bedrock/pokemon/models/yamask_alchemist.geo.json",
       "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/bedrock/pokemon/resolvers/0562_yamask/2_yamask_base.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/bedrock/pokemon/resolvers/0562_yamask/2_yamask_base.json",
       "sha1": "da94c1d3e7ba48b4b0a7d33aa9efc9fef103f1be"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/lang/en_us.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/lang/en_us.json",
       "sha1": "e76b2fb645f5efbd96334e82481e85a5cb525276"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/models/block/pc.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/models/block/pc.json",
       "sha1": "e479a2b70e4d2f70a4ba13b2e25e84ee609669d3"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/models/block/pc_bottom.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/models/block/pc_bottom.json",
       "sha1": "6c626220e37ae7a7e7828af95bdfbc0e66f360b1"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/models/block/pc_top.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/models/block/pc_top.json",
       "sha1": "864a72e01fda29401aa3fd6739af6299214e1dcf"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/models/block/pc_top_on.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/models/block/pc_top_on.json",
       "sha1": "62d57c915038d6e257656512b7a6b12a2d514010"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/textures/block/functional/pc.png",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/textures/block/functional/pc.png",
       "sha1": "3092a7f451a691e96a28e05335a598a58e6ec86c"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/textures/block/functional/pc_particle.png",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/textures/block/functional/pc_particle.png",
       "sha1": "f186de8e402261869d0f26dd250434aecc4aadf1"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alchemist.png",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alchemist.png",
       "sha1": "bfb8b346c1cc59055b0152e3417d672c70ff464f"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alpha_alchemist.png",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alpha_alchemist.png",
       "sha1": "b756faa72dc99108bd11c0cdd7f4a1bce7b8448a"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/textures/pokemon/0562_yamask/yamask_emissive_alchemist.png",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/textures/pokemon/0562_yamask/yamask_emissive_alchemist.png",
       "sha1": "61dd59fcc49d3c31d6d2fb02fa11453e0a28a323"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/cobblemon/textures/pokemon/0562_yamask/yamask_shiny_alchemist.png",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/cobblemon/textures/pokemon/0562_yamask/yamask_shiny_alchemist.png",
       "sha1": "a86dcf5aee4fe1f3f8817b143f531c632c3fdd6a"
     },
     {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/create/lang/en_us.json",
-      "sha1": "0b6c0a18aa53619a87d7d49d6c1f23c76259f84e"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/create/textures/item/package/cardboard.png",
-      "sha1": "257c3c14c05b48ae49bcac7a2f9de339fe5cc752"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/assets/create/textures/item/package/cardboard_particle.png",
-      "sha1": "0bea0d32352013a01e5bb67fbfa8f69eace3bc59"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/cobblemon/dex_entry_additions/yamask-alchemist.json",
-      "sha1": "85984c19359a51d3db12bdc6182f0efdc5095227"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/cobblemon/spawn_pool_world/yamask_alchemist.json",
-      "sha1": "a57d4e922b821ed38286ca269e6054d1740a570c"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/cobblemon/species_additions/yamask_alchemist.json",
-      "sha1": "e10581c916d97bc8bd2387a1eaba8204dd75eb91"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/cobblemon/species_features/alchemist.json",
-      "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/blaze_burner.json",
-      "sha1": "6100eda43d12b15a25ab31e93b0ac49e37ce1243"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/campfire_pot/exp_candy_xs_sugar.json",
-      "sha1": "05be8f793a342e0bb2a246052e949f08f6d643ae"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/crushing/crushing_evolution_stones.json",
-      "sha1": "7e64226add93f1b9aebf4ff1121fd4f6adb9783d"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/fluid_tank.json",
-      "sha1": "7bf4c03cf432ddd52ccc79d9006b271a256523ee"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/fluid_valve.json",
-      "sha1": "c6f44c618834dc176964a6da721e6fb234350f99"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/headlamp.json",
-      "sha1": "20457584af2fc1165fb017034faf93032c70d51c"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/hot_air_burner.json",
-      "sha1": "e9ad11283877f76e3ba5066123267935b20afd7c"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/item_vault.json",
-      "sha1": "399d6390389e30fffa70b5b8d5115e7a6fca386c"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/large_lunar_tile_silver.json",
-      "sha1": "6c79cb68249a3299c8e5dd33a0f55d2b65794288"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/light_bulb_copper.json",
-      "sha1": "7e66cd0a49f6e4e6fd09cc4c61e7fe9f62cbbef8"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/lunar_tiles_silver.json",
-      "sha1": "83ea312fd01edc3fe2e156a2cf1ed74909e069da"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/mechanical_pump.json",
-      "sha1": "4c300a880e2faf56b922b5685f2f13afa8850782"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/milling/milling_evolution_stones.json",
-      "sha1": "92f63047e3c3e7223ad45dde7ce93d598fbc1ad6"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/mixing/xp_candy_l.json",
-      "sha1": "7a57d19234754f466889da3fd1fb99942e11154f"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/mixing/xp_candy_m.json",
-      "sha1": "3610579d0086872fc33713c9f99bdec6f45f2b0f"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/mixing/xp_candy_s.json",
-      "sha1": "4124afe6873902e76cb6afa005070efb237bfa17"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/mixing/xp_candy_xl.json",
-      "sha1": "9b1ad22e491f441bf93035afec92060bb8800723"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/mixing/xp_candy_xs_honeycomb.json",
-      "sha1": "87b64bc73bac872bdb2a8cdfc42f09354cf29167"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/mixing/xp_candy_xs_sugar.json",
-      "sha1": "3e2480fb385522ce762745e5428301c724c3f4f6"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/package_frogport_pm.json",
-      "sha1": "b96f2328ee82b96ff36f3c724da8f4ee395a6008"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/packager_tin.json",
-      "sha1": "f0e9401158408b8beb078aa805d42557348173d1"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/pc_rework.json",
-      "sha1": "9e65340399bb5725333b6d64d36288c29a1392c1"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/pressing/blank_tm.json",
-      "sha1": "301a4b3b239d3e7a625e514e01195d07b9f8c61b"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/redstone_light_bulb.json",
-      "sha1": "505d2636b8afc326b4abe5dcf27c92fb9c8443f7"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/rough_glass_polishing.json",
-      "sha1": "a0285ce520f30dabdefbf4d47055e16ea04c12d1"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/smelting/rough_glass.json",
-      "sha1": "1be085b353dc94117e7315d10733c3e49f6654df"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/soul_light_bulb.json",
-      "sha1": "5ab8be54d3efefd973330a370c5545a2e97cfbe7"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/splashing/crushed_raw_silver.json",
-      "sha1": "ed00fa07e60186b44837a30ac9a8471ed66353c0"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/splashing/crushed_raw_tin.json",
-      "sha1": "44a5061ab7b5e44ba8aa31b10b0f94d1f8406a11"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/data/nmm_recipes/recipe/tall_lightbulb.json",
-      "sha1": "6c2ec3fee86edb20734c604bde80985aec224439"
-    },
-    {
-      "path": "overrides/global_packs/required_data/Peach-Cobbler-Core/pack.mcmeta",
-      "sha1": "a2cdc37d4bfffee296203ac1f70e14d654efc50a"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/.gitignore",
-      "sha1": "c0d3de1911a1704c391a5d883661480e851cee0c"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/dictionaries/project.xml",
-      "sha1": "bc844a8b4cf2fd3f788a9828e8b2a7d0c150a27b"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/misc.xml",
-      "sha1": "cf54cfe23d703493c8eb21294fdeaa9a307bbcbe"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/modules.xml",
-      "sha1": "e6c6685f8b8c3779b4a4f4b0b65e372b00a7e498"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/vcs.xml",
-      "sha1": "c92f3eb0ad1c70371e177a4d7d741f90af3f902c"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/.idea/workspace.xml",
-      "sha1": "6809104efc78bf188f80630aa976b099ce0ed880"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/NoMansMons.iml",
-      "sha1": "829eca3072f5d28232a1b24e0b6b02a1e9d557da"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/bits_n_bobs/lang/en_us.json",
-      "sha1": "bbfa977b474d7300077b4edce05fc3cc84579301"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/bedrock/pokemon/models/yamask.geo.json",
-      "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/bedrock/pokemon/models/yamask_alchemist.geo.json",
-      "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/bedrock/pokemon/resolvers/0562_yamask/2_yamask_base.json",
-      "sha1": "da94c1d3e7ba48b4b0a7d33aa9efc9fef103f1be"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/lang/en_us.json",
-      "sha1": "e76b2fb645f5efbd96334e82481e85a5cb525276"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/models/block/pc.json",
-      "sha1": "e479a2b70e4d2f70a4ba13b2e25e84ee609669d3"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/models/block/pc_bottom.json",
-      "sha1": "6c626220e37ae7a7e7828af95bdfbc0e66f360b1"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/models/block/pc_top.json",
-      "sha1": "864a72e01fda29401aa3fd6739af6299214e1dcf"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/models/block/pc_top_on.json",
-      "sha1": "62d57c915038d6e257656512b7a6b12a2d514010"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/block/functional/pc.png",
-      "sha1": "3092a7f451a691e96a28e05335a598a58e6ec86c"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/block/functional/pc_particle.png",
-      "sha1": "f186de8e402261869d0f26dd250434aecc4aadf1"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alchemist.png",
-      "sha1": "bfb8b346c1cc59055b0152e3417d672c70ff464f"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alpha_alchemist.png",
-      "sha1": "b756faa72dc99108bd11c0cdd7f4a1bce7b8448a"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_emissive_alchemist.png",
-      "sha1": "61dd59fcc49d3c31d6d2fb02fa11453e0a28a323"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/cobblemon/textures/pokemon/0562_yamask/yamask_shiny_alchemist.png",
-      "sha1": "a86dcf5aee4fe1f3f8817b143f531c632c3fdd6a"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/colored_packages/textures/item/package/green.png",
-      "sha1": "59e0ff0485a9e73dc54438120e64cd13e7bc966d"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/colored_packages/textures/item/package/purple.png",
-      "sha1": "a9e2364518fe0630a5fac962f46a0c76387cbe3b"
-    },
-    {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/colored_packages/textures/item/package/white.png",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/colored_packages/textures/item/package/white.png",
       "sha1": "6d9e82b0c3c8c346a385cb0f551e8f8d927eeb53"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/create/lang/en_us.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/create/lang/en_us.json",
       "sha1": "0b6c0a18aa53619a87d7d49d6c1f23c76259f84e"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/create/textures/item/package/cardboard.png",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/create/textures/block/tunnel/andesite_tunnel.png",
+      "sha1": "0e738fa9203db0d93bc12e0533ae86ecf9f6f2dd"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/create/textures/block/tunnel/andesite_tunnel_top.png",
+      "sha1": "d228e8bb1e4417b3b6399b2b8ac124935fd27426"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/create/textures/block/tunnel/andesite_tunnel_top_connected.png.png",
+      "sha1": "8dc24f097e855416628b347d6d88e5c689c807ba"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/create/textures/block/tunnel/andesite_tunnel_top_window.png",
+      "sha1": "64a04383e2119cb6622bbd5c8e2dee798517d64b"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/create/textures/item/package/cardboard.png",
       "sha1": "257c3c14c05b48ae49bcac7a2f9de339fe5cc752"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/assets/create/textures/item/package/cardboard_particle.png",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/assets/create/textures/item/package/cardboard_particle.png",
       "sha1": "0bea0d32352013a01e5bb67fbfa8f69eace3bc59"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/dex_entry_additions/yamask-alchemist.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/dex_entry_additions/yamask-alchemist.json",
       "sha1": "85984c19359a51d3db12bdc6182f0efdc5095227"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/spawn_pool_world/yamask_alchemist.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/big_malasada.json",
+      "sha1": "b95983a65d34b0b4721a71683c4a7aaa0394000c"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/cake_in_campfire_pot.json",
+      "sha1": "60049ebefcdec22f5dc900b03bd59630426ab5d1"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/casteliacone.json",
+      "sha1": "36ed246bbeea722722b097a82c4411d4130caa22"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/clever_mochi.json",
+      "sha1": "2a24383422813c38e344e7f093851be3b68d3792"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/fresh_start_mochi.json",
+      "sha1": "f3182102251612d17eb417702a1f4ff0855655b6"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/genius_mochi.json",
+      "sha1": "5fa9ad2cc79d6dbb911ff95a5fa695fb392e8365"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/health_mochi.json",
+      "sha1": "2528db854252806555053d74cf49fa67c9d2d46a"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/jubilife_muffin.json",
+      "sha1": "c7db5ce1dd0eee85df07c5c6556b93dbf151436d"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/lava_cookie.json",
+      "sha1": "067871598b55d5b84dddc2ae535b1476c4247dbf"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/lumiose_galette.json",
+      "sha1": "aea8e562a2cb8275bfa1907059359a8a8ec44dd6"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/muscle_mochi.json",
+      "sha1": "72ab7ed622e301150fd7529ab2d7384d308bbf39"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/open_faced_sandwich.json",
+      "sha1": "50cd0f989a539e22ed98096cc56bf0166285924f"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/pewter_crunchies.json",
+      "sha1": "d5bf530fbca8d98f60a09b0badfa3fb3ae682e91"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/poke_bait.json",
+      "sha1": "af54cbb66957039472f5e929ff1d786ab9b1274a"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/poke_cake.json",
+      "sha1": "61607806a99d91a23c0c661e1d8fe61da0a75231"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/poke_snack.json",
+      "sha1": "4378621fe51799e6671a07a219d4468de395b234"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/ponigiri.json",
+      "sha1": "8ef7c11012f367af44f3b7ae606998cc84ffd155"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/potato_mochi.json",
+      "sha1": "0e22cc36ff1f03c1415899daa0fe227261d3a95d"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/rage_candy_bar.json",
+      "sha1": "5e58e6cb00e6d054ef8025ac8ffcf5f2f115821c"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/resist_mochi.json",
+      "sha1": "3d4b740144bda4d720189d66b51b42f514e06c50"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/smoked_tail_curry.json",
+      "sha1": "d16d39c6824a4704c6d94064e74aad48d457eeb7"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/swift_mochi.json",
+      "sha1": "1ab938ca6a83bc0ae1f5f6535ddffc684e96d0f6"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/recipe/mod_compatibility/create/mixing/rage_candy_bar.json",
+      "sha1": "547025255b6773bd627dacac8c0b18cc73c8a4de"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/spawn_pool_world/yamask_alchemist.json",
       "sha1": "a57d4e922b821ed38286ca269e6054d1740a570c"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/species_additions/yamask_alchemist.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/species_additions/yamask_alchemist.json",
       "sha1": "e10581c916d97bc8bd2387a1eaba8204dd75eb91"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/cobblemon/species_features/alchemist.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/cobblemon/species_features/alchemist.json",
       "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/blaze_burner.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/farmersdelight/recipe/mutton_wrap.json",
+      "sha1": "a3d714fce4e83de9330832df182cd4c58abb7342"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/minersdelight/recipe/alt_insect_wrap.json",
+      "sha1": "fd87058288b23529509998cfff9dc31d018cb7ac"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/minersdelight/recipe/insect_wrap.json",
+      "sha1": "526cd48a6100e379676aaad7bb1946949518c7ce"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/minersdelight/recipe/vegan_wrap.json",
+      "sha1": "eb18950cd0e7a3cb8823bdf0afc85c41c3cb2e09"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/blaze_burner.json",
       "sha1": "6100eda43d12b15a25ab31e93b0ac49e37ce1243"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/campfire_pot/exp_candy_xs_sugar.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/campfire_pot/exp_candy_xs_sugar.json",
       "sha1": "05be8f793a342e0bb2a246052e949f08f6d643ae"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/crushing/crushing_evolution_stones.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/crushing/crushing_evolution_stones.json",
       "sha1": "7e64226add93f1b9aebf4ff1121fd4f6adb9783d"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/fluid_tank.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/crushing/rice_flour.json",
+      "sha1": "4ec39b977c451f131d6b76bc30869b8b4d62ea25"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/cutting/beet_sugar.json",
+      "sha1": "d3f0e5c56eeca588693b2e7a2b42001878b0703b"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/fluid_tank.json",
       "sha1": "7bf4c03cf432ddd52ccc79d9006b271a256523ee"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/fluid_valve.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/fluid_valve.json",
       "sha1": "c6f44c618834dc176964a6da721e6fb234350f99"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/headlamp.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/headlamp.json",
       "sha1": "20457584af2fc1165fb017034faf93032c70d51c"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/hot_air_burner.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/hot_air_burner.json",
       "sha1": "e9ad11283877f76e3ba5066123267935b20afd7c"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/item_vault.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/item_vault.json",
       "sha1": "399d6390389e30fffa70b5b8d5115e7a6fca386c"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/large_lunar_tile_silver.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/large_lunar_tile_silver.json",
       "sha1": "6c79cb68249a3299c8e5dd33a0f55d2b65794288"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/light_bulb_copper.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/light_bulb_copper.json",
       "sha1": "7e66cd0a49f6e4e6fd09cc4c61e7fe9f62cbbef8"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/lunar_tiles_silver.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/lunar_tiles_silver.json",
       "sha1": "83ea312fd01edc3fe2e156a2cf1ed74909e069da"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mechanical_pump.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/mechanical_pump.json",
       "sha1": "4c300a880e2faf56b922b5685f2f13afa8850782"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/milling/milling_evolution_stones.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/milling/beet_sugar.json",
+      "sha1": "7b797f70e3e351fa67864ad26793c5bbcd34c611"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/milling/cornmeal.json",
+      "sha1": "fd8e8a24b6414d9c29b457003c9ff9e7752274fc"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/milling/milling_evolution_stones.json",
       "sha1": "92f63047e3c3e7223ad45dde7ce93d598fbc1ad6"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_l.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/milling/rice_flour.json",
+      "sha1": "4ec39b977c451f131d6b76bc30869b8b4d62ea25"
+    },
+    {
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_l.json",
       "sha1": "7a57d19234754f466889da3fd1fb99942e11154f"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_m.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_m.json",
       "sha1": "3610579d0086872fc33713c9f99bdec6f45f2b0f"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_s.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_s.json",
       "sha1": "4124afe6873902e76cb6afa005070efb237bfa17"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_xl.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_xl.json",
       "sha1": "9b1ad22e491f441bf93035afec92060bb8800723"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_xs_honeycomb.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_xs_honeycomb.json",
       "sha1": "87b64bc73bac872bdb2a8cdfc42f09354cf29167"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/mixing/xp_candy_xs_sugar.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_xs_sugar.json",
       "sha1": "3e2480fb385522ce762745e5428301c724c3f4f6"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/package_frogport_pm.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/package_frogport_pm.json",
       "sha1": "b96f2328ee82b96ff36f3c724da8f4ee395a6008"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/packager_tin.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/packager_tin.json",
       "sha1": "f0e9401158408b8beb078aa805d42557348173d1"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/pc_rework.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/pc_rework.json",
       "sha1": "9e65340399bb5725333b6d64d36288c29a1392c1"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/pressing/blank_tm.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/pressing/blank_tm.json",
       "sha1": "301a4b3b239d3e7a625e514e01195d07b9f8c61b"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/redstone_light_bulb.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/redstone_light_bulb.json",
       "sha1": "505d2636b8afc326b4abe5dcf27c92fb9c8443f7"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/rough_glass_polishing.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/rough_glass_polishing.json",
       "sha1": "a0285ce520f30dabdefbf4d47055e16ea04c12d1"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/smelting/rough_glass.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/smelting/rough_glass.json",
       "sha1": "1be085b353dc94117e7315d10733c3e49f6654df"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/soul_light_bulb.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/soul_light_bulb.json",
       "sha1": "5ab8be54d3efefd973330a370c5545a2e97cfbe7"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/splashing/crushed_raw_silver.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/splashing/crushed_raw_silver.json",
       "sha1": "ed00fa07e60186b44837a30ac9a8471ed66353c0"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/splashing/crushed_raw_tin.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/splashing/crushed_raw_tin.json",
       "sha1": "44a5061ab7b5e44ba8aa31b10b0f94d1f8406a11"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/data/nmm_recipes/recipe/tall_lightbulb.json",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/data/peach_cobbler/recipe/tall_lightbulb.json",
       "sha1": "6c2ec3fee86edb20734c604bde80985aec224439"
     },
     {
-      "path": "overrides/global_packs/required_resources/NoMansMons/pack.mcmeta",
+      "path": "overrides/global_packs/required_data/Peach_Cobbler/pack.mcmeta",
+      "sha1": "a2cdc37d4bfffee296203ac1f70e14d654efc50a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/.idea/.gitignore",
+      "sha1": "c0d3de1911a1704c391a5d883661480e851cee0c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/.idea/dictionaries/project.xml",
+      "sha1": "bc844a8b4cf2fd3f788a9828e8b2a7d0c150a27b"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/.idea/misc.xml",
+      "sha1": "cf54cfe23d703493c8eb21294fdeaa9a307bbcbe"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/.idea/modules.xml",
+      "sha1": "d4f3f4d74d5982a6d3b544e3f98776bc5085769a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/.idea/vcs.xml",
+      "sha1": "c92f3eb0ad1c70371e177a4d7d741f90af3f902c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/.idea/workspace.xml",
+      "sha1": "7cb486b16e88e7e539a2819c0d66ee987698f299"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/PeachCobbler.iml",
+      "sha1": "829eca3072f5d28232a1b24e0b6b02a1e9d557da"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/bits_n_bobs/lang/en_us.json",
+      "sha1": "bbfa977b474d7300077b4edce05fc3cc84579301"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/bedrock/pokemon/models/yamask.geo.json",
+      "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/bedrock/pokemon/models/yamask_alchemist.geo.json",
+      "sha1": "16dda080ea0faa2816df96dd13f9c040672c926a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/bedrock/pokemon/resolvers/0562_yamask/2_yamask_base.json",
+      "sha1": "da94c1d3e7ba48b4b0a7d33aa9efc9fef103f1be"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/lang/en_us.json",
+      "sha1": "e76b2fb645f5efbd96334e82481e85a5cb525276"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/models/block/pc.json",
+      "sha1": "e479a2b70e4d2f70a4ba13b2e25e84ee609669d3"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/models/block/pc_bottom.json",
+      "sha1": "6c626220e37ae7a7e7828af95bdfbc0e66f360b1"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/models/block/pc_top.json",
+      "sha1": "864a72e01fda29401aa3fd6739af6299214e1dcf"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/models/block/pc_top_on.json",
+      "sha1": "62d57c915038d6e257656512b7a6b12a2d514010"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/textures/block/functional/pc.png",
+      "sha1": "3092a7f451a691e96a28e05335a598a58e6ec86c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/textures/block/functional/pc_particle.png",
+      "sha1": "f186de8e402261869d0f26dd250434aecc4aadf1"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alchemist.png",
+      "sha1": "bfb8b346c1cc59055b0152e3417d672c70ff464f"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/textures/pokemon/0562_yamask/yamask_alpha_alchemist.png",
+      "sha1": "b756faa72dc99108bd11c0cdd7f4a1bce7b8448a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/textures/pokemon/0562_yamask/yamask_emissive_alchemist.png",
+      "sha1": "61dd59fcc49d3c31d6d2fb02fa11453e0a28a323"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/cobblemon/textures/pokemon/0562_yamask/yamask_shiny_alchemist.png",
+      "sha1": "a86dcf5aee4fe1f3f8817b143f531c632c3fdd6a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/colored_packages/textures/item/package/white.png",
+      "sha1": "6d9e82b0c3c8c346a385cb0f551e8f8d927eeb53"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/create/lang/en_us.json",
+      "sha1": "0b6c0a18aa53619a87d7d49d6c1f23c76259f84e"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/create/textures/item/package/cardboard.png",
+      "sha1": "257c3c14c05b48ae49bcac7a2f9de339fe5cc752"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/assets/create/textures/item/package/cardboard_particle.png",
+      "sha1": "0bea0d32352013a01e5bb67fbfa8f69eace3bc59"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/dex_entry_additions/yamask-alchemist.json",
+      "sha1": "85984c19359a51d3db12bdc6182f0efdc5095227"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/big_malasada.json",
+      "sha1": "b95983a65d34b0b4721a71683c4a7aaa0394000c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/cake_in_campfire_pot.json",
+      "sha1": "60049ebefcdec22f5dc900b03bd59630426ab5d1"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/casteliacone.json",
+      "sha1": "36ed246bbeea722722b097a82c4411d4130caa22"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/clever_mochi.json",
+      "sha1": "2a24383422813c38e344e7f093851be3b68d3792"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/fresh_start_mochi.json",
+      "sha1": "f3182102251612d17eb417702a1f4ff0855655b6"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/genius_mochi.json",
+      "sha1": "5fa9ad2cc79d6dbb911ff95a5fa695fb392e8365"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/health_mochi.json",
+      "sha1": "2528db854252806555053d74cf49fa67c9d2d46a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/jubilife_muffin.json",
+      "sha1": "c7db5ce1dd0eee85df07c5c6556b93dbf151436d"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/lava_cookie.json",
+      "sha1": "067871598b55d5b84dddc2ae535b1476c4247dbf"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/lumiose_galette.json",
+      "sha1": "aea8e562a2cb8275bfa1907059359a8a8ec44dd6"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/muscle_mochi.json",
+      "sha1": "72ab7ed622e301150fd7529ab2d7384d308bbf39"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/open_faced_sandwich.json",
+      "sha1": "50cd0f989a539e22ed98096cc56bf0166285924f"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/pewter_crunchies.json",
+      "sha1": "d5bf530fbca8d98f60a09b0badfa3fb3ae682e91"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/poke_bait.json",
+      "sha1": "af54cbb66957039472f5e929ff1d786ab9b1274a"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/poke_cake.json",
+      "sha1": "61607806a99d91a23c0c661e1d8fe61da0a75231"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/poke_snack.json",
+      "sha1": "4378621fe51799e6671a07a219d4468de395b234"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/ponigiri.json",
+      "sha1": "8ef7c11012f367af44f3b7ae606998cc84ffd155"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/potato_mochi.json",
+      "sha1": "0e22cc36ff1f03c1415899daa0fe227261d3a95d"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/rage_candy_bar.json",
+      "sha1": "5e58e6cb00e6d054ef8025ac8ffcf5f2f115821c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/resist_mochi.json",
+      "sha1": "3d4b740144bda4d720189d66b51b42f514e06c50"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/smoked_tail_curry.json",
+      "sha1": "d16d39c6824a4704c6d94064e74aad48d457eeb7"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/campfire_pot/swift_mochi.json",
+      "sha1": "1ab938ca6a83bc0ae1f5f6535ddffc684e96d0f6"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/recipe/mod_compatibility/create/mixing/rage_candy_bar.json",
+      "sha1": "547025255b6773bd627dacac8c0b18cc73c8a4de"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/spawn_pool_world/yamask_alchemist.json",
+      "sha1": "a57d4e922b821ed38286ca269e6054d1740a570c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/species_additions/yamask_alchemist.json",
+      "sha1": "e10581c916d97bc8bd2387a1eaba8204dd75eb91"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/cobblemon/species_features/alchemist.json",
+      "sha1": "9c29369f4f6060f29fcc23fb424c4ea3f329d2c8"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/farmersdelight/recipe/mutton_wrap.json",
+      "sha1": "a3d714fce4e83de9330832df182cd4c58abb7342"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/minersdelight/recipe/alt_insect_wrap.json",
+      "sha1": "fd87058288b23529509998cfff9dc31d018cb7ac"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/minersdelight/recipe/insect_wrap.json",
+      "sha1": "526cd48a6100e379676aaad7bb1946949518c7ce"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/minersdelight/recipe/vegan_wrap.json",
+      "sha1": "eb18950cd0e7a3cb8823bdf0afc85c41c3cb2e09"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/blaze_burner.json",
+      "sha1": "6100eda43d12b15a25ab31e93b0ac49e37ce1243"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/campfire_pot/exp_candy_xs_sugar.json",
+      "sha1": "05be8f793a342e0bb2a246052e949f08f6d643ae"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/crushing/crushing_evolution_stones.json",
+      "sha1": "7e64226add93f1b9aebf4ff1121fd4f6adb9783d"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/crushing/rice_flour.json",
+      "sha1": "4ec39b977c451f131d6b76bc30869b8b4d62ea25"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/cutting/beet_sugar.json",
+      "sha1": "749741d6a07591bf99580cfa5084269c64fdb9fc"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/fluid_tank.json",
+      "sha1": "7bf4c03cf432ddd52ccc79d9006b271a256523ee"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/fluid_valve.json",
+      "sha1": "c6f44c618834dc176964a6da721e6fb234350f99"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/headlamp.json",
+      "sha1": "20457584af2fc1165fb017034faf93032c70d51c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/hot_air_burner.json",
+      "sha1": "e9ad11283877f76e3ba5066123267935b20afd7c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/item_vault.json",
+      "sha1": "399d6390389e30fffa70b5b8d5115e7a6fca386c"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/large_lunar_tile_silver.json",
+      "sha1": "6c79cb68249a3299c8e5dd33a0f55d2b65794288"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/light_bulb_copper.json",
+      "sha1": "7e66cd0a49f6e4e6fd09cc4c61e7fe9f62cbbef8"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/lunar_tiles_silver.json",
+      "sha1": "83ea312fd01edc3fe2e156a2cf1ed74909e069da"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/mechanical_pump.json",
+      "sha1": "4c300a880e2faf56b922b5685f2f13afa8850782"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/milling/beet_sugar.json",
+      "sha1": "03ae04b7de1165c7f25b9111f775c59a7b53dbe6"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/milling/cornmeal.json",
+      "sha1": "fd8e8a24b6414d9c29b457003c9ff9e7752274fc"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/milling/milling_evolution_stones.json",
+      "sha1": "92f63047e3c3e7223ad45dde7ce93d598fbc1ad6"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/milling/rice_flour.json",
+      "sha1": "4ec39b977c451f131d6b76bc30869b8b4d62ea25"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_l.json",
+      "sha1": "7a57d19234754f466889da3fd1fb99942e11154f"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_m.json",
+      "sha1": "3610579d0086872fc33713c9f99bdec6f45f2b0f"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_s.json",
+      "sha1": "4124afe6873902e76cb6afa005070efb237bfa17"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_xl.json",
+      "sha1": "9b1ad22e491f441bf93035afec92060bb8800723"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_xs_honeycomb.json",
+      "sha1": "87b64bc73bac872bdb2a8cdfc42f09354cf29167"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/mixing/xp_candy_xs_sugar.json",
+      "sha1": "3e2480fb385522ce762745e5428301c724c3f4f6"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/package_frogport_pm.json",
+      "sha1": "b96f2328ee82b96ff36f3c724da8f4ee395a6008"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/packager_tin.json",
+      "sha1": "f0e9401158408b8beb078aa805d42557348173d1"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/pc_rework.json",
+      "sha1": "9e65340399bb5725333b6d64d36288c29a1392c1"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/pressing/blank_tm.json",
+      "sha1": "301a4b3b239d3e7a625e514e01195d07b9f8c61b"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/redstone_light_bulb.json",
+      "sha1": "505d2636b8afc326b4abe5dcf27c92fb9c8443f7"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/rough_glass_polishing.json",
+      "sha1": "a0285ce520f30dabdefbf4d47055e16ea04c12d1"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/smelting/rough_glass.json",
+      "sha1": "1be085b353dc94117e7315d10733c3e49f6654df"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/soul_light_bulb.json",
+      "sha1": "5ab8be54d3efefd973330a370c5545a2e97cfbe7"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/splashing/crushed_raw_silver.json",
+      "sha1": "ed00fa07e60186b44837a30ac9a8471ed66353c0"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/splashing/crushed_raw_tin.json",
+      "sha1": "44a5061ab7b5e44ba8aa31b10b0f94d1f8406a11"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/data/peach_cobbler/recipe/tall_lightbulb.json",
+      "sha1": "6c2ec3fee86edb20734c604bde80985aec224439"
+    },
+    {
+      "path": "overrides/global_packs/required_resources/Peach_Cobbler/pack.mcmeta",
       "sha1": "a2cdc37d4bfffee296203ac1f70e14d654efc50a"
     },
     {
@@ -2283,6 +2567,10 @@
     {
       "path": "overrides/kubejs/assets/kubejs/textures/item/example_item.png",
       "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/rice_flour.png",
+      "sha1": "36b0de60d4330aae60ba1d873e39b7f4ea3fe363"
     },
     {
       "path": "overrides/kubejs/client_scripts/main.js",
@@ -2326,11 +2614,15 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/wheat.js",
-      "sha1": "ff1ad8c1268ddf8d12c208ea69c933af4c7b77a9"
+      "sha1": "3b7eed7b4c1c9d2ad2aa3415bc5adc2b0f17918c"
     },
     {
       "path": "overrides/kubejs/server_scripts/wood.js",
       "sha1": "7f6dc6a6b8537f0940cc49ac8cfec74036f35ea4"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/items.js",
+      "sha1": "58846c5f8fddaf509f4a47a23e4875d9753b61d0"
     },
     {
       "path": "overrides/kubejs/startup_scripts/main.js",

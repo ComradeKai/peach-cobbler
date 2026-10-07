@@ -19,7 +19,16 @@
       "create:crafting/kinetics/fluid_valve",
       "create:crafting/kinetics/empty_blaze_burner",
       "aeronautics:adjustable_burner",
-      "create:crafting/kinetics/item_vault"
+      "create:crafting/kinetics/item_vault",
+      "create:crafting/appliances/dough",
+      "abundant_atmosphere:squashberry_bread",
+      "minecraft:bread",
+      "cobbreeding:cake",
+      "cobblemon:mod_compatibility/farmersdelight/apple_pie",
+      "create:crafting/curiosities/cake",
+      "cobblemon:cake_with_moomoo_milk",
+      "farmersdelight:cake_from_milk_bottle",
+      "create:milling/beetroot"
     ]
   }
 ]

@@ -4,6 +4,11 @@ ServerEvents.recipes((event) => {
     {id: "farmersdelight:straw", chance: 0.5},
   ]);
 
+  global.cutting(event, "farmersdelight:rice", "c:tools/knife", [
+    {id: "kubejs:rice_flour", chance: 1.0},
+    {id: "minecraft:bone_meal", chance: 0.1},
+  ]);
+
   event.remove({id: "farmersdelight:wheat_dough_from_egg"});
   event.remove({id: "farmersdelight:wheat_dough_from_water"});
 
@@ -41,11 +46,8 @@ ServerEvents.recipes((event) => {
     "abundant_atmosphere:squashberry_bread",
     "abundant_atmosphere:integration/farmersdelight/squashberry_cookie",
     "nirvana:weed_brownie",
-    "cobblemon:poke_bait",
-    "cobblemon:big_malasada",
-    "cobblemon:lumiose_galette",
-    "cobblemon:lava_cookie",
-    "cobblemon:jubilife_muffin"
+    "minersdelight:nutritional_bar",
+    "minersdelight:bat_cookie"
   ].forEach((id) => {
     event.replaceInput(
         {id: id},

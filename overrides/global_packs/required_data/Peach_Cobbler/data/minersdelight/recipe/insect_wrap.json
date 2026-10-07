@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "brewinandchewin:tortilla"
+    },
+    [
+      {
+        "tag": "c:foods/onion"
+      },
+      {
+        "tag": "minersdelight:raw_insect_meat"
+      },
+      {
+        "tag": "minersdelight:cooked_insect_meat"
+      }
+    ],
+    [
+      {
+        "item": "minersdelight:arthropod"
+      },
+      {
+        "item": "minersdelight:silverfish_eggs"
+      }
+    ],
+    [
+      {
+        "item": "minersdelight:arthropod"
+      },
+      {
+        "item": "minersdelight:silverfish_eggs"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "minersdelight:insect_wrap"
+  }
+}

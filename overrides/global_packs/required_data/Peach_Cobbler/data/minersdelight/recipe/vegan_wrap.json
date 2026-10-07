@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "brewinandchewin:tortilla"
+    },
+    {
+      "tag": "c:foods/onion"
+    },
+    {
+      "tag": "minersdelight:baked_cave_carrot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minersdelight:vegan_wrap"
+  }
+}
