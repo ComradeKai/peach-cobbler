@@ -12,7 +12,7 @@
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.4.0`
 - [Almanac](https://modrinth.com/project/almanac) `1.5.2`
-- [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.11`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
 - [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.3`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
@@ -32,7 +32,7 @@
 - [Clayworks](https://modrinth.com/project/clayworks) `4.0.3`
 - [ClickThrough Plus](https://modrinth.com/project/clickthrough-plus) `3.5.0+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
-- [Clutter No More](https://modrinth.com/project/clutter-no-more) `3.0.0+1.21.1-neoforge`
+- [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
 - [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.2`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.4.1`
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.47-fabric+forge+neo`
@@ -126,7 +126,7 @@
 - [Penchant](https://modrinth.com/project/penchant) `0.3.7+connector+mc1.21.1`
 - [Pick Up Notifier](https://modrinth.com/project/pick-up-notifier) `v21.1.1-1.21.1-NeoForge`
 - [Platform](https://modrinth.com/project/platform) `1.3.3`
-- [Polytone](https://modrinth.com/project/polytone) `1.21-5.0.0`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-5.0.3`
 - [Portfolio](https://modrinth.com/project/portfolio) `1.6.0-neoforge`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Pretty Beaches](https://modrinth.com/project/pretty-beaches) `21.1.3+neoforge-1.21.1`
@@ -142,7 +142,7 @@
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.6-fabric+forge+neo`
-- [Scholar](https://modrinth.com/project/scholar) `1.2.9`
+- [Scholar](https://modrinth.com/project/scholar) `1.2.5`
 - [Screenshot Viewer](https://modrinth.com/project/screenshot-viewer) `1.21.1-neoforge-1`
 - [Showcase Item](https://modrinth.com/project/showcase-item) `1.21.1-1.1.0`
 - [Shutter Up!](https://modrinth.com/project/shutter-up) `1.2.1-1.21.1-neoforge`
