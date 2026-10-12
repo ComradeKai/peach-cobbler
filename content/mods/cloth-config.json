@@ -21,6 +21,13 @@
     "ItmVb4zY",
     "T8MMXTpr"
   ],
+  "optionalDependents": [
+    "51BNNAng",
+    "GVh7zzwG",
+    "PKoLkD98",
+    "k9OKXOrZ",
+    "qyVF9oeo"
+  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }

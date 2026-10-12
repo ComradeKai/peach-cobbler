@@ -4,5 +4,6 @@
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.256",
-  "channel": "release"
+  "channel": "release",
+  "formatVersion": 1
 }

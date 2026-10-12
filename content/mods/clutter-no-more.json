@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "ewyjbmG4",
       "slug": "clutter-no-more",
-      "versionId": "EaL0l4U1",
-      "versionNumber": "2.0.7+1.21.1-neoforge",
-      "filename": "clutternomore-2.0.7+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/ewyjbmG4/versions/EaL0l4U1/clutternomore-2.0.7%2B1.21.1-neoforge.jar",
-      "sha1": "9d6465e3183eaa4e7244539ee3c722d64fc7225d",
-      "sha512": "392e17d4fdfd6dc0fc3ea9545c66bb536813f2b8081dbbbf3d4125c49b9bcb64ce666d1c69409ab26f8d5b3d14c7f6c483f6d3c4015fc075a1f6a09c1cf90327",
-      "fileSize": 759576
+      "versionId": "v3J7gqAO",
+      "versionNumber": "3.0.0+1.21.1-neoforge",
+      "filename": "clutternomore-neoforge-3.0.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ewyjbmG4/versions/v3J7gqAO/clutternomore-neoforge-3.0.0%2B1.21.1.jar",
+      "sha1": "e74126a510fa6e633b51eba45acf89871078104c",
+      "sha512": "89b0c1412db7e60b9ad44534c25a5881ff89313218959117ba66f425d2890a169f6d891fb440bf30f399453914eba3c79f57aefbe5a4dca9c8bb715a503323e7",
+      "fileSize": 776565
     }
   },
   "dependents": [],

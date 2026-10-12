@@ -18,6 +18,9 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "m7mtARQr"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

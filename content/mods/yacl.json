@@ -28,6 +28,15 @@
     "xFCYuAs8",
     "yz7AM2zx"
   ],
+  "optionalDependents": [
+    "72RRCWM6",
+    "C1MoWQlb",
+    "Hl4ARA1z",
+    "UaizcMKP",
+    "ffLDUGbm",
+    "pLxsKvNt",
+    "pVIWsXir"
+  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }

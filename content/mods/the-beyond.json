@@ -1,0 +1,23 @@
+{
+  "name": "The Beyond",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QFR0NFEH",
+      "slug": "the-beyond",
+      "versionId": "RwrA0IJe",
+      "versionNumber": "1.0.0",
+      "filename": "the_beyond-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QFR0NFEH/versions/RwrA0IJe/the_beyond-1.0.0.jar",
+      "sha1": "c24eaf1be9d8c80f2a5d9beebb5a67af579305ea",
+      "sha512": "709f2a8b94e92c20c505277756e563c3193618106e0c751da07eaa8d0e24f5ce7679b901ee1bdf91472cbaff6cfb5ba8704260c184b00f50d88d90cd48002416",
+      "fileSize": 13738483
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

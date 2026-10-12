@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "ItRzabx0",
       "slug": "modulation",
-      "versionId": "gKxPMiVB",
-      "versionNumber": "3.6.2-1.21.1-neoforge",
-      "filename": "modulation-neoforge-1.21.1-3.6.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/ItRzabx0/versions/gKxPMiVB/modulation-neoforge-1.21.1-3.6.2.jar",
-      "sha1": "d1c1b19ffe4755855c38e8c79523b570b51e9857",
-      "sha512": "007ddd6b6045c98779c3f34445ea62f316da77fb7561b0eaaca2eeb346df51205cb30d78f666a943e1cc473cf9f3dd33dbef27903b258606d8cc6b80444d7374",
-      "fileSize": 515933
+      "versionId": "hhHBAJKr",
+      "versionNumber": "3.6.3-1.21.1-neoforge",
+      "filename": "modulation-neoforge-1.21.1-3.6.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ItRzabx0/versions/hhHBAJKr/modulation-neoforge-1.21.1-3.6.3.jar",
+      "sha1": "5dc3456dd177d71052416fc422588540eca77cb8",
+      "sha512": "03916b629dcda7fd663b1afd8bb97f66a762c07790a93a5864c2463b557f7014caa9009280ee82531f0c0f4e547e68c69a60a44e493406f23437564fb0b990e0",
+      "fileSize": 515989
     }
   },
   "dependents": [],

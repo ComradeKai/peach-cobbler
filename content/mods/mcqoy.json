@@ -18,6 +18,9 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "BTORUTmf"
+  ],
   "clientSide": "required",
   "serverSide": "unsupported"
 }

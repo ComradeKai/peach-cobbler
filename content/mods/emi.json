@@ -21,6 +21,10 @@
     "N9WucjHL",
     "yFypjcfd"
   ],
+  "optionalDependents": [
+    "72RRCWM6",
+    "pLxsKvNt"
+  ],
   "clientSide": "required",
   "serverSide": "optional"
 }

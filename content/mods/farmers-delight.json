@@ -22,6 +22,9 @@
     "ts3qjo5t",
     "vC6rKlKN"
   ],
+  "optionalDependents": [
+    "eiktJyw1"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

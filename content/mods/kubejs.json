@@ -21,6 +21,9 @@
     "fJFETWDN",
     "mo64mR1W"
   ],
+  "optionalDependents": [
+    "72RRCWM6"
+  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }

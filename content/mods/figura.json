@@ -18,6 +18,9 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "ItRzabx0"
+  ],
   "clientSide": "required",
   "serverSide": "unsupported"
 }

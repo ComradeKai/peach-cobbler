@@ -22,6 +22,13 @@
     "T8bvmqVZ",
     "oWaK0Q19"
   ],
+  "optionalDependents": [
+    "7VDyaMyP",
+    "T9PomCSv",
+    "eiktJyw1",
+    "gUdYw8o3",
+    "zuARv1N7"
+  ],
   "clientSide": "optional",
   "serverSide": "required"
 }

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "fX4dIQCo",
       "slug": "scholar",
-      "versionId": "K54Fcd9w",
-      "versionNumber": "1.2.5",
-      "filename": "scholar-neoforge-1.21.1-1.2.5.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/fX4dIQCo/versions/K54Fcd9w/scholar-neoforge-1.21.1-1.2.5.jar",
-      "sha1": "4e0e2e77444742675841371a9943ac1746b4962c",
-      "sha512": "b4999a8bc92e1ffd1e0073a1039593d02f59fa1eabcdd9ce618b19cb5deb931dffdccba355449ee510c54eee16d4a27ee8799c28f449d057db04c364451403f5",
-      "fileSize": 927258
+      "versionId": "2lcn7n5D",
+      "versionNumber": "1.2.9",
+      "filename": "scholar-neoforge-1.21.1-1.2.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fX4dIQCo/versions/2lcn7n5D/scholar-neoforge-1.21.1-1.2.9.jar",
+      "sha1": "18ef4c137a21841e9f103e1bc7da7ee26189eda8",
+      "sha512": "927148425d362c51404840b4ae5c5de919431b5d2a9acbf4a06c15df175b74fb3b5eb7e065ea06d75df115b5615f91978747739800d5b1f252fff1be7805496c",
+      "fileSize": 929086
     }
   },
   "dependents": [],
