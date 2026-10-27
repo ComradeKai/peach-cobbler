@@ -32,15 +32,15 @@
 - [Clayworks](https://modrinth.com/project/clayworks) `4.0.3`
 - [ClickThrough Plus](https://modrinth.com/project/clickthrough-plus) `3.5.0+1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
-- [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
-- [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.2`
+- [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
+- [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.3NF`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.4.1`
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.47-fabric+forge+neo`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
 - [Continuity](https://modrinth.com/project/continuity) `3.0.0+1.21.neoforge`
-- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.4`
+- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.5`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Crafting Mats](https://modrinth.com/project/crafting-mats) `1.1.0+neoforge-1.21.1`
@@ -61,7 +61,7 @@
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Entity Pin Cushions](https://modrinth.com/project/entity-pin-cushions) `1.0`
-- [Envelope](https://modrinth.com/project/envelope) `0.7.5`
+- [Envelope](https://modrinth.com/project/envelope) `0.8.1`
 - [Etched](https://modrinth.com/project/etched) `5.1.0`
 - [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.53`
 - [Explosive Enhancement: Reforged](https://modrinth.com/project/explosive-enhancement-forge) `1.2.0`
@@ -166,11 +166,11 @@
 - [Supplementaries Touch-Ups](https://modrinth.com/project/supplementaries-touch-ups) `0.2`
 - [SwingThrough](https://modrinth.com/project/swingthrough) `1.0.5+1.21`
 - [TerraBlender](https://modrinth.com/project/terrablender) `4.1.0.8`
-- [The Beyond](https://modrinth.com/project/the-beyond) `1.0.0`
+- [The Beyond](https://modrinth.com/project/the-beyond) `1.0.1`
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`
 - [Thief](https://modrinth.com/project/thief) `1.2.7`
 - [Tiny Item Animations](https://modrinth.com/project/tiny-item-animations) `1.2.1`
-- [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.2.4-1.21.1-neoforge`
+- [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.3.0-1.21.1-neoforge`
 - [TooManyRecipeViewers](https://modrinth.com/project/tmrv) `0.9.0+mc.21.1`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`

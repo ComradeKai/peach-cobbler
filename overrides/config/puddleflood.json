@@ -5,7 +5,7 @@
   "doFloods": true,
   "doRainPuddles": true,
   "doDripPuddles": true,
-  "doPotionPuddles": true,
+  "doPotionPuddles": false,
   "doCauldronPuddles": true,
   "doFlowingWaterPuddles": true,
   "doMeltingSnowPuddles": true,

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "gUdYw8o3",
       "slug": "contraption-lights",
-      "versionId": "SCthdXf0",
-      "versionNumber": "1.5.4",
-      "filename": "contraption-lights-neoforge-1.21.1-1.5.4.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/gUdYw8o3/versions/SCthdXf0/contraption-lights-neoforge-1.21.1-1.5.4.jar",
-      "sha1": "087073f46d1621c7d2d7a55b29753fe3e7189ed0",
-      "sha512": "cde1f4408425a39a2b23c4781edee6099f5972c075743a2b91834e21bfad7438f1a4dcf574dccb7e433624627c8fe4fffe8fe070a910a349114a6028b039faa3",
-      "fileSize": 912169
+      "versionId": "Jcn2RlzM",
+      "versionNumber": "1.5.5",
+      "filename": "contraption-lights-neoforge-1.21.1-1.5.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gUdYw8o3/versions/Jcn2RlzM/contraption-lights-neoforge-1.21.1-1.5.5.jar",
+      "sha1": "0dc88b7a7cf95b05f83f4beb007c1c8350e7bf38",
+      "sha512": "9bb8b237ae704d48d45d45904106832d175aa7b9c9534b6ae54b994936aceb91545310cb1cb051f7d2b30bbb3f259e7116a98d69d6631c2155a83ffc8a6320fa",
+      "fileSize": 920205
     }
   },
   "dependents": [],
