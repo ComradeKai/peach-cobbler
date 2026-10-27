@@ -4,7 +4,7 @@
   "mirrorHerbTimeInTicks": 600,
   "eggHatchMultiplier": 0.5,
   "shinyMethod": {
-    "masuda": 6.0,
+    "masuda": 4.0,
     "crystal": 1.0,
     "always": 1.0
   },

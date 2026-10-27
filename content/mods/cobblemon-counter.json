@@ -1,0 +1,25 @@
+{
+  "name": "Cobblemon Counter",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rj8uLYP4",
+      "slug": "cobblemon-counter",
+      "versionId": "F5AIv8tm",
+      "versionNumber": "1.8.3-neoforge-1.9.2",
+      "filename": "counter-neoforge-1.8.3-1.9.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rj8uLYP4/versions/F5AIv8tm/counter-neoforge-1.8.3-1.9.2.jar",
+      "sha1": "219df9e120e076f972e4d2eee59a3d71ab73050c",
+      "sha512": "60435d2b9e1ec9df7123772f90fec4464298c96240fa72aebfa1779c1ab0e4ee490a2e81b97b9ea7058fd598a92d9f17a7c74688aea9a6acef6cd883a488f07d",
+      "fileSize": 165741
+    }
+  },
+  "dependents": [
+    "wh0wnzrT"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

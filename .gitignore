@@ -4,6 +4,7 @@
 .pack-local.json
 
 # minecraft
+screenshots
 overrides/saves/
 overrides/backups/
 overrides/logs/

@@ -1,6 +1,6 @@
 # Peach Cobbler
 
-**Minecraft 1.21.1 · neoforge 21.1.256**, 175 mods (5 dependencies), 15 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.256**, 180 mods (5 dependencies), 15 resource packs
 
 ## Contents
 
@@ -34,6 +34,9 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
 - [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.3NF`
+- [Cobblemon Counter](https://modrinth.com/project/cobblemon-counter) `1.8.3-neoforge-1.9.2`
+- [Cobblemon Tim Core](https://modrinth.com/project/cobblemon-tim-core) `1.8.3-neoforge-1.36.1`
+- [Cobblemon Unchained](https://modrinth.com/project/cobblemon-unchained) `1.8.3-neoforge-1.7.3`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.4.1`
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.47-fabric+forge+neo`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
@@ -118,6 +121,7 @@
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Enderman Grief](https://modrinth.com/project/no-enderman-grief) `v3.1.0+mc1.20.2-1.21.8+mod`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.6`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.1+1.21.1-neoforge`
 - [Onion Onion](https://modrinth.com/project/onion-onion) `3.1.0`
 - [PaintersInc](https://modrinth.com/project/paintersinc) `2.0.0`
 - [Particle Interactions](https://modrinth.com/project/particle-interactions) `0.4.1`
@@ -139,6 +143,7 @@
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.4.1-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.5.1+1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.5.3+1.21.1-neoforge`
+- [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.6-fabric+forge+neo`

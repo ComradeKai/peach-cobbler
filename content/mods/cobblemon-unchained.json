@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Unchained",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wh0wnzrT",
+      "slug": "cobblemon-unchained",
+      "versionId": "qQqt5hQJ",
+      "versionNumber": "1.8.3-neoforge-1.7.3",
+      "filename": "unchained-neoforge-1.8.3-1.7.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wh0wnzrT/versions/qQqt5hQJ/unchained-neoforge-1.8.3-1.7.3.jar",
+      "sha1": "44c6bdfb5f6055e31893b38d11c30c25852ca21e",
+      "sha512": "46e6b92e8c0f6abc6cd665cdece7fc2eaffadf694162af85c256cc31ef1419350ae006705f2991d18ce92e2f01e0e3ad0262bc2df5bd81f656d7ef883b6af730",
+      "fileSize": 150090
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}
