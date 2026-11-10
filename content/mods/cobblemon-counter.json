@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "rj8uLYP4",
       "slug": "cobblemon-counter",
-      "versionId": "F5AIv8tm",
-      "versionNumber": "1.8.3-neoforge-1.9.2",
-      "filename": "counter-neoforge-1.8.3-1.9.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/rj8uLYP4/versions/F5AIv8tm/counter-neoforge-1.8.3-1.9.2.jar",
-      "sha1": "219df9e120e076f972e4d2eee59a3d71ab73050c",
-      "sha512": "60435d2b9e1ec9df7123772f90fec4464298c96240fa72aebfa1779c1ab0e4ee490a2e81b97b9ea7058fd598a92d9f17a7c74688aea9a6acef6cd883a488f07d",
-      "fileSize": 165741
+      "versionId": "SAAj8IGU",
+      "versionNumber": "1.8.4-neoforge-1.9.4",
+      "filename": "counter-neoforge-1.8.4-1.9.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rj8uLYP4/versions/SAAj8IGU/counter-neoforge-1.8.4-1.9.4.jar",
+      "sha1": "77bdba426fbf7542925ba8cd81dd07937fd8ef33",
+      "sha512": "333453e8bb958e031543cd9eb235e654496074699a774b78d9dde39f87c7e06ccc43dfcc88eb81ee3190c8b9e9b449fa8ea34fced3fecc6e597c5b0e60b7b075",
+      "fileSize": 166055
     }
   },
   "dependents": [

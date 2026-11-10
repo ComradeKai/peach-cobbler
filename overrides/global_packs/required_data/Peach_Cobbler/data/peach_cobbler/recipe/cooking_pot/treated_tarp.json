@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "peach_cobbler:tarp_materials"
+    },
+    {
+      "tag": "peach_cobbler:tarp_materials"
+    },
+    {
+      "tag": "peach_cobbler:tarp_materials"
+    },
+    {
+      "item": "blocksabound:tar"
+    },
+    {
+      "item": "nomansland:resin_oil_bottle"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "kubejs:treated_tarp"
+  }
+}

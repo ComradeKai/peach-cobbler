@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "vvgTqF0n",
       "slug": "offgrid",
-      "versionId": "uujLuKlN",
-      "versionNumber": "1.0.1+1.21.1-neoforge",
-      "filename": "offgrid-neoforge-1.0.1+1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/vvgTqF0n/versions/uujLuKlN/offgrid-neoforge-1.0.1%2B1.21.1.jar",
-      "sha1": "f3761cfbf51e2a3c10a7f0660abada0e42002ada",
-      "sha512": "7fa654e8fefac8807ff99e09d9ceb7c1534b1b439a02091278b9b3d78984e0e83c04f313fe0f7e9809789b572a8b03af4d211b3902e16ff2186541bcf450fb6b",
-      "fileSize": 748192
+      "versionId": "9gwNFgT8",
+      "versionNumber": "1.0.6+1.21.1-neoforge",
+      "filename": "offgrid-neoforge-1.0.6+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vvgTqF0n/versions/9gwNFgT8/offgrid-neoforge-1.0.6%2B1.21.1.jar",
+      "sha1": "b7083481016df94b1d799752045637dfe70310b7",
+      "sha512": "f29983425fe37dde72c38916da34dc3ba482055cace9927ade446d3f0f0e14908385c7b4ab63c020e335b000146ccfe45eeb051cfdf39db0e53d66170cdabdf3",
+      "fileSize": 838905
     }
   },
   "dependents": [],

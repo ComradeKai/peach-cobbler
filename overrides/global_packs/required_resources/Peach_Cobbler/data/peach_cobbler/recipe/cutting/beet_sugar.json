@@ -7,10 +7,24 @@
   ],
   "result": [
     {
+      "chance": 0.75,
       "item": {
-        "chance": 0.75,
         "count": 1,
         "id": "minecraft:sugar"
+      }
+    },
+    {
+      "chance": 0.25,
+      "item": {
+        "count": 1,
+        "id": "minecraft:red_dye"
+      }
+    },
+    {
+      "chance": 0.25,
+      "item": {
+        "count": 1,
+        "id": "minecraft:beetroot_seeds"
       }
     }
   ],

@@ -1,10 +1,25 @@
 {
   "expAllMultiplier": 1.0,
-  "enableExpAll": true,
+  "enableExpAll": false,
   "forceExpAll": false,
   "addBucketToData": true,
   "addSpawnCauseToData": true,
   "preventQuickBallSpam": true,
+  "outOfBattleCaptures": {
+    "value": true,
+    "overrides": {}
+  },
+  "outOfBattleCaptureBallBypass": {
+    "value": [
+      "cobblemon:safari_ball",
+      "cobblemon:master_ball"
+    ],
+    "overrides": {}
+  },
+  "onlyDropInBattle": {
+    "value": false,
+    "overrides": {}
+  },
   "spawnBlacklist": [],
   "spawnWhitelist": [],
   "pokemonEntitiesAreInvulnerable": false,

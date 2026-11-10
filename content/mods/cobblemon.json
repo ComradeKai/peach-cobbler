@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "MdwFAVRL",
       "slug": "cobblemon",
-      "versionId": "Gt09DDui",
-      "versionNumber": "1.8.3NF",
-      "filename": "Cobblemon-neoforge-1.8.3+1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/MdwFAVRL/versions/Gt09DDui/Cobblemon-neoforge-1.8.3%2B1.21.1.jar",
-      "sha1": "5a0acdf980e2366da38381d64690f7b417c6f300",
-      "sha512": "b7034f95a97624a03a536d56940529c89781a5e8fb4a7532fda229bb20530e10c96978b6556989da2085c60a040edb309104d58fe097fa50a195088cfcaff8f9",
-      "fileSize": 141633107
+      "versionId": "xsVHrAsY",
+      "versionNumber": "1.8.4NF",
+      "filename": "Cobblemon-neoforge-1.8.4+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MdwFAVRL/versions/xsVHrAsY/Cobblemon-neoforge-1.8.4%2B1.21.1.jar",
+      "sha1": "33582bdfdf054c64fc114f81a4950bd23f937778",
+      "sha512": "060579fb8ac67ddd131c9cc9076ef512cda9e66e7a584c7c82326be9ef0cbb69ce6c99ff772aa78f990dc1b771bac02f3bbba68a9c7ff68c557009c64f733d04",
+      "fileSize": 141635727
     }
   },
   "dependents": [
